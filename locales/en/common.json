@@ -3,18 +3,27 @@
     "logo": "Genira Model Basing"
   },
   "button": {
-    "logout": "Logout"
+    "cancel": "Cancel",
+    "logout": "Logout",
+    "retry": "Retry",
+    "uploadCancelled": "Upload Cancelled"
   },
   "label": {
+    "cancelUploadModalButtonSecondary": "Continue Uploads",
+    "cancelUploadsModalButtonPrimary": "Cancel Uploads",
+    "cancelUploadsModalTitle": "Cancel remaining uploads?",
+    "dropFile": "Add file to the case",
     "itemSelected": "Item selected",
     "locale": "Locale",
     "openDrawer": "Open Drawer",
+    "rejectModal": "Selected scans will no longer be considered for the case.",
     "tabs": "Tabs"
   },
   "links": {
     "create": "Create",
     "designs": "Designs",
-    "manage": "Manage"
+    "manage": "Manage",
+    "underConstruction": "Under Construction"
   },
   "loading": {
     "unavailable": "Unavailable"
@@ -24,6 +33,11 @@
     "perPage": "Per Page"
   },
   "title": {
-    "manageSubscription": "Manage subscription"
+    "manageSubscription": "Manage subscription",
+    "uploads": "Uploads"
+  },
+  "underConstruction": {
+    "subtitle1": "We're building something special",
+    "subtitle2": "Check back later"
   }
 }
