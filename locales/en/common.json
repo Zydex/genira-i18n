@@ -1,0 +1,29 @@
+{
+  "alt": {
+    "logo": "Genira Model Basing"
+  },
+  "button": {
+    "logout": "Logout"
+  },
+  "label": {
+    "itemSelected": "Item selected",
+    "locale": "Locale",
+    "openDrawer": "Open Drawer",
+    "tabs": "Tabs"
+  },
+  "links": {
+    "create": "Create",
+    "designs": "Designs",
+    "manage": "Manage"
+  },
+  "loading": {
+    "unavailable": "Unavailable"
+  },
+  "table": {
+    "pageAmount": "Amount",
+    "perPage": "Per Page"
+  },
+  "title": {
+    "manageSubscription": "Manage subscription"
+  }
+}

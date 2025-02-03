@@ -1,0 +1,33 @@
+{
+  "alt": {
+    "addUsers": "Add Users",
+    "profile": "User profile"
+  },
+  "button": {
+    "changePassword": "Change Password",
+    "deleteProfile": "Delete Profile",
+    "uploadPhoto": "Upload Photo"
+  },
+  "message": {
+    "changePassword": "A email will be sent with a password change link.",
+    "changePassword_email": "A email will be sent to {{email}} with a password change link.",
+    "deleteProfile": "Your profile will permanently be removed from your organisation.",
+    "deleteProfile_org": "Your profile will permanently be removed from {{org}}.",
+    "linkSent": "Link Sent",
+    "profilePicture": "This helps others recognise you and lets you know that you're signed in to the correct account."
+  },
+  "role": {
+    "accountant": "Accountant",
+    "admin": "Admin",
+    "designer": "Designer",
+    "owner": "Owner",
+    "technician": "Technician"
+  },
+  "title": {
+    "changePassword": "Change Password",
+    "confirmDeleteProfile": "Confirm profile deletion",
+    "deleteProfile": "Delete Profile",
+    "displayName": "Display Name",
+    "name": "Name"
+  }
+}

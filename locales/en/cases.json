@@ -1,0 +1,18 @@
+{
+  "label": {
+    "all": "All",
+    "designed": "Designed",
+    "downloaded": "Downloaded",
+    "estimatedTime": "Estimated time",
+    "issues": "Issues",
+    "itemSelected": "Item selected",
+    "rejected": "Rejected",
+    "search": "Search"
+  },
+  "status": {},
+  "title": {
+    "status": "Status",
+    "caseNumber": "Case Number",
+    "cases": "Cases"
+  }
+}
