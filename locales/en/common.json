@@ -4,9 +4,14 @@
   },
   "button": {
     "cancel": "Cancel",
+    "download": "Download",
     "logout": "Logout",
     "retry": "Retry",
     "uploadCancelled": "Upload Cancelled"
+  },
+  "dialog": {
+    "no": "No",
+    "yes": "Yes"
   },
   "label": {
     "cancelUploadModalButtonSecondary": "Continue Uploads",
@@ -16,6 +21,7 @@
     "itemSelected": "Item selected",
     "locale": "Locale",
     "openDrawer": "Open Drawer",
+    "preparingDownload": "Preparing download",
     "rejectModal": "Selected scans will no longer be considered for the case.",
     "tabs": "Tabs"
   },
@@ -28,12 +34,20 @@
   "loading": {
     "unavailable": "Unavailable"
   },
+  "message": {
+    "noMatches": "Sorry, no matches were found",
+    "noMatchesHelp": "Check for typos or try more general words\nAlternatively, try using the table filters",
+    "noConnection": "Unable to connect, retrying in {{time}}",
+    "reconnecting": "Reconnecting..."
+  },
   "table": {
+    "expandRow": "Expand Row",
     "pageAmount": "Amount",
-    "perPage": "Per Page"
+    "perPage": "Per Page",
   },
   "title": {
     "manageSubscription": "Manage subscription",
+    "profile": "Profile",
     "uploads": "Uploads"
   },
   "underConstruction": {

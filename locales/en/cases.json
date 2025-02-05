@@ -1,17 +1,36 @@
 {
-  "label": {
+  "details": {
+    "case": "Case",
+    "caseInformation": "Case Information"
+  },
+  "filters": {
     "all": "All",
     "designed": "Designed",
     "downloaded": "Downloaded",
-    "estimatedTime": "Estimated time",
-    "issues": "Issues",
-    "itemSelected": "Item selected",
-    "search": "Search"
+    "issues": "Issues"
   },
-  "status": {},
+  "label": {
+    "caseName": "Case Name",
+    "dropFile": "Add file to case",
+    "estimatedTime": "Estimated time",
+    "search": "Search",
+    "scanUploadCancelled": "{{scanName}} (cancelled)"
+  },
+  "message": {
+    "noCases": "No Cases Found",
+    "noScans": "This case has no scans."
+  },
+  "status": {
+    "complete": "Complete",
+    "downloaded": "Downloaded",
+    "failed": "Failed",
+    "generating": "Generating"
+  },
   "title": {
-    "status": "Status",
     "caseNumber": "Case Number",
-    "cases": "Cases"
+    "cases": "Cases",
+    "designs": "Designs",
+    "status": "Status",
+    "uploads": "Uploads"
   }
 }
