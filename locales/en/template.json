@@ -1,0 +1,36 @@
+{
+  "alt": {
+    "modelIcon": "Model"
+  },
+  "button": {
+    "save": "Save",
+    "update": "Update"
+  },
+  "label": {
+    "affixText": "Affix Text",
+    "drainHoles": "Drain Holes",
+    "hollowModel": "Hollow Model",
+    "modelAttachmentTypes": "Attachments",
+    "textStyle": "Text Style"
+  },
+  "options": {
+    "modelAttachmentTypes": {
+      "none": "None",
+      "pillars": "Pillars"
+    },
+    "textStyle": {
+      "embossed": "Embossed",
+      "engraved": "Engraved"
+    }
+  },
+  "placeholder": {
+    "templateName": "Template name is required"
+  },
+  "text": {
+    "addTemplate": "Add Template",
+    "editTemplate": "Edit Template"
+  },
+  "title": {
+    "templateName": "Template Name"
+  }
+}
