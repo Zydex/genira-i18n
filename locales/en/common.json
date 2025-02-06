@@ -1,0 +1,57 @@
+{
+  "alt": {
+    "logo": "Genira Model Basing"
+  },
+  "button": {
+    "cancel": "Cancel",
+    "download": "Download",
+    "logout": "Logout",
+    "retry": "Retry",
+    "uploadCancelled": "Upload Cancelled"
+  },
+  "dialog": {
+    "no": "No",
+    "yes": "Yes"
+  },
+  "label": {
+    "cancelUploadModalButtonSecondary": "Continue Uploads",
+    "cancelUploadsModalButtonPrimary": "Cancel Uploads",
+    "cancelUploadsModalTitle": "Cancel remaining uploads?",
+    "dropFile": "Add file to the case",
+    "itemSelected": "Item selected",
+    "locale": "Locale",
+    "openDrawer": "Open Drawer",
+    "preparingDownload": "Preparing download",
+    "rejectModal": "Selected scans will no longer be considered for the case.",
+    "tabs": "Tabs"
+  },
+  "links": {
+    "create": "Create",
+    "designs": "Designs",
+    "manage": "Manage",
+    "underConstruction": "Under Construction"
+  },
+  "loading": {
+    "unavailable": "Unavailable"
+  },
+  "message": {
+    "noMatches": "Sorry, no matches were found",
+    "noMatchesHelp": "Check for typos or try more general words\nAlternatively, try using the table filters",
+    "noConnection": "Unable to connect, retrying in {{time}}",
+    "reconnecting": "Reconnecting..."
+  },
+  "table": {
+    "expandRow": "Expand Row",
+    "pageAmount": "Amount",
+    "perPage": "Per Page"
+  },
+  "title": {
+    "manageSubscription": "Manage subscription",
+    "profile": "Profile",
+    "uploads": "Uploads"
+  },
+  "underConstruction": {
+    "subtitle1": "We're building something special",
+    "subtitle2": "Check back later"
+  }
+}

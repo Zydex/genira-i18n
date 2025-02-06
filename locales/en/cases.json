@@ -1,0 +1,51 @@
+{
+  "button": {
+    "browse": "Browse"
+  },
+  "details": {
+    "case": "Case",
+    "caseInformation": "Case Information"
+  },
+  "filters": {
+    "all": "All",
+    "designed": "Designed",
+    "downloaded": "Downloaded",
+    "issues": "Issues"
+  },
+  "label": {
+    "caseName": "Case Name",
+    "dropFile": "Add file to case",
+    "estimatedTime": "Estimated time",
+    "search": "Search",
+    "scanUploadCancelled": "{{scanName}} (cancelled)"
+  },
+  "message": {
+    "noCases": "No Cases Found",
+    "noScans": "This case has no scans."
+  },
+  "scans": {
+    "maxillary": "Maxillary",
+    "mandibular": "Mandibular"
+  },
+  "status": {
+    "complete": "Design Complete",
+    "downloaded": "Downloaded",
+    "failed": "Failed",
+    "generating": "Generating",
+    "unknown": "Unknown Status",
+    "uploaded": "Uploaded"
+  },
+  "title": {
+    "caseNumber": "Case Number",
+    "cases": "Cases",
+    "designs": "Designs",
+    "status": "Status",
+    "uploads": "Uploads"
+  },
+  "uploadModal": {
+    "text": {
+      "dragAndDrop": "Drag and drop folders containing intraoral scans",
+      "or": "or"
+    }
+  }
+}

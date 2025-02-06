@@ -1,0 +1,24 @@
+steps:
+  - label: ":node: Linting"
+    command: npm run lint
+    plugins:
+      - docker-compose#v3.9.0:
+          run: app
+    agents:
+      queue: build
+
+  - wait
+
+  - label: ":aws: :s3: Deploy to Dev Environment"
+    commands: |
+      aws s3 cp --sse AES256 --recursive locales s3://i18n-dev-genira-com
+      DISTRIBUTION=$(aws cloudfront list-distributions --query "DistributionList.Items[?Aliases.Items[0]=='i18n.dev.genira.com'].{Id: Id}" | jq -r '.[0].Id')
+      aws cloudfront create-invalidation --distribution-id $$DISTRIBUTION --paths "/*"
+    env:
+      AWS_ASSUME_ROLE_ARN: arn:aws:iam::070520904444:role/i18n-dev-genira-com-deployment
+    plugins:
+      - cultureamp/aws-assume-role
+    agents:
+      queue: deploy
+    branches:
+      - "main"
