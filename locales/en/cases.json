@@ -1,4 +1,7 @@
 {
+  "button": {
+    "browse": "Browse"
+  },
   "details": {
     "case": "Case",
     "caseInformation": "Case Information"
@@ -20,11 +23,17 @@
     "noCases": "No Cases Found",
     "noScans": "This case has no scans."
   },
+  "scans": {
+    "maxillary": "Maxillary",
+    "mandibular": "Mandibular"
+  },
   "status": {
-    "complete": "Complete",
+    "complete": "Design Complete",
     "downloaded": "Downloaded",
     "failed": "Failed",
-    "generating": "Generating"
+    "generating": "Generating",
+    "unknown": "Unknown Status",
+    "uploaded": "Uploaded"
   },
   "title": {
     "caseNumber": "Case Number",
@@ -32,5 +41,11 @@
     "designs": "Designs",
     "status": "Status",
     "uploads": "Uploads"
+  },
+  "uploadModal": {
+    "text": {
+      "dragAndDrop": "Drag and drop folders containing intraoral scans",
+      "or": "or"
+    }
   }
 }
