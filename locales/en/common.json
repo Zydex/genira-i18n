@@ -3,10 +3,13 @@
     "logo": "Genira Model Basing"
   },
   "button": {
+    "add": "Add",
     "cancel": "Cancel",
     "download": "Download",
     "logout": "Logout",
+    "remove": "Remove",
     "retry": "Retry",
+    "update": "Update",
     "uploadCancelled": "Upload Cancelled"
   },
   "dialog": {
