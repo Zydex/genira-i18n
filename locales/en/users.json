@@ -1,25 +1,57 @@
 {
   "alt": {
+    "addUsers": "Add Users",
     "profile": "User profile"
   },
   "button": {
+    "add": "Add User",
     "changePassword": "Change Password",
+    "changeRole": "Change Role",
     "deleteProfile": "Delete Profile",
+    "remove": "Remove User",
+    "restoreAccess": "Restore Access",
     "uploadPhoto": "Upload Photo"
   },
+  "label": {
+    "search": "Search for a user"
+  },
   "message": {
-    "changePassword": "A email will be sent with a password change link.",
-    "changePassword_email": "A email will be sent to {{email}} with a password change link.",
+    "changePassword": "An email will be sent with a password change link.",
+    "changePassword_email": "An email will be sent to {{email}} with a password change link.",
+    "changeRole": "Update role:",
+    "changeRole_user": "Update the role of {{user}}:",
+    "confirmDelAccounts_one": "This user will no longer have access to this organisation.",
+    "confirmDelAccounts_other": "These users will no longer have access to this organisation.",
+    "confirmDelAccounts_org_one": "This user will no longer have access to {{org}}.",
+    "confirmDelAccounts_org_other": "These users will no longer have access to {{org}}.",
     "deleteProfile": "Your profile will permanently be removed from your organisation.",
     "deleteProfile_org": "Your profile will permanently be removed from {{org}}.",
     "linkSent": "Link sent",
-    "profilePicture": "This helps others recognise you and lets you know that you're signed in to the correct account."
+    "profilePicture": "This helps others recognise you and lets you know that you're signed in to the correct account.",
+    "userPageInfo": "The users in your organisation are shown on this page"
+  },
+  "role": {
+    "accountant": "Accountant",
+    "admin": "Admin",
+    "designer": "Designer",
+    "owner": "Owner",
+    "technician": "Technician"
   },
   "title": {
     "changePassword": "Change Password",
+    "changeRole": "Change Role",
+    "changeRole_user": "Update the role of {{user}}:",
     "confirmDeleteProfile": "Confirm profile deletion",
     "deleteProfile": "Delete Profile",
     "displayName": "Display Name",
-    "profile": "Profile"
+    "edit": "Edit",
+    "email": "Email",
+    "invite": "Invite users",
+    "name": "Name",
+    "profile": "Profile",
+    "remove_one": "Remove user?",
+    "remove_other": "Remove users?",
+    "restoreAccess": "Restore access for user?",
+    "role": "Role"
   }
 }
