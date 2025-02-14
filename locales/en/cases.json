@@ -24,8 +24,8 @@
     "noScans": "This case has no scans."
   },
   "scans": {
-    "maxillary": "Maxillary",
-    "mandibular": "Mandibular"
+    "upper": "Maxillary",
+    "lower": "Mandibular"
   },
   "status": {
     "complete": "Design Complete",

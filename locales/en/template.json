@@ -11,7 +11,9 @@
     "drainHoles": "Drain Holes",
     "hollowModel": "Hollow Model",
     "modelAttachmentTypes": "Attachments",
-    "textStyle": "Text Style"
+    "textStyle": "Text Style",
+    "default": "Default",
+    "newTemplate": "New Template"
   },
   "options": {
     "modelAttachmentTypes": {
