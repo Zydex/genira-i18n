@@ -8,12 +8,12 @@
   },
   "label": {
     "affixText": "Affix Text",
+    "default": "Default",
     "drainHoles": "Drain Holes",
     "hollowModel": "Hollow Model",
+    "newTemplate": "New Template",
     "modelAttachmentTypes": "Attachments",
-    "textStyle": "Text Style",
-    "default": "Default",
-    "newTemplate": "New Template"
+    "textStyle": "Text Style"
   },
   "options": {
     "modelAttachmentTypes": {
