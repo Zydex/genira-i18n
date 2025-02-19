@@ -1,6 +1,17 @@
 {
-    "description": {
-        "paymentIssue": "There was an issue with your payment details.",
-        "outOfCredits": "You will need to purchase more credits to continue to generate parts."
-    }
+  "button": {
+    "subscribeLater": "Subscribe Later",
+    "subscriptionOptions": "Subscription Options"
+  },
+  "description": {
+    "outOfCredits": "You will need to purchase more credits to continue to generate parts.",
+    "paymentIssue": "There was an issue with your payment details.",
+    "trialEnded": "Your trial has ended.",
+    "trialEnding": "Your trial is ending."
+  },
+  "title": {
+    "trialEnding": "Trial ending in {{amount}} days",
+    "trialEndingUnknown": "Trial ending",
+    "trialEnded": "Trial has ended"
+  }
 }
