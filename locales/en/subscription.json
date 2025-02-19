@@ -6,12 +6,12 @@
   "description": {
     "outOfCredits": "You will need to purchase more credits to continue to generate parts.",
     "paymentIssue": "There was an issue with your payment details.",
-    "trialEnded": "Your trial has ending",
-    "trialEnding": "Your trial is ending"
+    "trialEnded": "Your trial has ended.",
+    "trialEnding": "Your trial is ending."
   },
   "title": {
-    "trialEnded": "Your trial has ending",
-    "trialEnding": "Your trial is ending",
-    "trialEndingUnknown": "Your trial is ending"
+    "trialEnding": "Trial ending in {{amount}} days",
+    "trialEndingUnknown": "Trial ending",
+    "trialEnded": "Trial has ended"
   }
 }

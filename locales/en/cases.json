@@ -45,7 +45,7 @@
   },
   "uploadModal": {
     "text": {
-      "designTemplate": "Design Template:",
+      "designTemplate": "Design Template",
       "dragAndDrop": "Drag and drop folders containing intraoral scans",
       "or": "or",
       "processUploads": "Process",
