@@ -27,6 +27,7 @@
     "deleteProfile": "Your profile will permanently be removed from your organisation.",
     "deleteProfile_org": "Your profile will permanently be removed from {{org}}.",
     "linkSent": "Link sent",
+    "loginLoadError": "Error loading log-in. Please try again later.",
     "profilePicture": "This helps others recognise you and lets you know that you're signed in to the correct account.",
     "userPageInfo": "The users in your organisation are shown on this page"
   },
