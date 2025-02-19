@@ -39,13 +39,17 @@
     "caseNumber": "Case Number",
     "cases": "Cases",
     "designs": "Designs",
+    "name": "Name",
     "status": "Status",
     "uploads": "Uploads"
   },
   "uploadModal": {
     "text": {
+      "designTemplate": "Design Template:",
       "dragAndDrop": "Drag and drop folders containing intraoral scans",
-      "or": "or"
+      "or": "or",
+      "processUploads": "Process",
+      "title": "Upload Scans"
     }
   }
 }
