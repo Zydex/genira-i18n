@@ -4,6 +4,7 @@
   },
   "button": {
     "add": "Add",
+    "refresh": "Refresh",
     "cancel": "Cancel",
     "download": "Download",
     "logout": "Logout",
@@ -27,7 +28,9 @@
     "openDrawer": "Open Drawer",
     "preparingDownload": "Preparing download",
     "rejectModal": "Selected scans will no longer be considered for the case.",
-    "tabs": "Tabs"
+    "settingsTab": "Settings Tab",
+    "tabs": "Tabs",
+    "users": "Users"
   },
   "links": {
     "create": "Create",
@@ -50,6 +53,7 @@
     "perPage": "Per Page"
   },
   "title": {
+    "manage": "Manage",
     "manageSubscription": "Manage subscription",
     "profile": "Profile",
     "uploads": "Uploads"
