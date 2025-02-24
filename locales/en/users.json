@@ -13,7 +13,8 @@
     "uploadPhoto": "Upload Photo"
   },
   "label": {
-    "search": "Search for a user"
+    "search": "Search for a user",
+    "users": "Users"
   },
   "message": {
     "changePassword": "An email will be sent with a password change link.",
