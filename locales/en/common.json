@@ -9,6 +9,7 @@
     "logout": "Logout",
     "remove": "Remove",
     "retry": "Retry",
+    "save": "Save",
     "update": "Update",
     "uploadCancelled": "Upload Cancelled"
   },
