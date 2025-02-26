@@ -39,7 +39,8 @@
     "underConstruction": "Under Construction"
   },
   "loading": {
-    "unavailable": "Unavailable"
+    "unavailable": "Unavailable",
+    "loading": "Loading"
   },
   "message": {
     "noMatches": "Sorry, no matches were found",
