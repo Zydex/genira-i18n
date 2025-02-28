@@ -6,6 +6,12 @@
     "case": "Case",
     "caseInformation": "Case Information"
   },
+  "error": {
+    "emptyMesh": {
+      "message": "",
+      "title": ""
+    }
+  },
   "filters": {
     "all": "All",
     "designed": "Designed",
@@ -44,12 +50,23 @@
     "uploads": "Uploads"
   },
   "uploadModal": {
+    "multipleScans": {
+      "title": "Multiple scans",
+      "message": "This case contains multiple scans that could be used. The most recent scans for the maxillary and/or mandibular will be used."
+    },
     "text": {
       "designTemplate": "Design Template",
       "dragAndDrop": "Drag and drop folders containing intraoral scans",
       "or": "or",
       "processUploads": "Process",
+      "scansHaveIssues": "{{count}} scans have issues",
       "title": "Upload Scans"
+    }
+  },
+  "warning": {
+    "multipleUpperOrLower": {
+      "message": "",
+      "title": ""
     }
   }
 }
