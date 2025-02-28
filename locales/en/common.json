@@ -4,10 +4,11 @@
   },
   "button": {
     "add": "Add",
-    "refresh": "Refresh",
     "cancel": "Cancel",
+    "close": "Close",
     "download": "Download",
     "logout": "Logout",
+    "refresh": "Refresh",
     "remove": "Remove",
     "retry": "Retry",
     "save": "Save",
