@@ -23,7 +23,9 @@
     "dropFile": "Add file to case",
     "estimatedTime": "Estimated time",
     "search": "Search",
-    "scanUploadCancelled": "{{scanName}} (cancelled)"
+    "scanUploadCancelled": "{{scanName}} (cancelled)",
+    "uploading": "Uploading",
+    "uploadComplete": "Upload complete"
   },
   "message": {
     "noCases": "No Cases Found",
