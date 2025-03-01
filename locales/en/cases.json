@@ -19,6 +19,8 @@
     "issues": "Issues"
   },
   "label": {
+    "addingCases": "Adding cases",
+    "casesAdded": "Cases added",
     "caseName": "Case Name",
     "dropFile": "Add file to case",
     "estimatedTime": "Estimated time",
