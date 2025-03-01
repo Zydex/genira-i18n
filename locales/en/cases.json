@@ -56,7 +56,7 @@
     },
     "text": {
       "designTemplate": "Design Template",
-      "dragAndDrop": "Drag & drop folders containing intraoral scans or PLY and STL intraoral scans to create cases",
+      "dragAndDrop": "Drag & drop files or folders containing PLY or STL intraoral scans",
       "or": "or",
       "processUploads": "Process",
       "scansHaveIssues": "{{count}} scans have issues",
