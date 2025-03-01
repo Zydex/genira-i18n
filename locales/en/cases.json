@@ -1,6 +1,7 @@
 {
   "button": {
-    "browse": "Browse"
+    "browse": "Browse",
+    "downloadDesigns": "Download Designs"
   },
   "details": {
     "case": "Case",
@@ -21,6 +22,11 @@
   "label": {
     "caseName": "Case Name",
     "dropFile": "Add file to case",
+    "deleteDesign": "Delete design",
+    "downloadCases": "Download Cases",
+    "downloadScans": "Download Scans",
+    "enterCaseName": "Enter case name",
+    "enterNewCaseName": "Enter a new name for the case",
     "estimatedTime": "Estimated time",
     "search": "Search",
     "scanUploadCancelled": "{{scanName}} (cancelled)"
