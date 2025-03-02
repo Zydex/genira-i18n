@@ -28,6 +28,7 @@
     "enterCaseName": "Enter case name",
     "enterNewCaseName": "Enter a new name for the case",
     "estimatedTime": "Estimated time",
+    "renameDesign": "Rename design",
     "search": "Search",
     "scanUploadCancelled": "{{scanName}} (cancelled)"
   },
@@ -46,6 +47,9 @@
     "generating": "Generating",
     "unknown": "Unknown Status",
     "uploaded": "Uploaded"
+  },
+  "text": {
+    "permanentlyRemovePart": "This part will be permanently removed from the system."
   },
   "title": {
     "caseNumber": "Case Number",
