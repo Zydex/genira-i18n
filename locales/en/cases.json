@@ -20,6 +20,8 @@
     "issues": "Issues"
   },
   "label": {
+    "addingCases": "Adding cases",
+    "casesAdded": "Cases added",
     "caseName": "Case Name",
     "dropFile": "Add file to case",
     "deleteDesign": "Delete design",
@@ -30,7 +32,9 @@
     "estimatedTime": "Estimated time",
     "renameDesign": "Rename design",
     "search": "Search",
-    "scanUploadCancelled": "{{scanName}} (cancelled)"
+    "scanUploadCancelled": "{{scanName}} (cancelled)",
+    "uploading": "Uploading",
+    "uploadComplete": "Upload complete"
   },
   "message": {
     "noCases": "No Cases Found",
