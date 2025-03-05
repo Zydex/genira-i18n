@@ -1,6 +1,8 @@
 {
   "button": {
     "browse": "Browse",
+    "browse_directories": "Browse Folders",
+    "browse_files": "Browse Files",
     "downloadDesigns": "Download Designs"
   },
   "details": {
