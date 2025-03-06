@@ -1,6 +1,8 @@
 {
   "button": {
     "browse": "Browse",
+    "browseDirectories": "Browse Folders",
+    "browseFiles": "Browse Files",
     "downloadDesigns": "Download Designs"
   },
   "details": {
@@ -56,6 +58,7 @@
     "permanentlyRemovePart": "This part will be permanently removed from the system."
   },
   "title": {
+    "caseName": "Case Name",
     "caseNumber": "Case Number",
     "cases": "Cases",
     "designs": "Designs",
