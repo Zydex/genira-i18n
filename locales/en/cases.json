@@ -44,7 +44,9 @@
   },
   "scans": {
     "upper": "Maxillary",
-    "lower": "Mandibular"
+    "lower": "Mandibular",
+    "input": "Input",
+    "designed": "Designed"
   },
   "status": {
     "complete": "Design Complete",
