@@ -103,6 +103,7 @@
     "text": {
       "designTemplate": "Design Template",
       "dragAndDrop": "Drag & drop files or folders containing PLY or STL intraoral scans",
+      "hoverDragAndDrop": "Drop case folders or intraoral scans to create designs",
       "or": "or",
       "processUploads": "Process",
       "scansHaveIssues": "{{count}} scans have issues",
