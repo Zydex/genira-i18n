@@ -1,6 +1,7 @@
 {
   "alt": {
-    "logo": "Genira Model Basing"
+    "logo": "Genira Model Basing",
+    "noSearchResults": "No Search Results"
   },
   "button": {
     "add": "Add",

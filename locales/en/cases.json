@@ -44,6 +44,9 @@
     "noCases": "No Cases Found",
     "noScans": "This case has no scans."
   },
+  "caseInspector": {
+    "caseInformation": "Case Information"
+  },
   "scans": {
     "upper": "Maxillary",
     "lower": "Mandibular"
