@@ -54,6 +54,12 @@
     "reconnecting": "Reconnecting..."
   },
   "table": {
+    "emptyState": {
+      "noMatches": {
+        "header": "Sorry, no matches were found",
+        "paragraph": "Check for typos or try more general words\nAlternatively, try using the table filters"
+      }
+    },
     "expandRow": "Expand Row",
     "pageAmount": "Amount",
     "perPage": "Per Page"

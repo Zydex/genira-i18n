@@ -1,5 +1,7 @@
 {
   "button": {
+    "addFolders": "Add Folders",
+    "addScans": "Add Scans",
     "browse": "Browse",
     "browseDirectories": "Browse Folders",
     "browseFiles": "Browse Files",
@@ -53,6 +55,30 @@
     "generating": "Generating",
     "unknown": "Unknown Status",
     "uploaded": "Uploaded"
+  },
+  "table": {
+    "emptyState": {
+      "all": {
+        "header": "No designs created yet",
+        "paragraph": "Design cases will appear here when scans have been uploaded\nTo get started, select the Create button"
+      },
+      "designed": {
+        "header": "No designs created yet",
+        "paragraph": "Design cases will appear here when scans have been uploaded\nTo get started, select the Create button"
+      },
+      "issues":  {
+        "header": "No design issues",
+        "paragraph": "Any designs that have issues will appear here"
+      },
+      "downloaded":  {
+        "header": "No designs downloaded",
+        "paragraph": "Designs that have been downloaded will appear here"
+      },
+      "rejected": {
+        "header": "No designs rejected",
+        "paragraph": "Designs that have been rejected will appear here"
+      }
+    }
   },
   "text": {
     "permanentlyRemovePart": "This part will be permanently removed from the system."
