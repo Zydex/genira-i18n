@@ -27,6 +27,7 @@
     "addingCases": "Adding cases",
     "casesAdded": "Cases added",
     "caseName": "Case Name",
+    "designed": "Designed",
     "dropFile": "Add file to case",
     "deleteDesign": "Delete design",
     "downloadCases": "Download Cases",
@@ -35,6 +36,7 @@
     "enterNewCaseName": "Enter a new name for the case",
     "estimatedTime": "Estimated time",
     "renameDesign": "Rename design",
+    "scan": "Scan",
     "search": "Search",
     "scanUploadCancelled": "{{scanName}} (cancelled)",
     "uploading": "Uploading",
@@ -48,8 +50,8 @@
     "caseInformation": "Case Information"
   },
   "scans": {
-    "upper": "Maxillary",
-    "lower": "Mandibular"
+    "lower": "Mandibular",
+    "upper": "Maxillary"
   },
   "status": {
     "complete": "Design Complete",
