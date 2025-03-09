@@ -26,6 +26,8 @@
     "cancelUploadModalButtonSecondary": "Continue Uploads",
     "cancelUploadsModalButtonPrimary": "Cancel Uploads",
     "cancelUploadsModalTitle": "Cancel remaining uploads?",
+    "deletingCases_one": "Deleting {{count}} case",
+    "deletingCases_other": "Deleting {{count}} cases",
     "dropFile": "Add file to the case",
     "itemSelected_one": "1 Item selected",
     "itemSelected_other": "{{count}} Items selected",
@@ -78,6 +80,8 @@
   "error": {
     "emptyModelFile_one": "{{count}} uploaded scan has no readable data",
     "emptyModelFile_other": "{{count}} uploaded scans have no readable data",
+    "failedDeletion_one": "Failed to delete {{count}} case",
+    "failedDeletion_other": "Failed to delete {{count}} cases",
     "unspecified": "An unknown error occurred."
   }
 }
