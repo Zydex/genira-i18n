@@ -1,5 +1,7 @@
 {
   "button": {
+    "addFolders": "Add Folders",
+    "addScans": "Add Scans",
     "browse": "Browse",
     "browseDirectories": "Browse Folders",
     "browseFiles": "Browse Files",
@@ -25,6 +27,7 @@
     "addingCases": "Adding cases",
     "casesAdded": "Cases added",
     "caseName": "Case Name",
+    "designed": "Designed",
     "dropFile": "Add file to case",
     "deleteDesign": "Delete design",
     "downloadCases": "Download Cases",
@@ -33,6 +36,7 @@
     "enterNewCaseName": "Enter a new name for the case",
     "estimatedTime": "Estimated time",
     "renameDesign": "Rename design",
+    "scan": "Scan",
     "search": "Search",
     "scanUploadCancelled": "{{scanName}} (cancelled)",
     "uploading": "Uploading",
@@ -42,9 +46,12 @@
     "noCases": "No Cases Found",
     "noScans": "This case has no scans."
   },
+  "caseInspector": {
+    "caseInformation": "Case Information"
+  },
   "scans": {
-    "upper": "Maxillary",
-    "lower": "Mandibular"
+    "lower": "Mandibular",
+    "upper": "Maxillary"
   },
   "status": {
     "complete": "Design Complete",
@@ -53,6 +60,30 @@
     "generating": "Generating",
     "unknown": "Unknown Status",
     "uploaded": "Uploaded"
+  },
+  "table": {
+    "emptyState": {
+      "all": {
+        "header": "No designs created yet",
+        "paragraph": "Design cases will appear here when scans have been uploaded\nTo get started, select the Create button"
+      },
+      "designed": {
+        "header": "No designs created yet",
+        "paragraph": "Design cases will appear here when scans have been uploaded\nTo get started, select the Create button"
+      },
+      "issues":  {
+        "header": "No design issues",
+        "paragraph": "Any designs that have issues will appear here"
+      },
+      "downloaded":  {
+        "header": "No designs downloaded",
+        "paragraph": "Designs that have been downloaded will appear here"
+      },
+      "rejected": {
+        "header": "No designs rejected",
+        "paragraph": "Designs that have been rejected will appear here"
+      }
+    }
   },
   "text": {
     "permanentlyRemovePart": "This part will be permanently removed from the system."
@@ -74,6 +105,7 @@
     "text": {
       "designTemplate": "Design Template",
       "dragAndDrop": "Drag & drop files or folders containing PLY or STL intraoral scans",
+      "hoverDragAndDrop": "Drop case folders or intraoral scans to create designs",
       "or": "or",
       "processUploads": "Process",
       "scansHaveIssues": "{{count}} scans have issues",
