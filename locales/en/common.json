@@ -76,6 +76,8 @@
     "subtitle2": "Check back later"
   },
   "error": {
+    "emptyModelFile_one": "{{count}} uploaded scan has no readable data",
+    "emptyModelFile_other": "{{count}} uploaded scans have no readable data",
     "unspecified": "An unknown error occurred."
   }
 }
