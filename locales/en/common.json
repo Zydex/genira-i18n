@@ -36,7 +36,9 @@
     "rejectModal": "Selected scans will no longer be considered for the case.",
     "settingsTab": "Settings Tab",
     "tabs": "Tabs",
-    "users": "Users"
+    "users": "Users",
+    "deletingCases_one": "Deleting {{count}} case",
+    "deletingCases_other": "Deleting {{count}} cases"
   },
   "links": {
     "create": "Create",
