@@ -86,7 +86,8 @@
     }
   },
   "text": {
-    "permanentlyRemovePart": "This part will be permanently removed from the system."
+    "permanentlyRemoveCase": "This case will be permanently removed from the system.",
+    "permanentlyRemoveFile": "This file will be permanently removed from the system."
   },
   "title": {
     "caseName": "Case Name",
