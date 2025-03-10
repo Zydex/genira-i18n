@@ -9,16 +9,16 @@ steps:
 
   - wait
 
-  - label: ":aws: :s3: Deploy to Dev Environment"
+  - label: ":aws: :s3: Deploy to Staging Environment"
     commands: |
-      aws s3 cp --sse AES256 --recursive locales s3://i18n-dev-genira-com
-      DISTRIBUTION=$(aws cloudfront list-distributions --query "DistributionList.Items[?Aliases.Items[0]=='i18n.dev.genira.com'].{Id: Id}" | jq -r '.[0].Id')
+      aws s3 cp --sse AES256 --recursive locales s3://i18n-staging-genira-com
+      DISTRIBUTION=$(aws cloudfront list-distributions --query "DistributionList.Items[?Aliases.Items[0]=='i18n.staging.genira.com'].{Id: Id}" | jq -r '.[0].Id')
       aws cloudfront create-invalidation --distribution-id $$DISTRIBUTION --paths "/*"
     env:
-      AWS_ASSUME_ROLE_ARN: arn:aws:iam::070520904444:role/i18n-dev-genira-com-deployment
+      AWS_ASSUME_ROLE_ARN: arn:aws:iam::976193244189:role/i18n-staging-genira-com-deployment
     plugins:
       - cultureamp/aws-assume-role
     agents:
       queue: deploy
-    branches:
-      - "main"
+    # branches:
+    #   - "main"
