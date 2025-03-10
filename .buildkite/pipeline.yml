@@ -20,5 +20,5 @@ steps:
       - cultureamp/aws-assume-role
     agents:
       queue: deploy
-    # branches:
-    #   - "main"
+    branches:
+      - "main"
