@@ -58,6 +58,7 @@
     "downloaded": "Downloaded",
     "failed": "Failed",
     "generating": "Generating",
+    "pendingUpload": "Uploading",
     "unknown": "Unknown Status",
     "uploaded": "Uploaded"
   },
