@@ -57,7 +57,8 @@
     "complete": "Design Complete",
     "downloaded": "Downloaded",
     "failed": "Failed",
-    "generating": "Generating",
+    "processing": "Processing",
+    "pendingUpload": "Uploading",
     "unknown": "Unknown Status",
     "uploaded": "Uploaded"
   },
@@ -78,6 +79,14 @@
       "downloaded": {
         "header": "No designs downloaded",
         "paragraph": "Designs that have been downloaded will appear here"
+      },
+      "processing":  {
+        "header": "No designs currently being processed",
+        "paragraph": "Designs that are processed will appear here"
+      },
+      "issues":  {
+        "header": "No design issues",
+        "paragraph": "Any designs that have issues will appear here"
       },
       "rejected": {
         "header": "No designs rejected",
