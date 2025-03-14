@@ -13,8 +13,12 @@
   },
   "error": {
     "emptyMesh": {
-      "message": "",
-      "title": ""
+      "message": "Scan geometry data cannot be found",
+      "title": "Empty Scan"
+    },
+    "multipleUpperOrLower": {
+      "message": "Multiple maxillary or mandibular scans detected",
+      "title": "Duplicate Scans"
     }
   },
   "filters": {
