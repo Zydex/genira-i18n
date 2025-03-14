@@ -13,8 +13,8 @@
   },
   "error": {
     "emptyMesh": {
-      "message": "",
-      "title": ""
+      "message": "Scan geometry data cannot be found",
+      "title": "Empty Scan"
     }
   },
   "filters": {
@@ -118,14 +118,21 @@
       "hoverDragAndDrop": "Drop case folders or intraoral scans to create designs",
       "or": "or",
       "processUploads": "Process",
-      "scansHaveIssues": "{{count}} scans have issues",
+      "scansHaveIssues_one": "{{count}} scans have issues",
+      "scansHaveIssues_other": "{{count}} scans have issues",
       "title": "Upload Scans"
     }
   },
   "warning": {
+    "missingUpperOrLower": {
+      "message": "Case is missing a mandibular or maxillary scan",
+      "title": "Missing scan"
+    }
+  },
+  "duplicate": {
     "multipleUpperOrLower": {
-      "message": "",
-      "title": ""
+      "message": "Multiple maxillary or mandibular scans detected",
+      "title": "Duplicate Scans"
     }
   }
 }
