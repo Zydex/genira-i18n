@@ -103,7 +103,7 @@
     "name": "Name",
     "status": "Status",
     "uploads": "Uploads",
-    "received": "Recevied"
+    "received": "Received"
   },
   "toast": {
     "failedToGenerateZip": "Failed to generate the zip file",
