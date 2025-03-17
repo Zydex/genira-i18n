@@ -106,9 +106,9 @@
   },
   "toast": {
     "failedToGenerateZip": "Failed to generate the zip file",
-    "statusUpdateFailed":"Failed to change case status to downloaded.",
-    "statusUpdatedToDownloaded": "Case {{caseName}} moved from designed to downloaded!",
-    "unableToDownloadFiles": "Unable to download files."
+    "statusUpdateFailed":"Failed to change case status to downloaded",
+    "statusUpdatedToDownloaded": "Case {{caseName}} moved from designed to downloaded",
+    "unableToDownloadFiles": "Unable to download files"
   },
   "uploadModal": {
     "multipleScans": {
