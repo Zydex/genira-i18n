@@ -101,9 +101,9 @@
     "cases": "Cases",
     "designs": "Designs",
     "name": "Name",
+    "received": "Received",
     "status": "Status",
-    "uploads": "Uploads",
-    "received": "Received"
+    "uploads": "Uploads"
   },
   "toast": {
     "failedToGenerateZip": "Failed to generate the zip file",
