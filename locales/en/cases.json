@@ -102,7 +102,8 @@
     "designs": "Designs",
     "name": "Name",
     "status": "Status",
-    "uploads": "Uploads"
+    "uploads": "Uploads",
+    "received": "Recevied"
   },
   "toast": {
     "failedToGenerateZip": "Failed to generate the zip file",
