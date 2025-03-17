@@ -39,6 +39,7 @@
     "scan": "Scan",
     "search": "Search",
     "scanUploadCancelled": "{{scanName}} (cancelled)",
+    "selectDownloadOption": "select download option",
     "uploading": "Uploading",
     "uploadComplete": "Upload complete"
   },
@@ -84,10 +85,6 @@
         "header": "No designs currently being processed",
         "paragraph": "Designs that are processed will appear here"
       },
-      "issues":  {
-        "header": "No design issues",
-        "paragraph": "Any designs that have issues will appear here"
-      },
       "rejected": {
         "header": "No designs rejected",
         "paragraph": "Designs that have been rejected will appear here"
@@ -106,6 +103,12 @@
     "name": "Name",
     "status": "Status",
     "uploads": "Uploads"
+  },
+  "toast": {
+    "failedToGenerateZip": "Failed to generate the zip file",
+    "statusUpdateFailed":"Failed to change case status to downloaded.",
+    "statusUpdatedToDownloaded": "Case {{caseName}} moved from designed to downloaded!",
+    "unableToDownloadFiles": "Unable to download files."
   },
   "uploadModal": {
     "multipleScans": {
