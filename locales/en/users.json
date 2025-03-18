@@ -13,10 +13,12 @@
     "uploadPhoto": "Upload Photo"
   },
   "label": {
+    "enterEmails": "Enter email, comma separated",
     "search": "Search for a user",
     "users": "Users"
   },
   "message": {
+    "addUsers": "Enter emails below to invite users to this organisation.",
     "changePassword": "An email will be sent with a password change link.",
     "changePassword_email": "An email will be sent to {{email}} with a password change link.",
     "changeRole": "Update role:",
