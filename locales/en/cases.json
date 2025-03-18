@@ -81,7 +81,7 @@
         "header": "No designs downloaded",
         "paragraph": "Designs that have been downloaded will appear here"
       },
-      "processing":  {
+      "processing": {
         "header": "No designs currently being processed",
         "paragraph": "Designs that are processed will appear here"
       },
@@ -106,7 +106,7 @@
   },
   "toast": {
     "failedToGenerateZip": "Failed to generate the zip file",
-    "statusUpdateFailed":"Failed to change case status to downloaded",
+    "statusUpdateFailed": "Failed to change case status to downloaded",
     "statusUpdatedToDownloaded": "Case {{caseName}} moved from designed to downloaded",
     "unableToDownloadFiles": "Unable to download files"
   },
@@ -121,8 +121,8 @@
       "hoverDragAndDrop": "Drop case folders or intraoral scans to create designs",
       "or": "or",
       "processUploads": "Process",
-      "scansHaveIssues_one": "{{count}} scan has issues",
-      "scansHaveIssues_other": "{{count}} scans have issues",
+      "scansHaveIssues_one": "{{count}} case has issues",
+      "scansHaveIssues_other": "{{count}} cases have issues",
       "title": "Upload Scans"
     }
   },
