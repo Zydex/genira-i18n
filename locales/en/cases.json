@@ -51,7 +51,9 @@
     "caseInformation": "Case Information"
   },
   "scans": {
+    "combined": "Combined",
     "lower": "Mandibular",
+    "unspecified": "Unspecified",
     "upper": "Maxillary"
   },
   "status": {
