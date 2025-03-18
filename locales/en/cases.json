@@ -111,7 +111,9 @@
     "failedToGenerateZip": "Failed to generate the zip file",
     "statusUpdateFailed": "Failed to change case status to downloaded",
     "statusUpdatedToDownloaded": "Case {{caseName}} moved from designed to downloaded",
-    "unableToDownloadFiles": "Unable to download files"
+    "unableToDownloadFiles": "Unable to download files",
+    "allCasesNotReadyToDownload": "The selected cases are not ready for download",
+    "someCasesNotReadyToDownload": "Some of the selected cases are not ready for download"
   },
   "uploadModal": {
     "multipleScans": {
