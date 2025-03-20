@@ -5,7 +5,8 @@
     "browse": "Browse",
     "browseDirectories": "Browse Folders",
     "browseFiles": "Browse Files",
-    "downloadDesigns": "Download Designs"
+    "downloadDesigns": "Download Designs",
+    "sendToFunnel": "Send To Funnel"
   },
   "details": {
     "case": "Case",
@@ -41,7 +42,8 @@
     "scanUploadCancelled": "{{scanName}} (cancelled)",
     "selectDownloadOption": "select download option",
     "uploading": "Uploading",
-    "uploadComplete": "Upload complete"
+    "uploadComplete": "Upload complete",
+    "sendingToFunnel": "Sending to funnel"
   },
   "message": {
     "noCases": "No Cases Found",
