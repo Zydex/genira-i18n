@@ -16,6 +16,10 @@
     "emptyMesh": {
       "message": "Scan geometry data cannot be found",
       "title": "Empty Scan"
+    },
+    "missingUpperAndLower": {
+      "message": "Case is missing both a mandibular and maxillary scan",
+      "title": "Missing scans"
     }
   },
   "filters": {
