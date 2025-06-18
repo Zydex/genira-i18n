@@ -119,7 +119,9 @@
     "statusUpdatedToDownloaded": "Case {{caseName}} moved from designed to downloaded",
     "unableToDownloadFiles": "Unable to download files",
     "allCasesNotReadyToDownload": "The selected cases are not ready for download",
-    "someCasesNotReadyToDownload": "Some of the selected cases are not ready for download"
+    "someCasesNotReadyToDownload": "Some of the selected cases are not ready for download",
+    "processingUploads": "Processing {{amount}}/{{total}} cases for download",
+    "processingUpload": "Processing case for download"
   },
   "uploadModal": {
     "multipleScans": {
