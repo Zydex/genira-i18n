@@ -8,9 +8,18 @@
     "downloadDesigns": "Download Designs",
     "sendToFunnel": "Send To Funnel"
   },
+  "caseInspector": {
+    "caseInformation": "Case Information"
+  },
   "details": {
     "case": "Case",
     "caseInformation": "Case Information"
+  },
+  "duplicate": {
+    "multipleUpperOrLower": {
+      "message": "Multiple maxillary or mandibular scans detected",
+      "title": "Duplicate Scans"
+    }
   },
   "error": {
     "emptyMesh": {
@@ -30,31 +39,28 @@
   },
   "label": {
     "addingCases": "Adding cases",
-    "casesAdded": "Cases added",
     "caseName": "Case Name",
-    "designedModel": "Designed",
-    "dropFile": "Add file to case",
+    "casesAdded": "Cases added",
     "deleteDesign": "Delete design",
+    "designedModel": "Designed",
     "downloadCases": "Download Cases",
     "downloadScans": "Download Scans",
+    "dropFile": "Add file to case",
     "enterCaseName": "Enter case name",
     "enterNewCaseName": "Enter a new name for the case",
     "estimatedTime": "Estimated time",
     "renameDesign": "Rename design",
     "scan": "Scan",
-    "search": "Search",
     "scanUploadCancelled": "{{scanName}} (cancelled)",
+    "search": "Search",
     "selectDownloadOption": "select download option",
-    "uploading": "Uploading",
+    "sendingToFunnel": "Sending to funnel",
     "uploadComplete": "Upload complete",
-    "sendingToFunnel": "Sending to funnel"
+    "uploading": "Uploading"
   },
   "message": {
     "noCases": "No Cases Found",
     "noScans": "This case has no scans."
-  },
-  "caseInspector": {
-    "caseInformation": "Case Information"
   },
   "scans": {
     "combined": "Combined",
@@ -66,8 +72,8 @@
     "complete": "Design Complete",
     "downloaded": "Downloaded",
     "failed": "Failed",
-    "processing": "Processing",
     "pendingUpload": "Uploading",
+    "processing": "Processing",
     "unknown": "Unknown Status",
     "uploaded": "Uploaded"
   },
@@ -81,13 +87,13 @@
         "header": "No designs created yet",
         "paragraph": "Design cases will appear here when scans have been uploaded\nTo get started, select the Create button"
       },
-      "issues": {
-        "header": "No design issues",
-        "paragraph": "Any designs that have issues will appear here"
-      },
       "downloaded": {
         "header": "No designs downloaded",
         "paragraph": "Designs that have been downloaded will appear here"
+      },
+      "issues": {
+        "header": "No design issues",
+        "paragraph": "Any designs that have issues will appear here"
       },
       "processing": {
         "header": "No designs currently being processed",
@@ -114,17 +120,20 @@
     "uploads": "Uploads"
   },
   "toast": {
+    "allCasesNotReadyToDownload": "The selected cases are not ready for download",
+    "failedToDownloadCase": "Failed to download case {{caseName}}",
     "failedToGenerateZip": "Failed to generate the zip file",
+    "processingUpload": "Processing case for download",
+    "processingUploads": "Processing {{amount}}/{{total}} cases for download",
+    "someCasesNotReadyToDownload": "Some of the selected cases are not ready for download",
     "statusUpdateFailed": "Failed to change case status to downloaded",
     "statusUpdatedToDownloaded": "Case {{caseName}} moved from designed to downloaded",
-    "unableToDownloadFiles": "Unable to download files",
-    "allCasesNotReadyToDownload": "The selected cases are not ready for download",
-    "someCasesNotReadyToDownload": "Some of the selected cases are not ready for download"
+    "unableToDownloadFiles": "Unable to download files"
   },
   "uploadModal": {
     "multipleScans": {
-      "title": "Multiple scans",
-      "message": "This case contains multiple scans that could be used. The most recent scans for the maxillary and/or mandibular will be used."
+      "message": "This case contains multiple scans that could be used. The most recent scans for the maxillary and/or mandibular will be used.",
+      "title": "Multiple scans"
     },
     "text": {
       "designTemplate": "Design Template",
@@ -141,12 +150,6 @@
     "missingUpperOrLower": {
       "message": "Case is missing a mandibular or maxillary scan",
       "title": "Missing scan"
-    }
-  },
-  "duplicate": {
-    "multipleUpperOrLower": {
-      "message": "Multiple maxillary or mandibular scans detected",
-      "title": "Duplicate Scans"
     }
   }
 }
