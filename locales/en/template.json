@@ -11,9 +11,12 @@
     "default": "Default",
     "drainHoles": "Drain Holes",
     "hollowModel": "Hollow Model",
-    "newTemplate": "New Template",
     "modelAttachmentTypes": "Attachments",
+    "newTemplate": "New Template",
     "textStyle": "Text Style"
+  },
+  "message": {
+    "renameTemplate": "A template with this name already exists. Rename the template to continue."
   },
   "options": {
     "modelAttachmentTypes": {
@@ -33,6 +36,7 @@
     "editTemplate": "Edit Template"
   },
   "title": {
+    "renameTemplate": "Rename Template",
     "templateName": "Template Name"
   }
 }
