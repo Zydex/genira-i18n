@@ -16,7 +16,8 @@
     "textStyle": "Text Style"
   },
   "message": {
-    "renameTemplate": "A template with this name already exists. Rename the template to continue."
+    "renameTemplate": "A template with this name already exists. Rename the template to continue.",
+    "removeTemplate": "Are you sure you want to remove this template?"
   },
   "options": {
     "modelAttachmentTypes": {
@@ -37,6 +38,7 @@
   },
   "title": {
     "renameTemplate": "Rename Template",
-    "templateName": "Template Name"
+    "templateName": "Template Name",
+    "removeTemplate": "Remove Template"
   }
 }
