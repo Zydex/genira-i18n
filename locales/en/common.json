@@ -80,6 +80,7 @@
     "perPage": "Per Page"
   },
   "title": {
+    "help": "View Help",
     "manage": "Manage",
     "manageSubscription": "Manage subscription",
     "profile": "Profile",
