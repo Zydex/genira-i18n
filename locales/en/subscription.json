@@ -1,17 +1,15 @@
 {
   "button": {
-    "subscribeLater": "Subscribe Later",
-    "subscriptionOptions": "Subscription Options"
+    "purchaseCredits": "Purchase Credits"
   },
   "description": {
-    "outOfCredits": "You will need to purchase more credits to continue to generate parts.",
-    "paymentIssue": "There was an issue with your payment details.",
-    "trialEnded": "Your trial has ended.",
-    "trialEnding": "Your trial is ending."
+    "bannerNoCredits": "Automatically generate designs with the click of a button. Contact the administrator to purchase credits.",
+    "credits_one": "{{count}} Credit",
+    "credits_other": "{{count}} Credits",
+    "noCredits": "To continue generating designs, contact the administrator of your organisation to purchase more credits.",
+    "purchaseCredits": "Purchase additional credits to continue generating designs."
   },
   "title": {
-    "trialEnding": "Trial ending in {{amount}} days",
-    "trialEndingUnknown": "Trial ending",
-    "trialEnded": "Trial has ended"
+    "noCredits": "No credits remaining"
   }
 }
