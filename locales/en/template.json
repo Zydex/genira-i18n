@@ -12,6 +12,7 @@
   },
   "label": {
     "affixText": "Affix Text",
+    "createdBy": "Created By",
     "createdOn": "Created On",
     "default": "Default",
     "designPart": "Design Part",
