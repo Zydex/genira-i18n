@@ -31,7 +31,7 @@
     "deleteTemplate_other": "Are you sure you want to delete these templates?",
     "deletingTemplates_one": "Deleting {{count}} template",
     "deletingTemplates_other": "Deleting {{count}} templates",
-    "noTemplates": "No Templates created",
+    "noTemplates": "No templates created",
     "noTemplatesInfo": "Create a template to reuse settings for new designs",
     "removeTemplate": "Are you sure you want to remove this template?",
     "renameTemplate": "A template with this name already exists. Rename the template to continue."
