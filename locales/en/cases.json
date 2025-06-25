@@ -29,7 +29,8 @@
     "missingUpperAndLower": {
       "message": "Case is missing both a mandibular and maxillary scan",
       "title": "Missing scans"
-    }
+    },
+    "unsupportedFileStructure": "Unsupported file structure"
   },
   "filters": {
     "all": "All",
@@ -60,7 +61,8 @@
   },
   "message": {
     "noCases": "No Cases Found",
-    "noScans": "This case has no scans."
+    "noScans": "This case has no scans.",
+    "unsupportedFileStructureHelp": "Only STL or PLY files that include 'upper' or 'lower' in their file name or parent folder are accepted. Try renaming the file(s) or folder(s)."
   },
   "scans": {
     "combined": "Combined",
