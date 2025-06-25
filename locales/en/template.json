@@ -6,16 +6,33 @@
     "save": "Save",
     "update": "Update"
   },
+  "error": {
+    "failedDeletion_one": "Failed to delete {{count}} template",
+    "failedDeletion_other": "Failed to delete {{count}} templates"
+  },
   "label": {
     "affixText": "Affix Text",
+    "createdBy": "Created By",
+    "createdOn": "Created On",
     "default": "Default",
+    "designPart": "Design Part",
     "drainHoles": "Drain Holes",
     "hollowModel": "Hollow Model",
     "modelAttachmentTypes": "Attachments",
+    "name": "Template Name",
     "newTemplate": "New Template",
+    "search": "Search for a template",
+    "studyModel": "Study Model",
     "textStyle": "Text Style"
   },
   "message": {
+    "deleteTemplate": "Are you sure you want to delete this template?",
+    "deleteTemplate_one": "Are you sure you want to delete this template?",
+    "deleteTemplate_other": "Are you sure you want to delete these templates?",
+    "deletingTemplates_one": "Deleting {{count}} template",
+    "deletingTemplates_other": "Deleting {{count}} templates",
+    "noTemplates": "No templates created",
+    "noTemplatesInfo": "Create a template to reuse settings for new designs",
     "removeTemplate": "Are you sure you want to remove this template?",
     "renameTemplate": "A template with this name already exists. Rename the template to continue."
   },
@@ -37,8 +54,10 @@
     "editTemplate": "Edit Template"
   },
   "title": {
+    "deleteTemplate": "Delete Template",
     "removeTemplate": "Remove Template",
     "renameTemplate": "Rename Template",
-    "templateName": "Template Name"
+    "templateName": "Template Name",
+    "templates": "Templates"
   }
 }
