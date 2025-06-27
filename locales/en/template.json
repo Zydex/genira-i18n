@@ -26,6 +26,7 @@
     "textStyle": "Text Style"
   },
   "message": {
+    "attachmentHelp": "Attachments are used to maintain the bite position for physical models. They are only generated for cases which have an upper (maxillary) and lower (mandibular) scan.",
     "deleteTemplate": "Are you sure you want to delete this template?",
     "deleteTemplate_one": "Are you sure you want to delete this template?",
     "deleteTemplate_other": "Are you sure you want to delete these templates?",
