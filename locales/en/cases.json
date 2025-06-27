@@ -39,9 +39,10 @@
     "issues": "Issues"
   },
   "label": {
-    "addingCases": "Adding cases",
+    "addingCases": "Adding cases...",
+    "addingCases_amount": "Adding cases... ({{amount}}/{{total}})",
     "caseName": "Case Name",
-    "casesAdded": "Cases added",
+    "casesAdded": "Cases added! ({{amount}}/{{total}})",
     "deleteDesign": "Delete design",
     "designedModel": "Designed",
     "downloadCases": "Download Cases",
