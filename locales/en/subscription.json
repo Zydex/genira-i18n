@@ -4,12 +4,19 @@
   },
   "description": {
     "bannerNoCredits": "Automatically generate designs with the click of a button. Contact the administrator to purchase credits.",
+    "creditBundles": "Select one of the bundles below to purchase more credits.",
+    "creditSpend": "Download an itemised list to see what you have spent your credits on.",
     "credits_one": "{{count}} Credit",
     "credits_other": "{{count}} Credits",
+    "manageBilling": "View invoices, review and update payment card.",
     "noCredits": "To continue generating designs, contact the administrator of your organisation to purchase more credits.",
     "purchaseCredits": "Purchase additional credits to continue generating designs."
   },
   "title": {
-    "noCredits": "No credits remaining"
+    "creditSpend": "Credit Spend",
+    "manageBilling": "Manage Billing",
+    "noCredits": "No credits remaining",
+    "organisation": "Organisation",
+    "purchaseCreditBundles": "Purchase Credit Bundles"
   }
 }
