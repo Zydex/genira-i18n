@@ -41,6 +41,7 @@
   "label": {
     "addingCases": "Adding cases...",
     "addingCases_amount": "Adding cases... ({{amount}}/{{total}})",
+    "caseInformation": "Case Information",
     "caseName": "Case Name",
     "casesAdded": "Cases added! ({{amount}}/{{total}})",
     "deleteDesign": "Delete design",
@@ -57,7 +58,10 @@
     "search": "Search",
     "selectDownloadOption": "select download option",
     "sendingToFunnel": "Sending to funnel",
+    "template": "Template",
     "uploadComplete": "Upload complete",
+    "uploadedAt": "Uploaded At",
+    "uploadedBy": "Uploaded By",
     "uploading": "Uploading"
   },
   "message": {
