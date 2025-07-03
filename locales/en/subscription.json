@@ -12,6 +12,9 @@
     "noCredits": "To continue generating designs, contact the administrator of your organisation to purchase more credits.",
     "purchaseCredits": "Purchase additional credits to continue generating designs."
   },
+  "label": {
+    "currentYear": "{{year}} (Current year)"
+  },
   "title": {
     "creditSpend": "Credit Spend",
     "manageBilling": "Manage Billing",
