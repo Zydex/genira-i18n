@@ -26,16 +26,21 @@
     "textStyle": "Text Style"
   },
   "message": {
+    "affixTextHelp": "Make parts easy to identify by adding text to the model.",
     "attachmentHelp": "Attachments are used to maintain the bite position for physical models. They are only generated for cases which have an upper (maxillary) and lower (mandibular) scan.",
     "deleteTemplate": "Are you sure you want to delete this template?",
     "deleteTemplate_one": "Are you sure you want to delete this template?",
     "deleteTemplate_other": "Are you sure you want to delete these templates?",
     "deletingTemplates_one": "Deleting {{count}} template",
     "deletingTemplates_other": "Deleting {{count}} templates",
+    "drainHolesHelp": "Drain holes help avoid print failures by allowing air to enter, and resin to escape from within the model. This is a mandatory setting when printing hollow models, with hole positions determined automatically.",
+    "hollowModelHelp": "Enable this option to create models that are hollowed out. This reduces the amount of material that is consumed when printing the model.",
     "noTemplates": "No templates created",
     "noTemplatesInfo": "Create a template to reuse settings for new designs",
     "removeTemplate": "Are you sure you want to remove this template?",
-    "renameTemplate": "A template with this name already exists. Rename the template to continue."
+    "renameTemplate": "A template with this name already exists. Rename the template to continue.",
+    "templateNameHelp": "Easily identify your saved settings by giving it a memorable name. You will see this name in the Design template dropdown.",
+    "textStyleHelp": "Engrave will cut the text into the model. Emboss will extrude the text out of the model."
   },
   "options": {
     "modelAttachmentTypes": {
