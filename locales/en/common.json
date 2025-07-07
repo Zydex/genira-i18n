@@ -6,6 +6,7 @@
   "button": {
     "add": "Add",
     "cancel": "Cancel",
+    "discard": "Discard",
     "close": "Close",
     "delete": "Delete",
     "download": "Download",
