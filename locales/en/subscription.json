@@ -1,5 +1,6 @@
 {
   "button": {
+    "purchase": "Purchase",
     "purchaseCredits": "Purchase Credits"
   },
   "description": {
@@ -8,6 +9,8 @@
     "creditSpend": "Download an itemised list to see what you have spent your credits on.",
     "credits_one": "{{count}} Credit",
     "credits_other": "{{count}} Credits",
+    "enoughToProduce_one": "Enough to produce {{count}} model",
+    "enoughToProduce_other": "Enough to produce {{count}} models",
     "manageBilling": "View invoices, review and update payment card.",
     "noCredits": "To continue generating designs, contact the administrator of your organisation to purchase more credits.",
     "purchaseCredits": "Purchase additional credits to continue generating designs."
