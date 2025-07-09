@@ -24,9 +24,9 @@
     "changeRole": "Update role:",
     "changeRole_user": "Update the role of {{user}}:",
     "confirmDelAccounts_one": "This user will no longer have access to this organisation.",
-    "confirmDelAccounts_other": "These users will no longer have access to this organisation.",
     "confirmDelAccounts_org_one": "This user will no longer have access to {{org}}.",
     "confirmDelAccounts_org_other": "These users will no longer have access to {{org}}.",
+    "confirmDelAccounts_other": "These users will no longer have access to this organisation.",
     "deleteProfile": "Your profile will permanently be removed from your organisation.",
     "deleteProfile_org": "Your profile will permanently be removed from {{org}}.",
     "linkSent": "Link sent",
@@ -39,7 +39,8 @@
     "admin": "Admin",
     "designer": "Designer",
     "owner": "Owner",
-    "technician": "Technician"
+    "technician": "Technician",
+    "user": "User"
   },
   "title": {
     "changePassword": "Change Password",
