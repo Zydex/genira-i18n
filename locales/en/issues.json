@@ -1,0 +1,50 @@
+{
+  "step": {
+    "toothSegmentation": {
+      "toothSegmentationError": {
+        "title": "Tooth Segmentation Error",
+        "message": "Unable to identify teeth accurately. This may be caused by missing teeth in the scan."
+      }
+    },
+    "occlusalPlaneGeneration": {
+      "occlusalPlaneError": {
+        "title": "Occlusal Plane Error",
+        "message": "Unable to generate occlusal plane. This may be caused by missing molars or incisors."
+      }
+    },
+    "modelHollowing": {
+      "hollowingError": {
+        "title": "Hollowing Error",
+        "message": "An error occurred while hollowing out model."
+      }
+    },
+    "pillarGeneration": {
+      "pillarGenerationError": {
+        "title": "Pillar Generation Error",
+        "message": "An error occurred while generating model pillars."
+      }
+    },
+    "ventGeneration": {
+      "ventGenerationError": {
+        "title": "Vent Generation Error",
+        "message": "An error occurred while placing model vents."
+      }
+    },
+    "textGeneration": {
+      "textGenerationWarning": {
+        "title": "Text Placement Warning",
+        "message": "Text label was not able to be generated for the model."
+      },
+      "textTruncationWarning": {
+        "title": "Text Truncation Warning",
+        "message": "Text has been truncated due to exceeding maximum length."
+      }
+    },
+    "basingGeneration": {
+      "basingError": {
+        "title": "Model Basing Error",
+        "message": "Unable to base model."
+      }
+    }
+  }
+}
