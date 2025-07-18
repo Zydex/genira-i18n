@@ -4,6 +4,7 @@
     "noSearchResults": "No Search Results"
   },
   "button": {
+    "acceptAll": "Accept All",
     "add": "Add",
     "cancel": "Cancel",
     "close": "Close",
@@ -89,9 +90,16 @@
   },
   "title": {
     "help": "View Help",
+    "language": "Language",
     "manage": "Manage",
-    "manageSubscription": "Manage subscription",
+    "manageSubscription": "Manage Subscription",
+    "name": "Display Name",
+    "photo": "Photo",
+    "privacyPolicy": "Privacy policy",
     "profile": "Profile",
+    "settings": "Settings",
+    "termsAndPolicy": "Terms and Policy",
+    "termsOfService": "Terms of Service",
     "uploads": "Uploads"
   },
   "underConstruction": {
