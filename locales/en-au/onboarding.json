@@ -8,7 +8,6 @@
     "website": "Website"
   },
   "message": {
-    "completePersonalDetails": "Complete your personal details",
     "emailResendSuccess": "Email sent. Please check your inbox.",
     "emailVerified": "<bold>Email successfully verified</bold>\nYou will be redirected shortly...",
     "regionError": "Genira is currently only supported in Australia.",
