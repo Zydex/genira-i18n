@@ -41,7 +41,9 @@
     "failedDeletion_other": "Failed to delete {{count}} cases",
     "failedToLoadScan": "Failed to read scan data, please check the uploaded file",
     "notAuthorized": "You are not authorised to perform this action",
-    "unspecified": "An unknown error occurred"
+    "unspecified": "An unknown error occurred",
+    "userConflict": "User already exists.",
+    "userConflict_details": "User with email {{details}} already exists."
   },
   "label": {
     "cancelUploadModalButtonSecondary": "Continue Uploads",
