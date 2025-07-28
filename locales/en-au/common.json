@@ -43,7 +43,11 @@
     "notAuthorized": "You are not authorised to perform this action",
     "unspecified": "An unknown error occurred",
     "userConflict": "User already exists.",
-    "userConflict_details": "User with email {{details}} already exists."
+    "userConflict_details": "User with email {{details}} already exists in your organisation or another organisation. Use an alternate email.",
+    "userConflictAnotherOrg_details": "The email {{details}} is already associated with another organisation. Use an alternate email or request the user to unenrol from their previous organisation.",
+    "userConflictWithinOrg_details": "A user with the email {{details}} already exists in your organisation.",
+    "userNotFound": "User not found.",
+    "userNotFound_details": "User with email {{details}} could not be found."
   },
   "label": {
     "cancelUploadModalButtonSecondary": "Continue Uploads",
