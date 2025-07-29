@@ -32,7 +32,7 @@
     "creditSpend": "Credit Spend",
     "description": "Description",
     "kind": "Kind",
-    "manageBilling": "Manage Billing",
+    "manageCredits": "Manage Credits",
     "noCredits": "No credits remaining",
     "organisation": "Organisation",
     "purchaseCreditBundles": "Purchase Credit Bundles"
