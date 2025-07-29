@@ -127,6 +127,7 @@
     "permanentlyRemoveCase_other": "{{count}} cases will be permanently removed from the system."
   },
   "title": {
+    "caseID": "Case ID",
     "caseName": "Case Name",
     "caseNumber": "Case Number",
     "cases": "Cases",
