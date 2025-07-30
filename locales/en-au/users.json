@@ -58,6 +58,7 @@
     "remove_one": "Remove user?",
     "remove_other": "Remove users?",
     "restoreAccess": "Restore access for user?",
-    "role": "Role"
+    "role": "Role",
+    "usersName": "User's Name"
   }
 }
