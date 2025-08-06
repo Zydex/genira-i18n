@@ -32,6 +32,10 @@
     },
     "unsupportedFileStructure": "Unsupported file structure"
   },
+  "files": {
+    "cases": "cases.zip",
+    "designs": "designs.zip"
+  },
   "filters": {
     "all": "All",
     "designed": "Designed",
