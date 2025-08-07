@@ -22,6 +22,7 @@
     }
   },
   "error": {
+    "emptyFolder": "Empty folder detected",
     "emptyMesh": {
       "message": "Scan geometry data cannot be found",
       "title": "Empty Scan"
@@ -30,6 +31,7 @@
       "message": "Case is missing both a mandibular and maxillary scan",
       "title": "Missing scans"
     },
+    "noScansDetected": "No scan files detected",
     "unsupportedFileStructure": "Unsupported file structure"
   },
   "files": {
@@ -75,9 +77,11 @@
     "uploading": "Uploading"
   },
   "message": {
+    "emptyFolderHelp": "No files were detected in the selected folder. Check the contents and try again.",
     "markCasesAsRejected": "Rejected designs cannot be downloaded. Any credits held for this design will be refunded.",
     "noCases": "No Cases Found",
     "noScans": "This case has no scans.",
+    "noScansDetectedHelp": "No files using STL or PLY format where detected in the selected folder.",
     "quitUploadWarning": "Designs for the selected cases will not be processed.",
     "rejectedReason": "Let us know why you have rejected this design:",
     "unsupportedFileStructureHelp": "Only STL or PLY files that include the following terms in their file name or parent folder are accepted:<br/><ul><li>'Upper' or 'Mandibular'</li><li>'Lower' or 'Maxillary'</li></ul>Try renaming the file(s) or folder(s). "
