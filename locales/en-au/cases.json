@@ -84,7 +84,7 @@
     "noScansDetectedHelp": "No files using STL or PLY format where detected in the selected folder.",
     "quitUploadWarning": "Designs for the selected cases will not be processed.",
     "rejectedReason": "Let us know why you have rejected this design:",
-    "unsupportedFileStructureHelp": "Only STL or PLY files that include the following terms in their file name or parent folder are accepted:<br/><ul><li>'Upper' or 'Mandibular'</li><li>'Lower' or 'Maxillary'</li></ul>Try renaming the file(s) or folder(s). "
+    "unsupportedFileStructureHelp": "Only STL or PLY files are accepted."
   },
   "scans": {
     "combined": "Combined",
