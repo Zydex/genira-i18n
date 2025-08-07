@@ -32,6 +32,10 @@
     },
     "unsupportedFileStructure": "Unsupported file structure"
   },
+  "files": {
+    "cases": "cases-{{time}}.zip",
+    "designs": "designs-{{time}}.zip"
+  },
   "filters": {
     "all": "All",
     "designed": "Designed",
