@@ -31,6 +31,10 @@
       "message": "Case is missing both a mandibular and maxillary scan",
       "title": "Missing scans"
     },
+    "missingUpperOrLower": {
+      "message": "Case is missing a mandibular or maxillary scan",
+      "title": "Missing scan"
+    },
     "noScansDetected": "No scan files detected",
     "unsupportedFileStructure": "Unsupported file structure"
   },
@@ -144,6 +148,7 @@
     "quitUploadWarning": "Discard designs?",
     "received": "Received",
     "rejectDesign": "Reject Design?",
+    "scanType": "Scan Type",
     "status": "Status",
     "uploads": "Uploads"
   },
@@ -174,10 +179,9 @@
       "title": "Upload Scans"
     }
   },
-  "warning": {
-    "missingUpperOrLower": {
-      "message": "Case is missing a mandibular or maxillary scan",
-      "title": "Missing scan"
-    }
+  "uploadScans": {
+    "lower": "Lower",
+    "unknown": "Unknown",
+    "upper": "Upper"
   }
 }
