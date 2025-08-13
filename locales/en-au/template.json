@@ -26,7 +26,7 @@
     "textStyle": "Text Style"
   },
   "message": {
-    "affixTextHelp": "Make parts easy to identify by adding text to the model.",
+    "affixTextHelp": "Make parts easy to identify by adding text to generated designs.\n\nThe Case name will be added to the models.",
     "attachmentHelp": "Attachments are used to maintain the bite position for physical models.\n\nThey are only generated for cases which have an upper (maxillary) and lower (mandibular) scan.",
     "deleteTemplate": "Are you sure you want to delete this template?",
     "deleteTemplate_one": "Are you sure you want to delete this template?",
