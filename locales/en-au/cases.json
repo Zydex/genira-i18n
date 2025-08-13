@@ -28,8 +28,8 @@
       "title": "Empty Scan"
     },
     "missingUpperAndLower": {
-      "message": "Case is missing both a mandibular and maxillary scan",
-      "title": "Missing scans"
+      "message": "Scan names do not follow a recognised convention. Update the file names or create a new naming convention. <a>Learn More</a>",
+      "title": "Unable to recognise scans"
     },
     "missingUpperOrLower": {
       "message": "Case is missing a mandibular or maxillary scan",
