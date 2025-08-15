@@ -27,6 +27,8 @@
       "message": "Scan geometry data cannot be found",
       "title": "Empty Scan"
     },
+    "failedToProcessCases_one": "Failed to process {{count}} case",
+    "failedToProcessCases_other": "Failed to process {{count}} cases",
     "missingUpperAndLower": {
       "message": "Scan names do not follow a recognised convention. Update the file names or create a new naming convention. <a>Learn More</a>",
       "title": "Unable to recognise scans"
@@ -92,6 +94,8 @@
     "noCases": "No Cases Found",
     "noScans": "This case has no scans.",
     "noScansDetectedHelp": "No files using STL or PLY format where detected in the selected folder.",
+    "processingCases_one": "Processing case",
+    "processingCases_other": "Processing {{count}} cases",
     "quitUploadWarning": "Designs for the selected cases will not be processed.",
     "rejectedReason": "Let us know why you have rejected this design:",
     "unsupportedFileStructureHelp": "Only STL or PLY files are accepted."
@@ -106,9 +110,11 @@
     "complete": "Design Complete",
     "downloaded": "Downloaded",
     "failed": "Failed",
+    "insufficientCredits": "Insufficient credits",
     "pendingUpload": "Uploading",
     "processing": "Processing",
     "rejected": "Rejected",
+    "toProcess": "To process",
     "unknown": "Unknown Status",
     "uploaded": "Uploaded"
   },

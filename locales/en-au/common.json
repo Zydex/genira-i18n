@@ -16,6 +16,7 @@
     "invite": "Invite",
     "logout": "Logout",
     "ok": "OK",
+    "process": "Process",
     "refresh": "Refresh",
     "reject": "Reject",
     "remove": "Remove",
@@ -81,6 +82,10 @@
     "unavailable": "Unavailable"
   },
   "message": {
+    "insufficientCredits": "Contact the organisation Administrator or Owner to top up credits.",
+    "insufficientCreditsAdmin": "Top up credits to process designs.",
+    "insufficientCreditsAdminLong": "Some designs cannot be processed due to insufficient credits.\n\nAfter topping up, select the cases marked “To process” and click “Process” to generate designs.",
+    "insufficientCreditsLong": "Some designs cannot be processed due to insufficient credits. Contact the organisation Administrator or Owner to top up credits.\n\nAfter topping up, select the cases marked “To process” and click ”Process” to generate designs.",
     "noConnection": "Unable to connect, retrying in {{time}}",
     "noMatches": "Sorry, no matches were found",
     "noMatchesHelp": "Check for typos or try more general words\nAlternatively, try using the table filters",
