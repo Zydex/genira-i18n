@@ -6,7 +6,8 @@
     "browseDirectories": "Browse Folders",
     "browseFiles": "Browse Files",
     "downloadDesigns": "Download Designs",
-    "sendToFunnel": "Send To Funnel"
+    "sendToFunnel": "Send To Funnel",
+    "moveToNewCase": "Move to new case"
   },
   "caseInspector": {
     "caseInformation": "Case Information"
