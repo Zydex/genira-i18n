@@ -35,11 +35,8 @@
     "userPageInfo": "The users in your organisation are shown on this page"
   },
   "role": {
-    "accountant": "Accountant",
     "admin": "Admin",
-    "designer": "Designer",
     "owner": "Owner",
-    "technician": "Technician",
     "user": "User"
   },
   "title": {
