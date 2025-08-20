@@ -4,6 +4,7 @@
     "noSearchResults": "No Search Results"
   },
   "button": {
+    "accept": "Accept",
     "acceptAll": "Accept All",
     "add": "Add",
     "cancel": "Cancel",
@@ -84,6 +85,8 @@
     "unavailable": "Unavailable"
   },
   "message": {
+    "acceptPrivacyPolicy": "I accept the <a>Privacy Policy</a>",
+    "acceptTermsOfService": "I accept the <a>Terms of Service</a>",
     "cookiePolicy": "We use cookies to enhance your browsing experience. To find out more, visit our <cookie>Cookie Policy</cookie> & <privacy>Privacy Statement</privacy>.",
     "insufficientCredits": "Contact the organisation Administrator or Owner to top up credits.",
     "insufficientCreditsAdmin": "Top up credits to process designs.",
@@ -92,7 +95,8 @@
     "noConnection": "Unable to connect, retrying in {{time}}",
     "noMatches": "Sorry, no matches were found",
     "noMatchesHelp": "Check for typos or try more general words\nAlternatively, try using the table filters",
-    "reconnecting": "Reconnecting..."
+    "reconnecting": "Reconnecting...",
+    "reviewAndAgreeToPolicies": "Before continuing, you need to review and agree to the <terms>Terms of Service</terms> and the <privacy>Privacy Policy</privacy>."
   },
   "notFoundPage": {
     "message_narrow": "Check the page address for typos or use the navigation menu on the top left",
@@ -122,7 +126,7 @@
     "privacyPolicy": "Privacy policy",
     "profile": "Profile",
     "settings": "Settings",
-    "termsAndPolicy": "Terms and Policy",
+    "termsAndPolicy": "Terms of Service and Privacy Policy",
     "termsOfService": "Terms of Service",
     "uploads": "Uploads"
   },
