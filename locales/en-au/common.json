@@ -13,12 +13,14 @@
     "discard": "Discard",
     "download": "Download",
     "edit": "Edit",
+    "essentialOnly": "Essential Only",
     "invite": "Invite",
     "logout": "Logout",
     "ok": "OK",
     "process": "Process",
     "refresh": "Refresh",
     "reject": "Reject",
+    "rejectAll": "Reject All",
     "remove": "Remove",
     "rename": "Rename",
     "retry": "Retry",
@@ -82,6 +84,7 @@
     "unavailable": "Unavailable"
   },
   "message": {
+    "cookiePolicy": "We use cookies to enhance your browsing experience. To find out more, visit our <cookie>Cookie Policy</cookie> & <privacy>Privacy Statement</privacy>.",
     "insufficientCredits": "Contact the organisation Administrator or Owner to top up credits.",
     "insufficientCreditsAdmin": "Top up credits to process designs.",
     "insufficientCreditsAdminLong": "Some designs cannot be processed due to insufficient credits.\n\nAfter topping up, select the cases marked “To process” and click “Process” to generate designs.",
@@ -108,6 +111,7 @@
     "perPage": "Per Page"
   },
   "title": {
+    "cookiePolicy": "Cookie policy",
     "help": "View Help",
     "insufficientCredits": "Insufficient credits",
     "language": "Language",
