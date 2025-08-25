@@ -6,8 +6,9 @@
     "browseDirectories": "Browse Folders",
     "browseFiles": "Browse Files",
     "downloadDesigns": "Download Designs",
-    "sendToFunnel": "Send To Funnel",
-    "moveToNewCase": "Move to new case"
+    "moveToNewCase": "Move to new case",
+    "newCase": "New case",
+    "sendToFunnel": "Send To Funnel"
   },
   "caseInspector": {
     "caseInformation": "Case Information"
@@ -90,6 +91,8 @@
     "downloadRejectedInsufficientCreditsAdmin_other": "Your selection contains {{count}} cases that have previously been rejected.\n\nTo download these rejected designs top up your account credits.",
     "downloadRejectedInsufficientCredits_one": "Unable to download rejected designs due to insufficient credits.\n\nContact the organisation Administrator or Owner to top up credits.",
     "downloadRejectedInsufficientCredits_other": "Your selection contains {{count}} cases that have previously been rejected.\n\nTo download these rejected designs, contact the organisation Administrator or Owner to top up credits.",
+    "draggedCase_one": "{{name}}",
+    "draggedCase_other": "<shrink>{{name}}</shrink> <span>and {{count}} more</span>",
     "emptyFolderHelp": "No files were detected in the selected folder. Check the contents and try again.",
     "markCasesAsRejected": "Rejected designs cannot be downloaded. Any credits held for this design will be refunded.",
     "noCases": "No Cases Found",
@@ -159,11 +162,13 @@
     "designs": "Designs",
     "downloadRejectedDesigns": "Download rejected designs?",
     "name": "Name",
+    "newCase": "New case",
     "quitUploadWarning": "Discard designs?",
     "received": "Received",
     "rejectDesign": "Reject Design?",
     "scanType": "Scan type",
     "status": "Status",
+    "untitled": "Untitled",
     "uploads": "Uploads"
   },
   "toast": {
