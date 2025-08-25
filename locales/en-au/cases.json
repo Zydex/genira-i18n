@@ -51,6 +51,50 @@
     "issues": "Issues",
     "rejected": "Rejected"
   },
+  "issues": {
+    "modelBasing": {
+      "basingError": {
+        "message": "Unable to generate based model.\n<a>Learn More</a> about this error.",
+        "status": "Unable to generate based model"
+      },
+      "hollowingError": {
+        "message": "Failed to generate hollow model.\n<a>Learn More</a> about this error.",
+        "status": "Failed to generate hollow model"
+      },
+      "occlusalPlaneError": {
+        "message": "Unable to calculate occlusal plane.\n<a>Learn More</a> about this error.",
+        "status": "Unable to calculate occlusal plane"
+      },
+      "pillarGenerationError": {
+        "message": "Failed to generate attachments.\n<a>Learn More</a> about this error.",
+        "status": "Failed to generate attachments"
+      },
+      "preprocessingError": {
+        "message": "Failed to preprocess scans.\n<a>Learn More</a> about this error.",
+        "status": "Unable to preprocess scans"
+      },
+      "retry": {
+        "asSolid": "Retry design as a solid model? <a>Retry</a>",
+        "withoutAttachments": "Retry design without attachments? <a>Retry</a>"
+      },
+      "textGenerationError": {
+        "message": "Unable to add text label to the model.\n<a>Learn More</a> about this error.",
+        "status": "Failed to generate entire label"
+      },
+      "textGenerationWarning": {
+        "message": "Unable to add complete text label to the model. This is likely due to insufficient free space for the text length.\n<a>Learn More</a> about this error.",
+        "status": "Failed to generate entire label"
+      },
+      "toothSegmentationError": {
+        "message": "Unable to classify teeth.\n<a>Learn More</a> about this error.",
+        "status": "Unable to classify teeth"
+      },
+      "ventGenerationError": {
+        "message": "Failed to generate drain holes.\n<a>Learn More</a> about this error.",
+        "status": "Failed to generate drain holes"
+      }
+    }
+  },
   "label": {
     "addingCases": "Adding cases...",
     "addingCases_amount": "Adding cases... ({{amount}}/{{total}})",
@@ -155,8 +199,10 @@
     "caseName": "Case Name",
     "caseNumber": "Case Number",
     "cases": "Cases",
+    "completeWithIssues": "Complete with issues",
     "designs": "Designs",
     "downloadRejectedDesigns": "Download rejected designs?",
+    "failed": "Failed",
     "name": "Name",
     "quitUploadWarning": "Discard designs?",
     "received": "Received",
