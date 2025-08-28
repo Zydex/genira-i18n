@@ -87,6 +87,7 @@
   "message": {
     "acceptPrivacyPolicy": "I accept the <a>Privacy Policy</a>",
     "acceptTermsOfService": "I accept the <a>Terms of Service</a>",
+    "betaTest": "You're using the beta — enjoy 1,000 credits (100 designs) for free during this early release period.",
     "cookiePolicy": "We use cookies to enhance your browsing experience. To find out more, visit our <cookie>Cookie Policy</cookie> & <privacy>Privacy Statement</privacy>.",
     "insufficientCredits": "Contact the organisation Administrator or Owner to top up credits.",
     "insufficientCreditsAdmin": "Top up credits to process designs.",
