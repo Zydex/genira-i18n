@@ -28,9 +28,9 @@
   "message": {
     "affixTextHelp": "Make parts easy to identify by adding text to generated designs.\n\nThe Case name will be added to the models.",
     "attachmentHelp": "Attachments are used to maintain the bite position for physical models.\n\nThey are only generated for cases which have an upper (maxillary) and lower (mandibular) scan.",
-    "deleteTemplate": "Are you sure you want to delete this template?",
-    "deleteTemplate_one": "Are you sure you want to delete this template?",
-    "deleteTemplate_other": "Are you sure you want to delete these templates?",
+    "deleteTemplate": "This template will no longer be available to use for future cases.",
+    "deleteTemplate_one": "This template will no longer be available to use for future cases.",
+    "deleteTemplate_other": "These templates will no longer be available to use for future cases.",
     "deletingTemplates_one": "Deleting {{count}} template",
     "deletingTemplates_other": "Deleting {{count}} templates",
     "drainHolesHelp": "Drain holes help avoid print failures by allowing air to enter, and resin to escape from within the model.\n\nThis is a mandatory setting when printing hollow models, with hole positions determined automatically.",
@@ -60,7 +60,7 @@
     "editTemplate": "Edit Template"
   },
   "title": {
-    "deleteTemplate": "Delete Template",
+    "deleteTemplate": "Delete Template?",
     "removeTemplate": "Remove Template",
     "renameTemplate": "Rename Template",
     "templateName": "Template Name",
