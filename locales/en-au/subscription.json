@@ -10,8 +10,8 @@
     "credits": "Credits",
     "credits_one": "{{count}} Credit",
     "credits_other": "{{count}} Credits",
-    "enoughToProduce_one": "Enough to produce {{count}} model",
-    "enoughToProduce_other": "Enough to produce {{count}} models",
+    "enoughToProduce_one": "Enough to produce {{count}} case",
+    "enoughToProduce_other": "Enough to produce {{count}} cases",
     "manageBilling": "View invoices, review and update payment card.",
     "noCredits": "To continue generating designs, contact the administrator of your organisation to purchase more credits.",
     "purchaseCredits": "Purchase additional credits to continue generating designs."
