@@ -67,6 +67,7 @@
     "language": "Language",
     "locale": "Locale",
     "logo": "Logo",
+    "none": "None",
     "openDrawer": "Open Drawer",
     "preparingDownload": "Preparing download",
     "rejectModal": "Selected scans will no longer be considered for the case.",
