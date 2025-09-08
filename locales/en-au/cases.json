@@ -147,6 +147,7 @@
     "processingCases_other": "Processing {{count}} cases",
     "quitUploadWarning": "Designs for the selected cases will not be processed.",
     "rejectedReason": "Let us know why you have rejected this design:",
+    "sortCasesByIssues": "Cases are rearranged in the list to show cases with issues first.",
     "unsupportedFileStructureHelp": "Only STL or PLY files are accepted."
   },
   "scans": {
@@ -214,6 +215,7 @@
     "received": "Received",
     "rejectDesign": "Reject Design?",
     "scanType": "Scan type",
+    "sortCasesByIssues": "Sort cases by their issues",
     "status": "Status",
     "untitled": "Untitled",
     "uploads": "Uploads"
