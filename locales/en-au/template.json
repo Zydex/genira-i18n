@@ -19,6 +19,7 @@
     "drainHoles": "Drain Holes",
     "hollowModel": "Hollow Model",
     "modelAttachmentTypes": "Attachments",
+    "modelType": "Model Type",
     "name": "Template Name",
     "newTemplate": "New Template",
     "search": "Search for a template",
@@ -36,6 +37,7 @@
     "deletingTemplates_other": "Deleting {{count}} templates",
     "drainHolesHelp": "Drain holes help avoid print failures by allowing air to enter, and resin to escape from within the model.\n\nThis is a mandatory setting when printing hollow models, with hole positions determined automatically.",
     "hollowModelHelp": "Enable this option to create models that are hollowed out.\n\nThis reduces the amount of material that is consumed when printing the model.",
+    "modelTypeHelp": "Select from horse shoe or full palate models.",
     "noTemplates": "No templates created",
     "noTemplatesInfo": "Create a template to reuse settings for new designs",
     "removeTemplate": "Are you sure you want to remove this template?",
@@ -47,6 +49,10 @@
     "modelAttachmentTypes": {
       "none": "None",
       "pillars": "Pillars"
+    },
+    "modelType": {
+      "horseShoe": "Horse shoe",
+      "fullPalate": "Full palate"
     },
     "textStyle": {
       "embossed": "Embossed",
