@@ -4,10 +4,11 @@
     "region": "Data Region",
     "fullName": "Full Name",
     "organisationName": "Organisation Name",
+    "regionDescription_short": "Select the region where your organisation's data will be stored, processed, and backed up.\n<bold>This choice is permanent and cannot be changed after setup.</bold>",
+    "regionDescription_long": "Select the region where your organisation's data will be stored, processed, and backed up. \n<bold>This choice is permanent and cannot be changed after setup.</bold> Choose the region closest to your users for best performance, or the one that matches your regulatory requirements (e.g., GDPR, HIPAA, data residency laws).\n\nSwitching regions requires creating a new organisation and migrating manually.",
     "subtitle": "Automatically generate 3D printable models from intra-oral scans",
     "title": "Create your Genira account",
-    "website": "Website",
-    "regionDescription": "Select the region where your data will be stored and processed. <bold>This cannot be changed later.</bold>"
+    "website": "Website"
   },
   "message": {
     "emailResendSuccess": "Email sent. Please check your inbox.",
