@@ -47,8 +47,10 @@
   },
   "options": {
     "modelAttachmentTypes": {
+      "hingedArticulator": "Hinged articulator",
       "none": "None",
       "pillars": "Pillars"
+      
     },
     "modelType": {
       "horseShoe": "Horse shoe",
