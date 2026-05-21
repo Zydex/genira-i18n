@@ -123,6 +123,7 @@
     "perPage": "Per Page"
   },
   "title": {
+    "aiUsagePolicy": "Data AI Usage Policy",
     "cookiePolicy": "Cookie policy",
     "help": "View Help",
     "insufficientCredits": "Insufficient credits",
