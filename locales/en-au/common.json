@@ -88,9 +88,12 @@
     "unavailable": "Unavailable"
   },
   "message": {
+    "acceptAiUsagePolicy": "I accept the <a>Data AI Usage Policy</a>",
     "acceptPrivacyPolicy": "I accept the <a>Privacy Policy</a>",
     "acceptTermsOfService": "I accept the <a>Terms of Service</a>",
     "betaTest": "You're using the beta — enjoy 100 credits (100 cases) for free during this early release period.",
+    "contactOrgOwner": "Please contact your organisation owner to accept terms on behalf of your organisation.",
+    "contactOrgOwnerRefresh": "Once your organisation owner has accepted, refresh this page to continue.",
     "cookiePolicy": "We use cookies to enhance your browsing experience. To find out more, visit our <cookie>Cookie Policy</cookie> & <privacy>Privacy Statement</privacy>.",
     "insufficientCredits": "Contact the organisation Administrator or Owner to top up credits.",
     "insufficientCreditsAdmin": "Top up credits to process designs.",
@@ -100,7 +103,8 @@
     "noMatches": "Sorry, no matches were found",
     "noMatchesHelp": "Check for typos or try more general words\nAlternatively, try using the table filters",
     "reconnecting": "Reconnecting...",
-    "reviewAndAgreeToPolicies": "Before continuing, you need to review and agree to the <terms>Terms of Service</terms> and the <privacy>Privacy Policy</privacy>."
+    "reviewAndAgreeToPolicies": "Before continuing, you need to review and agree to the <terms>Terms of Service</terms> and the <privacy>Privacy Policy</privacy>.",
+    "reviewAndAgreeToOrgPolicies": "Before continuing, your organisation needs to review and agree to the following policies."
   },
   "notFoundPage": {
     "message_narrow": "Check the page address for typos or use the navigation menu on the top left",
@@ -119,6 +123,7 @@
     "perPage": "Per Page"
   },
   "title": {
+    "aiUsagePolicy": "Data AI Usage Policy",
     "cookiePolicy": "Cookie policy",
     "help": "View Help",
     "insufficientCredits": "Insufficient credits",
@@ -126,6 +131,7 @@
     "manage": "Manage",
     "manageSubscription": "Manage Subscription",
     "name": "Display Name",
+    "orgConsent": "Organisation Consent",
     "photo": "Photo",
     "privacyPolicy": "Privacy policy",
     "profile": "Profile",
