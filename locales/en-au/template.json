@@ -58,7 +58,8 @@
     },
     "textStyle": {
       "embossed": "Embossed",
-      "engraved": "Engraved"
+      "engraved": "Engraved",
+      "none": "None"
     }
   },
   "placeholder": {
