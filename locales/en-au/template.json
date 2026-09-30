@@ -38,7 +38,7 @@
     "deletingTemplates_one": "Deleting {{count}} template",
     "deletingTemplates_other": "Deleting {{count}} templates",
     "drainHolesHelp": "Drain holes help avoid print failures by allowing air to enter, and resin to escape from within the model.\n\nThis is a mandatory setting when printing hollow models, with hole positions determined automatically.",
-    "gingivalTrimDistanceHelp": "Target trim distance from the tooth border, in millimetres — has no effect where the scan lacks enough gingiva to reach it.",
+    "gingivalTrimDistanceHelp": "Target distance, in millimetres, to trim from the tooth border. Areas where the scan has less gingiva than this are trimmed only as far as the scan allows.",
     "gingivalTrimmingHelp": "Trims the gingiva back from the tooth border by a set distance. Disable to leave the gingiva untrimmed.",
     "hollowModelHelp": "Enable this option to create models that are hollowed out.\n\nThis reduces the amount of material that is consumed when printing the model.",
     "modelTypeHelp": "Select from horse shoe or full palate models.",
