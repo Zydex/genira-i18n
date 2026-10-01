@@ -144,6 +144,9 @@
     "termsOfService": "Terms of Service",
     "uploads": "Uploads"
   },
+  "units": {
+    "millimetres": "{{value}} mm"
+  },
   "underConstruction": {
     "subtitle1": "We're building something special",
     "subtitle2": "Check back later"
