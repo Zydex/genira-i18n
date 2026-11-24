@@ -44,6 +44,10 @@
       "title": "Missing scan"
     },
     "noScansDetected": "No scan files detected",
+    "resolutionLowered": {
+      "message": "A very large scan had its resolution lowered to 400k points to allow it to be processed.",
+      "title": "Resolution lowered"
+    },
     "unsupportedFileStructure": "Unsupported file structure"
   },
   "files": {
@@ -239,6 +243,8 @@
     "nameUpdateFailed": "Name update failed",
     "processingUpload": "Processing case for download",
     "processingUploads": "Processing {{amount}}/{{total}} cases for download",
+    "scanResolutionLowered_one": "A very large scan had its resolution lowered to 400k points so it can be processed",
+    "scanResolutionLowered_other": "{{count}} very large scans had their resolution lowered to 400k points so they can be processed",
     "someCasesNotReadyToDownload": "Some of the selected cases are not ready for download",
     "statusUpdateFailed": "Failed to change case status to downloaded",
     "statusUpdatedToDownloaded": "Case {{caseName}} moved from designed to downloaded",
