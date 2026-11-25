@@ -1,0 +1,272 @@
+{
+  "button": {
+    "addFolders": "Ordner hinzufügen",
+    "addScans": "Scans hinzufügen",
+    "browse": "Durchsuchen",
+    "browseDirectories": "Ordner durchsuchen",
+    "browseFiles": "Dateien durchsuchen",
+    "downloadDesigns": "Designs herunterladen",
+    "moveToNewCase": "In neuen Fall verschieben",
+    "newCase": "Neuer Fall",
+    "sendToFunnel": "An Funnel senden"
+  },
+  "caseInspector": {
+    "caseInformation": "Fallinformationen"
+  },
+  "details": {
+    "case": "Fall",
+    "caseInformation": "Fallinformationen"
+  },
+  "duplicate": {
+    "multipleUpperOrLower": {
+      "message": "Mehrere Oberkiefer- oder Unterkiefer-Scans erkannt",
+      "title": "Doppelte Scans"
+    }
+  },
+  "error": {
+    "basedModel": {
+      "message": "Das hochgeladene Modell ist bereits gesockelt. Laden Sie einen Rohscan hoch, um ein gesockeltes Modell zu erzeugen.",
+      "title": "Modell ist bereits gesockelt."
+    },
+    "emptyFolder": "Leerer Ordner erkannt",
+    "emptyMesh": {
+      "message": "Es wurden keine Geometriedaten des Scans gefunden",
+      "title": "Leerer Scan"
+    },
+    "failedToProcessCases_one": "{{count}} Fall konnte nicht verarbeitet werden",
+    "failedToProcessCases_other": "{{count}} Fälle konnten nicht verarbeitet werden",
+    "missingUpperAndLower": {
+      "message": "Die Scan-Namen folgen keiner bekannten Namenskonvention. Ändern Sie die Dateinamen oder erstellen Sie eine neue Namenskonvention. <a>Mehr erfahren</a>",
+      "title": "Scans können nicht erkannt werden"
+    },
+    "missingUpperOrLower": {
+      "message": "Im Fall fehlt ein Unterkiefer- oder Oberkiefer-Scan",
+      "title": "Fehlender Scan"
+    },
+    "noScansDetected": "Keine Scandateien erkannt",
+    "unsupportedFileStructure": "Nicht unterstützte Dateistruktur"
+  },
+  "files": {
+    "cases": "faelle-{{time}}.zip",
+    "designs": "designs-{{time}}.zip"
+  },
+  "filters": {
+    "all": "Alle",
+    "designed": "Designt",
+    "downloaded": "Heruntergeladen",
+    "issues": "Probleme",
+    "rejected": "Abgelehnt"
+  },
+  "issues": {
+    "modelBasing": {
+      "basingError": {
+        "message": "Gesockeltes Modell kann nicht erzeugt werden.\n<a>Mehr erfahren</a> über diesen Fehler.",
+        "status": "Gesockeltes Modell kann nicht erzeugt werden"
+      },
+      "hollowingError": {
+        "message": "Hohles Modell konnte nicht erzeugt werden.\n<a>Mehr erfahren</a> über diesen Fehler.",
+        "status": "Hohles Modell konnte nicht erzeugt werden"
+      },
+      "occlusalPlaneError": {
+        "message": "Okklusionsebene kann nicht berechnet werden.\n<a>Mehr erfahren</a> über diesen Fehler.",
+        "status": "Okklusionsebene kann nicht berechnet werden"
+      },
+      "pillarGenerationError": {
+        "message": "Attachments konnten nicht erzeugt werden.\n<a>Mehr erfahren</a> über diesen Fehler.",
+        "status": "Attachments konnten nicht erzeugt werden"
+      },
+      "preprocessingError": {
+        "message": "Scans konnten nicht vorverarbeitet werden.\n<a>Mehr erfahren</a> über diesen Fehler.",
+        "status": "Scans können nicht vorverarbeitet werden"
+      },
+      "retry": {
+        "asSolid": "Design als massives Modell erneut versuchen? <a>Erneut versuchen</a>",
+        "withoutAttachments": "Design ohne Attachments erneut versuchen? <a>Erneut versuchen</a>"
+      },
+      "textGenerationError": {
+        "message": "Textbeschriftung kann dem Modell nicht hinzugefügt werden.\n<a>Mehr erfahren</a> über diesen Fehler.",
+        "status": "Beschriftung konnte nicht vollständig erzeugt werden"
+      },
+      "textGenerationWarning": {
+        "message": "Die Textbeschriftung kann dem Modell nicht vollständig hinzugefügt werden. Wahrscheinlich ist für die Textlänge nicht genügend freier Platz vorhanden.\n<a>Mehr erfahren</a> über diesen Fehler.",
+        "status": "Beschriftung konnte nicht vollständig erzeugt werden"
+      },
+      "toothSegmentationError": {
+        "message": "Zähne können nicht klassifiziert werden.\n<a>Mehr erfahren</a> über diesen Fehler.",
+        "status": "Zähne können nicht klassifiziert werden"
+      },
+      "ventGenerationError": {
+        "message": "Ablauflöcher konnten nicht erzeugt werden.\n<a>Mehr erfahren</a> über diesen Fehler.",
+        "status": "Ablauflöcher konnten nicht erzeugt werden"
+      }
+    }
+  },
+  "label": {
+    "addingCases": "Fälle werden hinzugefügt...",
+    "addingCases_amount": "Fälle werden hinzugefügt... ({{amount}}/{{total}})",
+    "caseInformation": "Fallinformationen",
+    "caseName": "Fallname",
+    "casesAdded": "Fälle hinzugefügt! ({{amount}}/{{total}})",
+    "deleteDesign": "Design löschen",
+    "designedModel": "Designt",
+    "dontRemindMe": "Nicht mehr erinnern",
+    "downloadCases": "Fälle herunterladen",
+    "downloadScans": "Scans herunterladen",
+    "dropFile": "Datei zum Fall hinzufügen",
+    "enterCaseName": "Fallnamen eingeben",
+    "enterNewCaseName": "Geben Sie einen neuen Namen für den Fall ein",
+    "estimatedTime": "Geschätzte Zeit",
+    "failedToMarkAsRejected_one": "Fall konnte nicht als abgelehnt markiert werden",
+    "failedToMarkAsRejected_other": "{{count}} Fälle konnten nicht als abgelehnt markiert werden",
+    "markingCasesAsRejected_one": "Fall wird als abgelehnt markiert",
+    "markingCasesAsRejected_other": "{{count}} Fälle werden als abgelehnt markiert",
+    "rejectedBy": "Abgelehnt von",
+    "renameDesign": "Design umbenennen",
+    "scan": "Scan",
+    "scanUploadCancelled": "{{scanName}} (abgebrochen)",
+    "search": "Suchen",
+    "selectDownloadOption": "Download-Option auswählen",
+    "sendingToFunnel": "Wird an Funnel gesendet",
+    "template": "Vorlage",
+    "uploadComplete": "Upload abgeschlossen",
+    "uploadedAt": "Hochgeladen am",
+    "uploadedBy": "Hochgeladen von",
+    "uploading": "Wird hochgeladen"
+  },
+  "message": {
+    "basedModelsUploaded": "Anscheinend sind eine oder mehrere Ihrer Dateien bereits gesockelte Modelle. Laden Sie Rohscans hoch, um gesockelte Modelle zu erzeugen.\n\n<a>Teilen Sie uns mit</a>, ob Sie erwartet haben, gesockelte Modelle verwenden zu können, oder ob Sie weiteres Feedback haben.",
+    "downloadRejectedDesigns_one": "Ihrem Konto werden {{cost}} Credits belastet.",
+    "downloadRejectedDesigns_other": "Ihre Auswahl enthält {{count}} Fälle, die bereits abgelehnt wurden.\n\nIhrem Konto werden {{cost}} Credits belastet.",
+    "downloadRejectedInsufficientCredits_one": "Abgelehnte Designs können aufgrund unzureichender Credits nicht heruntergeladen werden.\n\nWenden Sie sich an den Administrator oder Inhaber der Organisation, um Credits aufzuladen.",
+    "downloadRejectedInsufficientCredits_other": "Ihre Auswahl enthält {{count}} Fälle, die bereits abgelehnt wurden.\n\nUm diese abgelehnten Designs herunterzuladen, wenden Sie sich an den Administrator oder Inhaber der Organisation, um Credits aufzuladen.",
+    "downloadRejectedInsufficientCreditsAdmin_one": "Abgelehnte Designs können aufgrund unzureichender Credits nicht heruntergeladen werden.\n\nUm diese abgelehnten Designs herunterzuladen, laden Sie Ihre Konto-Credits auf.",
+    "downloadRejectedInsufficientCreditsAdmin_other": "Ihre Auswahl enthält {{count}} Fälle, die bereits abgelehnt wurden.\n\nUm diese abgelehnten Designs herunterzuladen, laden Sie Ihre Konto-Credits auf.",
+    "draggedCase_zero": "{{name}}",
+    "draggedCase_one": "<shrink>{{name}}</shrink> <span>und {{count}} weiterer</span>",
+    "draggedCase_other": "<shrink>{{name}}</shrink> <span>und {{count}} weitere</span>",
+    "emptyFolderHelp": "Im ausgewählten Ordner wurden keine Dateien erkannt. Überprüfen Sie den Inhalt und versuchen Sie es erneut.",
+    "markCasesAsRejected": "Abgelehnte Designs können nicht heruntergeladen werden. Für dieses Design reservierte Credits werden erstattet.",
+    "noCases": "Keine Fälle gefunden",
+    "noScans": "Dieser Fall enthält keine Scans.",
+    "noScansDetectedHelp": "Im ausgewählten Ordner wurden keine Dateien im STL- oder PLY-Format erkannt.",
+    "processingCases_one": "Fall wird verarbeitet",
+    "processingCases_other": "{{count}} Fälle werden verarbeitet",
+    "quitUploadWarning": "Designs für die ausgewählten Fälle werden nicht verarbeitet.",
+    "rejectedReason": "Teilen Sie uns mit, warum Sie dieses Design abgelehnt haben:",
+    "sortCasesByIssues": "Die Fälle in der Liste werden neu angeordnet, sodass Fälle mit Problemen zuerst angezeigt werden.",
+    "unsupportedFileStructureHelp": "Es werden nur STL- oder PLY-Dateien akzeptiert."
+  },
+  "scans": {
+    "combined": "Kombiniert",
+    "lower": "Unterkiefer",
+    "unspecified": "Nicht angegeben",
+    "upper": "Oberkiefer"
+  },
+  "status": {
+    "complete": "Design abgeschlossen",
+    "downloaded": "Heruntergeladen",
+    "failed": "Fehlgeschlagen",
+    "insufficientCredits": "Unzureichende Credits",
+    "pendingUpload": "Wird hochgeladen",
+    "processing": "Wird verarbeitet",
+    "rejected": "Abgelehnt",
+    "toProcess": "Zu verarbeiten",
+    "unknown": "Unbekannter Status",
+    "uploaded": "Hochgeladen"
+  },
+  "table": {
+    "emptyState": {
+      "all": {
+        "header": "Noch keine Designs erstellt",
+        "paragraph": "Design-Fälle werden hier angezeigt, sobald Scans hochgeladen wurden\nWählen Sie zum Starten die Schaltfläche Erstellen"
+      },
+      "designed": {
+        "header": "Noch keine Designs erstellt",
+        "paragraph": "Design-Fälle werden hier angezeigt, sobald Scans hochgeladen wurden\nWählen Sie zum Starten die Schaltfläche Erstellen"
+      },
+      "downloaded": {
+        "header": "Keine Designs heruntergeladen",
+        "paragraph": "Heruntergeladene Designs werden hier angezeigt"
+      },
+      "issues": {
+        "header": "Keine Designprobleme",
+        "paragraph": "Designs mit Problemen werden hier angezeigt"
+      },
+      "processing": {
+        "header": "Derzeit werden keine Designs verarbeitet",
+        "paragraph": "Verarbeitete Designs werden hier angezeigt"
+      },
+      "rejected": {
+        "header": "Keine Designs abgelehnt",
+        "paragraph": "Abgelehnte Designs werden hier angezeigt"
+      }
+    }
+  },
+  "text": {
+    "permanentlyRemoveCase_one": "Dieser Fall wird dauerhaft aus dem System entfernt.",
+    "permanentlyRemoveCase_other": "{{count}} Fälle werden dauerhaft aus dem System entfernt."
+  },
+  "title": {
+    "caseID": "Fall-ID",
+    "caseName": "Fallname",
+    "caseNumber": "Fallnummer",
+    "cases": "Fälle",
+    "completeWithIssues": "Mit Problemen abgeschlossen",
+    "designs": "Designs",
+    "downloadRejectedDesigns": "Abgelehnte Designs herunterladen?",
+    "failed": "Fehlgeschlagen",
+    "name": "Name",
+    "newCase": "Neuer Fall",
+    "quitUploadWarning": "Designs verwerfen?",
+    "received": "Empfangen",
+    "rejectDesign": "Design ablehnen?",
+    "scanType": "Scantyp",
+    "sortCasesByIssues": "Fälle nach Problemen sortieren",
+    "status": "Status",
+    "untitled": "Unbenannt",
+    "uploadRawScans": "Rohscans hochladen",
+    "uploads": "Uploads"
+  },
+  "toast": {
+    "allCasesNotReadyToDownload": "Die ausgewählten Fälle sind nicht zum Download bereit",
+    "caseUpdated": "Fall erfolgreich aktualisiert",
+    "failedToDownloadCase": "Fall {{caseName}} konnte nicht heruntergeladen werden",
+    "failedToGenerateZip": "ZIP-Datei konnte nicht erstellt werden",
+    "failedToLoadCase_one": "Fall konnte nicht geladen werden",
+    "failedToLoadCase_other": "{{count}} Fälle konnten nicht geladen werden",
+    "failedToLoadCaseRanOutOfSpace_one": "Fall konnte nicht geladen werden, der Browser hat keinen Speicherplatz mehr",
+    "failedToLoadCaseRanOutOfSpace_other": "{{count}} Fälle konnten nicht geladen werden, der Browser hat keinen Speicherplatz mehr",
+    "nameUpdateFailed": "Name konnte nicht aktualisiert werden",
+    "processingUpload": "Fall wird für den Download verarbeitet",
+    "processingUploads": "{{amount}}/{{total}} Fälle werden für den Download verarbeitet",
+    "someCasesNotReadyToDownload": "Einige der ausgewählten Fälle sind nicht zum Download bereit",
+    "statusUpdatedToDownloaded": "Fall {{caseName}} von „Designt“ nach „Heruntergeladen“ verschoben",
+    "statusUpdateFailed": "Fallstatus konnte nicht auf „Heruntergeladen“ geändert werden",
+    "unableToDownloadCases_one": "Fall kann nicht heruntergeladen werden",
+    "unableToDownloadCases_other": "{{count}} Fälle können nicht heruntergeladen werden",
+    "unableToDownloadDesigns_one": "Design kann nicht heruntergeladen werden",
+    "unableToDownloadDesigns_other": "{{count}} Designs können nicht heruntergeladen werden",
+    "unableToDownloadFiles": "Dateien können nicht heruntergeladen werden"
+  },
+  "uploadModal": {
+    "multipleScans": {
+      "message": "Dieser Fall enthält mehrere verwendbare Scans. Es werden die neuesten Scans für Oberkiefer und/oder Unterkiefer verwendet.",
+      "title": "Mehrere Scans"
+    },
+    "text": {
+      "designTemplate": "Designvorlage",
+      "dragAndDrop": "Dateien oder Ordner mit intraoralen PLY- oder STL-Scans hierher ziehen",
+      "hoverDragAndDrop": "Fallordner oder Intraoralscans ablegen, um Designs zu erstellen",
+      "or": "oder",
+      "processUploads": "Verarbeiten",
+      "scansHaveIssues_one": "{{count}} Fall hat Probleme",
+      "scansHaveIssues_other": "{{count}} Fälle haben Probleme",
+      "title": "Scans hochladen"
+    }
+  },
+  "uploadScans": {
+    "lower": "Unterkiefer",
+    "unknown": "Unbekannt",
+    "upper": "Oberkiefer"
+  }
+}
