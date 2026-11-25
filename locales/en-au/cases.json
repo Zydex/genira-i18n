@@ -45,7 +45,7 @@
     },
     "noScansDetected": "No scan files detected",
     "resolutionLowered": {
-      "message": "A very large scan had its resolution lowered to 400k points to allow it to be processed.",
+      "message": "A high-resolution scan was simplified to 400,000 vertices to improve processing performance.",
       "title": "Resolution lowered"
     },
     "unsupportedFileStructure": "Unsupported file structure"
@@ -243,8 +243,8 @@
     "nameUpdateFailed": "Name update failed",
     "processingUpload": "Processing case for download",
     "processingUploads": "Processing {{amount}}/{{total}} cases for download",
-    "scanResolutionLowered_one": "A very large scan had its resolution lowered to 400k points so it can be processed",
-    "scanResolutionLowered_other": "{{count}} very large scans had their resolution lowered to 400k points so they can be processed",
+    "scanResolutionLowered_one": "A high-resolution scan was simplified to 400,000 vertices to improve processing performance",
+    "scanResolutionLowered_other": "{{count}} high-resolution scans were simplified to 400,000 vertices to improve processing performance",
     "someCasesNotReadyToDownload": "Some of the selected cases are not ready for download",
     "statusUpdateFailed": "Failed to change case status to downloaded",
     "statusUpdatedToDownloaded": "Case {{caseName}} moved from designed to downloaded",
