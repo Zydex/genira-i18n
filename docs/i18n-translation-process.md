@@ -73,7 +73,10 @@ Run after all 6 files for a language have been produced:
    `en-au`'s key set, file by file — no missing or extra keys — and each value
    must keep the same `{{placeholder}}` tokens, tags, and `\n` count as its
    `en-au` source. This is a plain scripted diff, not something to delegate to an
-   agent. (`pirate` is a partial novelty locale and is excluded from this check.)
+   agent. `npm run check-missing-keys` reports any `en-au` keys missing from each
+   locale (and runs in CI); extra keys and token/tag/newline parity still need a
+   manual check. (`pirate` is a partial novelty locale and is excluded from this
+   check.)
 
 ## 4. Review report
 
