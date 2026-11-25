@@ -18,8 +18,3 @@ are listed here for reference only.
 | `common` | `links.underConstruction` | Under Construction | Im Aufbau | Under construction |
 | `common` | `error.userConflictAnotherOrg_details` | …request the user to unenrol from their previous organisation. | …bitten Sie den Benutzer, seine bisherige Organisation zu verlassen. | …ask the user to leave their current organization. |
 | `template` | `message.gingivalTrimDistanceHelp` | …Areas where the scan has less gingiva than this are trimmed only as far as the scan allows. | …Bereiche, in denen der Scan weniger Gingiva als diesen Abstand aufweist, werden nur so weit beschnitten, wie es der Scan zulässt. | …Areas where the scan has less gingiva than this distance are only trimmed as far as the scan allows. |
-
-## Reviewer notes
-
-- `cases`: `files.cases` was localised as `faelle-{{time}}.zip`, a download
-  filename. Confirm whether filenames should stay in English (`cases-{{time}}.zip`).

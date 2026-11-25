@@ -34,6 +34,8 @@ These are derived from the existing `locales/en-au/*.json` files and enforced
 - **Product names stay untranslated** (e.g. Genira). Genira is dental
   model/scan software, so translate domain terms (cases, scans, templates, model
   basing) using standard dental-lab terminology for the target language.
+- **Download filenames stay in English**: values under `files.*` in
+  `cases.json` (e.g. `cases-{{time}}.zip`) are copied verbatim, not translated.
 - **`_context` suffixes are preserved as-is** (e.g. `_details`, `_narrow`, `_org`)
   — same key, translate only the value.
 

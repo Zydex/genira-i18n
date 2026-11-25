@@ -47,7 +47,7 @@
     "unsupportedFileStructure": "Nicht unterstützte Dateistruktur"
   },
   "files": {
-    "cases": "faelle-{{time}}.zip",
+    "cases": "cases-{{time}}.zip",
     "designs": "designs-{{time}}.zip"
   },
   "filters": {
