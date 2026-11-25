@@ -2,23 +2,16 @@
 
 _Covers the 2026-11 batch run (MESH-1043)._
 
-The following strings still did not fully pass the back-translation fidelity check after a retry with alternate phrasings, and are flagged here for manual review.
+All strings passed the back-translation fidelity check, either on the first pass or after a retry with alternate phrasings. **No strings remain flagged for manual review.**
 
-## File: `cases`
+## Resolved in manual review
 
-### `toast.failedToLoadCase_one`
+| File | Key | English | Chosen Spanish |
+|---|---|---|---|
+| `cases` | `toast.failedToLoadCase_one` | Failed to load case | No se ha podido cargar el caso |
+| `cases` | `toast.failedToLoadCase_other` | Failed to load {{count}} cases | No se han podido cargar {{count}} casos |
 
-- **English original:** Failed to load case
-- **Chosen Spanish translation:** No se ha podido cargar el caso en el navegador
-- **Back-translation:** The case could not be loaded in the browser
-- **Reason flagged:** Adds 'in the browser', which the source does not say. This is a small drift, but it is not material. It is the only alternate that keeps 'load' (cargar). The other two say 'open' (abrir), which changes the action, and 'Error al abrir' also changes the tone to a generic error.
-
-### `toast.failedToLoadCase_other`
-
-- **English original:** Failed to load {{count}} cases
-- **Chosen Spanish translation:** No se han podido cargar {{count}} casos en el navegador
-- **Back-translation:** {{count}} cases could not be loaded in the browser
-- **Reason flagged:** Adds 'in the browser', which the source does not say. It is the only alternate that keeps 'load' rather than 'open', and {{count}} is preserved. It also stays consistent with the _one form.
+The pipeline's choice added "en el navegador" ("in the browser"), which isn't in the source. A reviewer removed it.
 
 ## Resolved after retry
 
