@@ -54,11 +54,10 @@
       "hingedArticulator": "Hinged articulator",
       "none": "None",
       "pillars": "Pillars"
-      
     },
     "modelType": {
-      "horseShoe": "Horse shoe",
-      "fullPalate": "Full palate"
+      "fullPalate": "Full palate",
+      "horseShoe": "Horse shoe"
     },
     "textStyle": {
       "embossed": "Embossed",
