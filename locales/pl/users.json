@@ -1,0 +1,61 @@
+{
+  "alt": {
+    "addUsers": "Dodaj użytkowników",
+    "profile": "Profil użytkownika"
+  },
+  "button": {
+    "add": "Dodaj użytkownika",
+    "changePassword": "Zmień hasło",
+    "changeRole": "Zmień rolę",
+    "deleteProfile": "Usuń profil",
+    "remove": "Usuń użytkownika",
+    "restoreAccess": "Przywróć dostęp",
+    "uploadPhoto": "Prześlij zdjęcie"
+  },
+  "label": {
+    "enterEmails": "Wprowadź adresy e-mail oddzielone przecinkami",
+    "search": "Wyszukaj użytkownika",
+    "users": "Użytkownicy"
+  },
+  "message": {
+    "addUsers": "Wprowadź poniżej adresy e-mail, aby zaprosić użytkowników do tej organizacji.",
+    "changePassword": "Zostanie wysłana wiadomość e-mail z linkiem do zmiany hasła.",
+    "changePassword_email": "Na adres {{email}} zostanie wysłana wiadomość e-mail z linkiem do zmiany hasła.",
+    "changeRole": "Zaktualizuj rolę:",
+    "changeRole_user": "Zaktualizuj rolę użytkownika {{user}}:",
+    "confirmDelAccounts_one": "Ten użytkownik utraci dostęp do tej organizacji.",
+    "confirmDelAccounts_other": "Ci użytkownicy utracą dostęp do tej organizacji.",
+    "confirmDelAccounts_org_one": "Ten użytkownik utraci dostęp do organizacji {{org}}.",
+    "confirmDelAccounts_org_other": "Ci użytkownicy utracą dostęp do organizacji {{org}}.",
+    "deleteProfile": "Twój profil zostanie trwale usunięty z Twojej organizacji.",
+    "deleteProfile_org": "Twój profil zostanie trwale usunięty z organizacji {{org}}.",
+    "linkSent": "Link został wysłany",
+    "loginLoadError": "Błąd podczas ładowania logowania. Spróbuj ponownie później.",
+    "profilePicture": "Dzięki temu inni mogą Cię rozpoznać, a Ty masz pewność, że korzystasz z właściwego konta.",
+    "userPageInfo": "Na tej stronie wyświetlani są użytkownicy Twojej organizacji"
+  },
+  "role": {
+    "admin": "Administrator",
+    "owner": "Właściciel",
+    "user": "Użytkownik"
+  },
+  "title": {
+    "changePassword": "Zmień hasło",
+    "changeRole": "Zmień rolę",
+    "changeRole_user": "Zaktualizuj rolę użytkownika {{user}}:",
+    "confirmDeleteProfile": "Potwierdź usunięcie profilu",
+    "deleteProfile": "Usuń profil",
+    "displayName": "Nazwa wyświetlana",
+    "edit": "Edytuj",
+    "email": "E-mail",
+    "invite": "Zaproś użytkowników",
+    "name": "Imię i nazwisko",
+    "photo": "Zdjęcie",
+    "profile": "Profil",
+    "remove_one": "Usunąć użytkownika?",
+    "remove_other": "Usunąć użytkowników?",
+    "restoreAccess": "Przywrócić dostęp użytkownikowi?",
+    "role": "Rola",
+    "usersName": "Imię i nazwisko użytkownika"
+  }
+}

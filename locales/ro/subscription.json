@@ -1,0 +1,40 @@
+{
+  "button": {
+    "purchase": "Cumpărați",
+    "purchaseCredits": "Cumpărați credite"
+  },
+  "description": {
+    "bannerNoCredits": "Generați automat design-uri cu un singur clic. Contactați administratorul pentru a cumpăra credite.",
+    "creditBundles": "Selectați unul dintre pachetele de mai jos pentru a cumpăra mai multe credite.",
+    "credits": "Credite",
+    "credits_one": "{{count}} credit",
+    "credits_other": "{{count}} de credite",
+    "creditSpend": "Descărcați o listă detaliată pentru a vedea pe ce ați cheltuit creditele.",
+    "enoughToProduce_one": "Suficient pentru a produce {{count}} caz",
+    "enoughToProduce_other": "Suficient pentru a produce {{count}} de cazuri",
+    "manageBilling": "Vizualizați facturile, verificați și actualizați cardul de plată.",
+    "noCredits": "Pentru a continua să generați design-uri, contactați administratorul organizației dvs. pentru a cumpăra mai multe credite.",
+    "purchaseCredits": "Cumpărați credite suplimentare pentru a continua să generați design-uri."
+  },
+  "file": {
+    "creditHistory": "{{org}}-credit-history-{{year}}"
+  },
+  "label": {
+    "currentYear": "{{year}} (anul curent)"
+  },
+  "message": {
+    "downloadedCreditSpend": "Istoricul creditelor a fost descărcat",
+    "downloadingCreditSpend": "Se descarcă istoricul creditelor"
+  },
+  "title": {
+    "amount": "Cantitate",
+    "createdAt": "Creat la",
+    "creditSpend": "Consum de credite",
+    "description": "Descriere",
+    "kind": "Tip",
+    "manageCredits": "Gestionare credite",
+    "noCredits": "Nu mai aveți credite",
+    "organisation": "Organizație",
+    "purchaseCreditBundles": "Cumpărare pachete de credite"
+  }
+}

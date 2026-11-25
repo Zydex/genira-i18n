@@ -1,0 +1,40 @@
+{
+  "button": {
+    "purchase": "Köp",
+    "purchaseCredits": "Köp krediter"
+  },
+  "description": {
+    "bannerNoCredits": "Generera designer automatiskt med ett enda klick. Kontakta administratören för att köpa krediter.",
+    "creditBundles": "Välj ett av paketen nedan för att köpa fler krediter.",
+    "credits": "Krediter",
+    "credits_one": "{{count}} kredit",
+    "credits_other": "{{count}} krediter",
+    "creditSpend": "Ladda ner en specificerad lista för att se vad du har använt dina krediter till.",
+    "enoughToProduce_one": "Räcker till {{count}} fall",
+    "enoughToProduce_other": "Räcker till {{count}} fall",
+    "manageBilling": "Visa fakturor samt granska och uppdatera betalkort.",
+    "noCredits": "Kontakta din organisations administratör för att köpa fler krediter och fortsätta generera designer.",
+    "purchaseCredits": "Köp ytterligare krediter för att fortsätta generera designer."
+  },
+  "file": {
+    "creditHistory": "{{org}}-credit-history-{{year}}"
+  },
+  "label": {
+    "currentYear": "{{year}} (Innevarande år)"
+  },
+  "message": {
+    "downloadedCreditSpend": "Kredithistorik nedladdad",
+    "downloadingCreditSpend": "Laddar ner kredithistorik"
+  },
+  "title": {
+    "amount": "Belopp",
+    "createdAt": "Skapad",
+    "creditSpend": "Kreditförbrukning",
+    "description": "Beskrivning",
+    "kind": "Typ",
+    "manageCredits": "Hantera krediter",
+    "noCredits": "Inga krediter kvar",
+    "organisation": "Organisation",
+    "purchaseCreditBundles": "Köp kreditpaket"
+  }
+}

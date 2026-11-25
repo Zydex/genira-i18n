@@ -1,0 +1,82 @@
+{
+  "alt": {
+    "modelIcon": "Model"
+  },
+  "button": {
+    "save": "Zapisz",
+    "update": "Aktualizuj"
+  },
+  "error": {
+    "failedDeletion_one": "Nie udało się usunąć {{count}} szablonu",
+    "failedDeletion_other": "Nie udało się usunąć szablonów: {{count}}"
+  },
+  "label": {
+    "affixText": "Tekst na modelu",
+    "createdBy": "Utworzył(a)",
+    "createdOn": "Data utworzenia",
+    "default": "Domyślny",
+    "designPart": "Element projektu",
+    "drainHoles": "Otwory odpływowe",
+    "gingivalTrimDistance": "Odległość przycięcia",
+    "gingivalTrimming": "Przycinanie dziąsła",
+    "hollowModel": "Model drążony",
+    "modelAttachmentTypes": "Łączniki",
+    "modelType": "Typ modelu",
+    "name": "Nazwa szablonu",
+    "newTemplate": "Nowy szablon",
+    "search": "Wyszukaj szablon",
+    "studyModel": "Model diagnostyczny",
+    "textStyle": "Styl tekstu"
+  },
+  "message": {
+    "affixTextHelp": "Ułatw identyfikację elementów, dodając tekst do generowanych projektów.\n\nNa modelach zostanie umieszczona nazwa przypadku.",
+    "attachmentHelp": "Łączniki służą do utrzymania pozycji zgryzowej modeli fizycznych.\n\nSą generowane tylko dla przypadków, które mają skan górny (szczęka) i dolny (żuchwa).",
+    "createATemplate": "Utwórz szablon dla swoich projektów",
+    "deleteTemplate": "Ten szablon nie będzie już dostępny dla przyszłych przypadków.",
+    "deleteTemplate_one": "Ten szablon nie będzie już dostępny dla przyszłych przypadków.",
+    "deleteTemplate_other": "Te szablony nie będą już dostępne dla przyszłych przypadków.",
+    "deletingTemplates_one": "Usuwanie {{count}} szablonu",
+    "deletingTemplates_other": "Usuwanie szablonów: {{count}}",
+    "drainHolesHelp": "Otwory odpływowe pomagają uniknąć błędów druku, umożliwiając dopływ powietrza i odpływ żywicy z wnętrza modelu.\n\nTo ustawienie jest obowiązkowe przy drukowaniu modeli drążonych, a położenie otworów jest określane automatycznie.",
+    "gingivalTrimDistanceHelp": "Docelowa odległość przycięcia od granicy zęba, w milimetrach. Obszary, w których skan obejmuje mniej dziąsła niż ta wartość, są przycinane tylko w zakresie, na jaki pozwala skan.",
+    "gingivalTrimmingHelp": "Przycina dziąsło od granicy zęba na określoną odległość. Wyłącz, aby pozostawić dziąsło nieprzycięte.",
+    "hollowModelHelp": "Włącz tę opcję, aby tworzyć modele drążone.\n\nZmniejsza to ilość materiału zużywanego podczas drukowania modelu.",
+    "modelTypeHelp": "Wybierz model podkowiasty lub z pełnym podniebieniem.",
+    "noTemplates": "Brak utworzonych szablonów",
+    "noTemplatesInfo": "Utwórz szablon, aby ponownie używać ustawień w nowych projektach",
+    "removeTemplate": "Czy na pewno chcesz usunąć ten szablon?",
+    "renameTemplate": "Szablon o tej nazwie już istnieje. Zmień nazwę szablonu, aby kontynuować.",
+    "templateNameHelp": "Nadaj zapisanym ustawieniom łatwą do zapamiętania nazwę, aby szybko je rozpoznać.\n\nNazwa ta będzie widoczna na liście rozwijanej szablonów projektu.",
+    "textStyleHelp": "Grawerowanie wycina tekst w modelu.\n\nWytłoczenie wyciąga tekst ponad powierzchnię modelu."
+  },
+  "options": {
+    "modelAttachmentTypes": {
+      "hingedArticulator": "Artykulator zawiasowy",
+      "none": "Brak",
+      "pillars": "Filary"
+    },
+    "modelType": {
+      "fullPalate": "Pełne podniebienie",
+      "horseShoe": "Podkowa"
+    },
+    "textStyle": {
+      "embossed": "Wytłoczony",
+      "engraved": "Grawerowany",
+      "none": "Brak"
+    }
+  },
+  "placeholder": {
+    "templateName": "Nazwa szablonu jest wymagana"
+  },
+  "text": {
+    "addTemplate": "Dodaj szablon",
+    "editTemplate": "Edytuj szablon"
+  },
+  "title": {
+    "deleteTemplate": "Usunąć szablon?",
+    "removeTemplate": "Usuń szablon",
+    "renameTemplate": "Zmień nazwę szablonu",
+    "templateName": "Nazwa szablonu",
+    "templates": "Szablony"
+  }
+}

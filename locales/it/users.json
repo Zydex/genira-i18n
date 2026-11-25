@@ -1,0 +1,61 @@
+{
+  "alt": {
+    "addUsers": "Aggiungi utenti",
+    "profile": "Profilo utente"
+  },
+  "button": {
+    "add": "Aggiungi utente",
+    "changePassword": "Cambia password",
+    "changeRole": "Cambia ruolo",
+    "deleteProfile": "Elimina profilo",
+    "remove": "Rimuovi utente",
+    "restoreAccess": "Ripristina accesso",
+    "uploadPhoto": "Carica foto"
+  },
+  "label": {
+    "enterEmails": "Inserisci gli indirizzi email, separati da virgola",
+    "search": "Cerca un utente",
+    "users": "Utenti"
+  },
+  "message": {
+    "addUsers": "Inserisci gli indirizzi email qui sotto per invitare utenti in questa organizzazione.",
+    "changePassword": "Verrà inviata un'email con un link per cambiare la password.",
+    "changePassword_email": "Verrà inviata un'email a {{email}} con un link per cambiare la password.",
+    "changeRole": "Aggiorna ruolo:",
+    "changeRole_user": "Aggiorna il ruolo di {{user}}:",
+    "confirmDelAccounts_one": "Questo utente non avrà più accesso a questa organizzazione.",
+    "confirmDelAccounts_other": "Questi utenti non avranno più accesso a questa organizzazione.",
+    "confirmDelAccounts_org_one": "Questo utente non avrà più accesso a {{org}}.",
+    "confirmDelAccounts_org_other": "Questi utenti non avranno più accesso a {{org}}.",
+    "deleteProfile": "Il tuo profilo verrà rimosso definitivamente dalla tua organizzazione.",
+    "deleteProfile_org": "Il tuo profilo verrà rimosso definitivamente da {{org}}.",
+    "linkSent": "Link inviato",
+    "loginLoadError": "Errore durante il caricamento dell'accesso. Riprova più tardi.",
+    "profilePicture": "Aiuta gli altri a riconoscerti e ti permette di verificare di aver effettuato l'accesso all'account corretto.",
+    "userPageInfo": "In questa pagina sono mostrati gli utenti della tua organizzazione"
+  },
+  "role": {
+    "admin": "Amministratore",
+    "owner": "Proprietario",
+    "user": "Utente"
+  },
+  "title": {
+    "changePassword": "Cambia password",
+    "changeRole": "Cambia ruolo",
+    "changeRole_user": "Aggiorna il ruolo di {{user}}:",
+    "confirmDeleteProfile": "Conferma eliminazione del profilo",
+    "deleteProfile": "Elimina profilo",
+    "displayName": "Nome visualizzato",
+    "edit": "Modifica",
+    "email": "Email",
+    "invite": "Invita utenti",
+    "name": "Nome",
+    "photo": "Foto",
+    "profile": "Profilo",
+    "remove_one": "Rimuovere l'utente?",
+    "remove_other": "Rimuovere gli utenti?",
+    "restoreAccess": "Ripristinare l'accesso per l'utente?",
+    "role": "Ruolo",
+    "usersName": "Nome dell'utente"
+  }
+}

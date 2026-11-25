@@ -1,0 +1,32 @@
+{
+  "label": {
+    "country": "Țară",
+    "fullName": "Nume complet",
+    "organisationName": "Numele organizației",
+    "region": "Regiunea datelor",
+    "regionDescription_long": "Selectați regiunea în care datele organizației dumneavoastră vor fi stocate, procesate și copiate de rezervă. \n<bold>Această alegere este permanentă și nu poate fi modificată după configurare.</bold> Alegeți regiunea cea mai apropiată de utilizatorii dumneavoastră pentru performanțe optime sau pe cea care corespunde cerințelor dumneavoastră de reglementare (de ex., GDPR, HIPAA, legi privind rezidența datelor).\n\nSchimbarea regiunii necesită crearea unei organizații noi și migrarea manuală.",
+    "regionDescription_short": "Selectați regiunea în care datele organizației dumneavoastră vor fi stocate, procesate și copiate de rezervă.\n<bold>Această alegere este permanentă și nu poate fi modificată după configurare.</bold>",
+    "subtitle": "Generați automat modele imprimabile 3D din scanări intraorale",
+    "title": "Creați-vă contul Genira",
+    "website": "Site web"
+  },
+  "message": {
+    "acceptAiUsagePolicy": "Accept <a>Politica de utilizare a datelor pentru IA</a> a Genira",
+    "baaResendSuccess": "E-mailul BAA a fost trimis. Vă rugăm să vă verificați căsuța de e-mail.",
+    "checkEmailTo": "Verificați e-mailul trimis către:",
+    "emailResendSuccess": "E-mailul a fost trimis. Vă rugăm să vă verificați căsuța de e-mail.",
+    "emailVerified": "<bold>E-mailul a fost verificat cu succes</bold>\nVeți fi redirecționat în curând...",
+    "hipaaBaa": "Pentru utilizarea Genira în această regiune va fi generat un Acord de asociat de afaceri (BAA) HIPAA.",
+    "redirecting": "Veți fi redirecționat în curând...",
+    "regionError": "Genira este disponibil în prezent doar în Australia.",
+    "resendBaaError": "Nu s-a putut retrimite e-mailul BAA. Vă rugăm să încercați din nou mai târziu.",
+    "resendEmail": "Retrimiteți e-mailul de verificare",
+    "resendEmailError": "Nu s-a putut retrimite e-mailul de verificare. Vă rugăm să încercați din nou mai târziu.",
+    "resendLink": "Retrimiteți linkul",
+    "sendingBaaEmail": "Se trimite e-mailul BAA...",
+    "sendingEmail": "Se trimite e-mailul de verificare...",
+    "signBaa": "Semnați Acordul de asociat de afaceri",
+    "verifyEmail": "Vă rugăm să vă verificați adresa de e-mail pentru a accesa Genira.",
+    "verifyEmailAddress": "Verificați-vă adresa de e-mail"
+  }
+}

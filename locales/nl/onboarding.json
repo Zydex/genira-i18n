@@ -1,0 +1,32 @@
+{
+  "label": {
+    "country": "Land",
+    "fullName": "Volledige naam",
+    "organisationName": "Naam organisatie",
+    "region": "Dataregio",
+    "regionDescription_long": "Selecteer de regio waar de gegevens van uw organisatie worden opgeslagen, verwerkt en geback-upt. \n<bold>Deze keuze is definitief en kan na de installatie niet meer worden gewijzigd.</bold> Kies de regio die het dichtst bij uw gebruikers ligt voor de beste prestaties, of de regio die aansluit bij uw wettelijke vereisten (bijv. AVG, HIPAA, wetgeving inzake gegevenslocatie).\n\nAls u van regio wilt wisselen, moet u een nieuwe organisatie aanmaken en handmatig migreren.",
+    "regionDescription_short": "Selecteer de regio waar de gegevens van uw organisatie worden opgeslagen, verwerkt en geback-upt.\n<bold>Deze keuze is definitief en kan na de installatie niet meer worden gewijzigd.</bold>",
+    "subtitle": "Genereer automatisch 3D-printbare modellen uit intraorale scans",
+    "title": "Maak uw Genira-account aan",
+    "website": "Website"
+  },
+  "message": {
+    "acceptAiUsagePolicy": "Ik accepteer het <a>Beleid voor AI-gebruik van gegevens</a> van Genira",
+    "baaResendSuccess": "BAA-e-mail verzonden. Controleer uw inbox.",
+    "checkEmailTo": "Controleer uw e-mail op:",
+    "emailResendSuccess": "E-mail verzonden. Controleer uw inbox.",
+    "emailVerified": "<bold>E-mailadres succesvol geverifieerd</bold>\nU wordt zo doorgestuurd...",
+    "hipaaBaa": "Er wordt een HIPAA Business Associate Agreement gegenereerd voor het gebruik van Genira in deze regio.",
+    "redirecting": "U wordt zo doorgestuurd...",
+    "regionError": "Genira wordt momenteel alleen ondersteund in Australië.",
+    "resendBaaError": "Kan de BAA-e-mail niet opnieuw verzenden. Probeer het later opnieuw.",
+    "resendEmail": "Verificatie-e-mail opnieuw verzenden",
+    "resendEmailError": "Kan de verificatie-e-mail niet opnieuw verzenden. Probeer het later opnieuw.",
+    "resendLink": "Link opnieuw verzenden",
+    "sendingBaaEmail": "BAA-e-mail verzenden...",
+    "sendingEmail": "Verificatie-e-mail verzenden...",
+    "signBaa": "Onderteken de Business Associate Agreement",
+    "verifyEmail": "Verifieer uw e-mailadres om toegang te krijgen tot Genira.",
+    "verifyEmailAddress": "Verifieer uw e-mailadres"
+  }
+}

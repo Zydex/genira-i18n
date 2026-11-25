@@ -1,0 +1,154 @@
+{
+  "alt": {
+    "logo": "Genira Model Basing",
+    "noSearchResults": "Geen zoekresultaten"
+  },
+  "button": {
+    "accept": "Accepteren",
+    "acceptAll": "Alles accepteren",
+    "add": "Toevoegen",
+    "cancel": "Annuleren",
+    "close": "Sluiten",
+    "continue": "Doorgaan",
+    "delete": "Verwijderen",
+    "deny": "Weigeren",
+    "discard": "Weggooien",
+    "download": "Downloaden",
+    "edit": "Bewerken",
+    "essentialOnly": "Alleen essentiële",
+    "invite": "Uitnodigen",
+    "logout": "Uitloggen",
+    "ok": "OK",
+    "process": "Verwerken",
+    "refresh": "Vernieuwen",
+    "reject": "Afwijzen",
+    "rejectAll": "Alles weigeren",
+    "remove": "Verwijderen",
+    "rename": "Naam wijzigen",
+    "retry": "Opnieuw proberen",
+    "save": "Opslaan",
+    "showLess": "Minder weergeven",
+    "showMore": "Meer weergeven",
+    "topUp": "Opwaarderen",
+    "undo": "Ongedaan maken",
+    "update": "Bijwerken",
+    "uploadCancelled": "Upload geannuleerd"
+  },
+  "dialog": {
+    "no": "Nee",
+    "yes": "Ja"
+  },
+  "displayError": {
+    "button": "Contact opnemen met support",
+    "message": "Controleer de verbinding en probeer de webpagina te vernieuwen.\nNeem contact op met support als het probleem aanhoudt."
+  },
+  "error": {
+    "emptyModelFile_one": "{{count}} geüploade scan bevat geen leesbare gegevens",
+    "emptyModelFile_other": "{{count}} geüploade scans bevatten geen leesbare gegevens",
+    "failedDeletion_one": "Verwijderen van {{count}} casus mislukt",
+    "failedDeletion_other": "Verwijderen van {{count}} casussen mislukt",
+    "failedToLoadScan": "Scangegevens konden niet worden gelezen, controleer het geüploade bestand",
+    "notAuthorized": "U bent niet gemachtigd om deze actie uit te voeren",
+    "unableToLoad": "Kan niet laden.",
+    "unspecified": "Er is een onbekende fout opgetreden",
+    "userConflict": "Gebruiker bestaat al.",
+    "userConflict_details": "Er bestaat al een gebruiker met het e-mailadres {{details}} in uw organisatie of een andere organisatie. Gebruik een ander e-mailadres.",
+    "userConflictAnotherOrg_details": "Het e-mailadres {{details}} is al gekoppeld aan een andere organisatie. Gebruik een ander e-mailadres of vraag de gebruiker zich af te melden bij de vorige organisatie.",
+    "userConflictWithinOrg_details": "Er bestaat al een gebruiker met het e-mailadres {{details}} in uw organisatie.",
+    "userNotFound": "Gebruiker niet gevonden.",
+    "userNotFound_details": "Gebruiker met e-mailadres {{details}} kon niet worden gevonden."
+  },
+  "label": {
+    "cancelUploadModalButtonSecondary": "Uploads voortzetten",
+    "cancelUploadsModalButtonPrimary": "Uploads annuleren",
+    "cancelUploadsModalTitle": "Resterende uploads annuleren?",
+    "deletingCases_one": "{{count}} casus wordt verwijderd",
+    "deletingCases_other": "{{count}} casussen worden verwijderd",
+    "dropFile": "Bestand aan de casus toevoegen",
+    "itemSelected_one": "1 item geselecteerd",
+    "itemSelected_other": "{{count}} items geselecteerd",
+    "language": "Taal",
+    "locale": "Landinstelling",
+    "logo": "Logo",
+    "none": "Geen",
+    "openDrawer": "Menu openen",
+    "preparingDownload": "Download wordt voorbereid",
+    "rejectModal": "Geselecteerde scans worden niet langer in aanmerking genomen voor de casus.",
+    "settingsTab": "Tabblad Instellingen",
+    "tabs": "Tabbladen",
+    "users": "Gebruikers"
+  },
+  "links": {
+    "create": "Maken",
+    "designs": "Ontwerpen",
+    "manage": "Beheren",
+    "underConstruction": "In aanbouw"
+  },
+  "loading": {
+    "loading": "Laden",
+    "unavailable": "Niet beschikbaar"
+  },
+  "message": {
+    "acceptAiUsagePolicy": "Ik accepteer het <a>Beleid voor AI-gebruik van gegevens</a>",
+    "acceptPrivacyPolicy": "Ik accepteer het <a>Privacybeleid</a>",
+    "acceptTermsOfService": "Ik accepteer de <a>Servicevoorwaarden</a>",
+    "betaTest": "U gebruikt de bètaversie — profiteer tijdens deze vroege releaseperiode van 100 gratis credits (100 casussen).",
+    "contactOrgOwner": "Neem contact op met de eigenaar van uw organisatie om de voorwaarden namens uw organisatie te accepteren.",
+    "contactOrgOwnerRefresh": "Vernieuw deze pagina om door te gaan zodra de eigenaar van uw organisatie heeft geaccepteerd.",
+    "cookiePolicy": "We gebruiken cookies om uw surfervaring te verbeteren. Lees voor meer informatie ons <cookie>Cookiebeleid</cookie> en onze <privacy>Privacyverklaring</privacy>.",
+    "cookiePreferencesAllowed": "U hebt alle cookies toegestaan, inclusief analyse- en supportcookies.",
+    "cookiePreferencesDenied": "U gebruikt alleen strikt noodzakelijke cookies.",
+    "insufficientCredits": "Neem contact op met de beheerder of eigenaar van de organisatie om credits op te waarderen.",
+    "insufficientCreditsAdmin": "Waardeer credits op om ontwerpen te verwerken.",
+    "insufficientCreditsAdminLong": "Sommige ontwerpen kunnen niet worden verwerkt vanwege onvoldoende credits.\n\nSelecteer na het opwaarderen de casussen met de markering “Te verwerken” en klik op “Verwerken” om ontwerpen te genereren.",
+    "insufficientCreditsLong": "Sommige ontwerpen kunnen niet worden verwerkt vanwege onvoldoende credits. Neem contact op met de beheerder of eigenaar van de organisatie om credits op te waarderen.\n\nSelecteer na het opwaarderen de casussen met de markering “Te verwerken” en klik op “Verwerken” om ontwerpen te genereren.",
+    "noConnection": "Kan geen verbinding maken, nieuwe poging over {{time}}",
+    "noMatches": "Helaas, er zijn geen overeenkomsten gevonden",
+    "noMatchesHelp": "Controleer op typfouten of probeer algemenere woorden\nU kunt ook de tabelfilters gebruiken",
+    "reconnecting": "Opnieuw verbinden...",
+    "reviewAndAgreeToOrgPolicies": "Voordat u verdergaat, moet uw organisatie het volgende beleid doornemen en ermee akkoord gaan.",
+    "reviewAndAgreeToPolicies": "Voordat u verdergaat, moet u de <terms>Servicevoorwaarden</terms> en het <privacy>Privacybeleid</privacy> doornemen en ermee akkoord gaan."
+  },
+  "notFoundPage": {
+    "message_narrow": "Controleer het paginaadres op typfouten of gebruik het navigatiemenu linksboven",
+    "message_wide": "Controleer het paginaadres op typfouten of gebruik de navigatieknoppen aan de linkerkant",
+    "title": "We kunnen die pagina niet vinden"
+  },
+  "table": {
+    "emptyState": {
+      "noMatches": {
+        "header": "Helaas, er zijn geen overeenkomsten gevonden",
+        "paragraph": "Controleer op typfouten of probeer algemenere woorden\nU kunt ook de tabelfilters gebruiken"
+      }
+    },
+    "expandRow": "Rij uitvouwen",
+    "pageAmount": "Aantal",
+    "perPage": "Per pagina"
+  },
+  "title": {
+    "aiUsagePolicy": "Beleid voor AI-gebruik van gegevens",
+    "cookiePolicy": "Cookiebeleid",
+    "help": "Help bekijken",
+    "insufficientCredits": "Onvoldoende credits",
+    "language": "Taal",
+    "manage": "Beheren",
+    "manageSubscription": "Abonnement beheren",
+    "name": "Weergavenaam",
+    "orgConsent": "Toestemming organisatie",
+    "photo": "Foto",
+    "privacy": "Privacy",
+    "privacyPolicy": "Privacybeleid",
+    "profile": "Profiel",
+    "settings": "Instellingen",
+    "termsAndPolicy": "Servicevoorwaarden en privacybeleid",
+    "termsOfService": "Servicevoorwaarden",
+    "uploads": "Uploads"
+  },
+  "underConstruction": {
+    "subtitle1": "We bouwen aan iets bijzonders",
+    "subtitle2": "Kom later nog eens terug"
+  },
+  "units": {
+    "millimetres": "{{value}} mm"
+  }
+}

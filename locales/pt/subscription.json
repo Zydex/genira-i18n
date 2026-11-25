@@ -1,0 +1,40 @@
+{
+  "button": {
+    "purchase": "Comprar",
+    "purchaseCredits": "Comprar créditos"
+  },
+  "description": {
+    "bannerNoCredits": "Gere desenhos automaticamente com um clique. Contacte o administrador para comprar créditos.",
+    "creditBundles": "Selecione um dos pacotes abaixo para comprar mais créditos.",
+    "credits": "Créditos",
+    "credits_one": "{{count}} crédito",
+    "credits_other": "{{count}} créditos",
+    "creditSpend": "Transfira uma lista discriminada para ver em que gastou os seus créditos.",
+    "enoughToProduce_one": "Suficiente para produzir {{count}} caso",
+    "enoughToProduce_other": "Suficiente para produzir {{count}} casos",
+    "manageBilling": "Ver faturas, rever e atualizar o cartão de pagamento.",
+    "noCredits": "Para continuar a gerar desenhos, contacte o administrador da sua organização para comprar mais créditos.",
+    "purchaseCredits": "Compre créditos adicionais para continuar a gerar desenhos."
+  },
+  "file": {
+    "creditHistory": "{{org}}-credit-history-{{year}}"
+  },
+  "label": {
+    "currentYear": "{{year}} (ano atual)"
+  },
+  "message": {
+    "downloadedCreditSpend": "Histórico de créditos transferido",
+    "downloadingCreditSpend": "A transferir o histórico de créditos"
+  },
+  "title": {
+    "amount": "Quantidade",
+    "createdAt": "Criado em",
+    "creditSpend": "Consumo de créditos",
+    "description": "Descrição",
+    "kind": "Tipo",
+    "manageCredits": "Gerir créditos",
+    "noCredits": "Sem créditos restantes",
+    "organisation": "Organização",
+    "purchaseCreditBundles": "Comprar pacotes de créditos"
+  }
+}

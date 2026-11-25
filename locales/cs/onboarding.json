@@ -1,0 +1,32 @@
+{
+  "label": {
+    "country": "Země",
+    "fullName": "Celé jméno",
+    "organisationName": "Název organizace",
+    "region": "Datový region",
+    "regionDescription_long": "Vyberte region, ve kterém budou data vaší organizace ukládána, zpracovávána a zálohována. \n<bold>Tato volba je trvalá a po nastavení ji nelze změnit.</bold> Pro nejlepší výkon zvolte region nejblíže vašim uživatelům, nebo region, který odpovídá vašim regulatorním požadavkům (např. GDPR, HIPAA, zákony o lokalizaci dat).\n\nZměna regionu vyžaduje vytvoření nové organizace a ruční migraci.",
+    "regionDescription_short": "Vyberte region, ve kterém budou data vaší organizace ukládána, zpracovávána a zálohována.\n<bold>Tato volba je trvalá a po nastavení ji nelze změnit.</bold>",
+    "subtitle": "Automatické generování 3D tisknutelných modelů z intraorálních skenů",
+    "title": "Vytvořte si účet Genira",
+    "website": "Webové stránky"
+  },
+  "message": {
+    "acceptAiUsagePolicy": "Přijímám <a>Zásady používání dat pro AI</a> společnosti Genira",
+    "baaResendSuccess": "E-mail s BAA byl odeslán. Zkontrolujte prosím svou doručenou poštu.",
+    "checkEmailTo": "Zkontrolujte svůj e-mail na adrese:",
+    "emailResendSuccess": "E-mail byl odeslán. Zkontrolujte prosím svou doručenou poštu.",
+    "emailVerified": "<bold>E-mail byl úspěšně ověřen</bold>\nZa okamžik budete přesměrováni...",
+    "hipaaBaa": "Pro používání Genira v tomto regionu bude vygenerována smlouva HIPAA Business Associate Agreement (BAA).",
+    "redirecting": "Za okamžik budete přesměrováni...",
+    "regionError": "Genira je v současnosti podporována pouze v Austrálii.",
+    "resendBaaError": "E-mail s BAA nelze znovu odeslat. Zkuste to prosím později.",
+    "resendEmail": "Znovu odeslat ověřovací e-mail",
+    "resendEmailError": "Ověřovací e-mail nelze znovu odeslat. Zkuste to prosím později.",
+    "resendLink": "Znovu odeslat odkaz",
+    "sendingBaaEmail": "Odesílání e-mailu s BAA...",
+    "sendingEmail": "Odesílání ověřovacího e-mailu...",
+    "signBaa": "Podepište smlouvu Business Associate Agreement",
+    "verifyEmail": "Pro přístup ke Genira prosím ověřte svou e-mailovou adresu.",
+    "verifyEmailAddress": "Ověřte svou e-mailovou adresu"
+  }
+}

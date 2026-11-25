@@ -1,0 +1,40 @@
+{
+  "button": {
+    "purchase": "Kopen",
+    "purchaseCredits": "Credits kopen"
+  },
+  "description": {
+    "bannerNoCredits": "Genereer automatisch ontwerpen met één klik op de knop. Neem contact op met de beheerder om credits te kopen.",
+    "creditBundles": "Selecteer hieronder een van de bundels om meer credits te kopen.",
+    "credits": "Credits",
+    "credits_one": "{{count}} credit",
+    "credits_other": "{{count}} credits",
+    "creditSpend": "Download een gespecificeerd overzicht om te zien waaraan u uw credits hebt besteed.",
+    "enoughToProduce_one": "Voldoende om {{count}} casus te produceren",
+    "enoughToProduce_other": "Voldoende om {{count}} casussen te produceren",
+    "manageBilling": "Bekijk facturen en controleer en wijzig uw betaalkaart.",
+    "noCredits": "Neem contact op met de beheerder van uw organisatie om meer credits te kopen en zo ontwerpen te blijven genereren.",
+    "purchaseCredits": "Koop extra credits om ontwerpen te blijven genereren."
+  },
+  "file": {
+    "creditHistory": "{{org}}-credit-history-{{year}}"
+  },
+  "label": {
+    "currentYear": "{{year}} (huidig jaar)"
+  },
+  "message": {
+    "downloadedCreditSpend": "Credithistorie gedownload",
+    "downloadingCreditSpend": "Credithistorie wordt gedownload"
+  },
+  "title": {
+    "amount": "Bedrag",
+    "createdAt": "Aangemaakt op",
+    "creditSpend": "Creditverbruik",
+    "description": "Beschrijving",
+    "kind": "Soort",
+    "manageCredits": "Credits beheren",
+    "noCredits": "Geen credits meer over",
+    "organisation": "Organisatie",
+    "purchaseCreditBundles": "Creditbundels kopen"
+  }
+}

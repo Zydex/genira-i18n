@@ -1,0 +1,61 @@
+{
+  "alt": {
+    "addUsers": "Lägg till användare",
+    "profile": "Användarprofil"
+  },
+  "button": {
+    "add": "Lägg till användare",
+    "changePassword": "Byt lösenord",
+    "changeRole": "Ändra roll",
+    "deleteProfile": "Radera profil",
+    "remove": "Ta bort användare",
+    "restoreAccess": "Återställ åtkomst",
+    "uploadPhoto": "Ladda upp foto"
+  },
+  "label": {
+    "enterEmails": "Ange e-postadresser, separerade med kommatecken",
+    "search": "Sök efter en användare",
+    "users": "Användare"
+  },
+  "message": {
+    "addUsers": "Ange e-postadresser nedan för att bjuda in användare till den här organisationen.",
+    "changePassword": "Ett e-postmeddelande med en länk för att byta lösenord kommer att skickas.",
+    "changePassword_email": "Ett e-postmeddelande med en länk för att byta lösenord kommer att skickas till {{email}}.",
+    "changeRole": "Uppdatera roll:",
+    "changeRole_user": "Uppdatera rollen för {{user}}:",
+    "confirmDelAccounts_one": "Den här användaren kommer inte längre att ha åtkomst till den här organisationen.",
+    "confirmDelAccounts_other": "Dessa användare kommer inte längre att ha åtkomst till den här organisationen.",
+    "confirmDelAccounts_org_one": "Den här användaren kommer inte längre att ha åtkomst till {{org}}.",
+    "confirmDelAccounts_org_other": "Dessa användare kommer inte längre att ha åtkomst till {{org}}.",
+    "deleteProfile": "Din profil kommer att tas bort permanent från din organisation.",
+    "deleteProfile_org": "Din profil kommer att tas bort permanent från {{org}}.",
+    "linkSent": "Länk skickad",
+    "loginLoadError": "Det gick inte att läsa in inloggningen. Försök igen senare.",
+    "profilePicture": "Det hjälper andra att känna igen dig och visar att du är inloggad på rätt konto.",
+    "userPageInfo": "Användarna i din organisation visas på den här sidan"
+  },
+  "role": {
+    "admin": "Administratör",
+    "owner": "Ägare",
+    "user": "Användare"
+  },
+  "title": {
+    "changePassword": "Byt lösenord",
+    "changeRole": "Ändra roll",
+    "changeRole_user": "Uppdatera rollen för {{user}}:",
+    "confirmDeleteProfile": "Bekräfta radering av profil",
+    "deleteProfile": "Radera profil",
+    "displayName": "Visningsnamn",
+    "edit": "Redigera",
+    "email": "E-post",
+    "invite": "Bjud in användare",
+    "name": "Namn",
+    "photo": "Foto",
+    "profile": "Profil",
+    "remove_one": "Ta bort användaren?",
+    "remove_other": "Ta bort användarna?",
+    "restoreAccess": "Återställ åtkomst för användaren?",
+    "role": "Roll",
+    "usersName": "Användarens namn"
+  }
+}
