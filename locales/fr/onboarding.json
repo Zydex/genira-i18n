@@ -1,0 +1,32 @@
+{
+  "label": {
+    "country": "Pays",
+    "fullName": "Nom complet",
+    "organisationName": "Nom de l'organisation",
+    "region": "Région des données",
+    "regionDescription_long": "Sélectionnez la région où les données de votre organisation seront stockées, traitées et sauvegardées. \n<bold>Ce choix est définitif et ne pourra pas être modifié après la configuration.</bold> Choisissez la région la plus proche de vos utilisateurs pour des performances optimales, ou celle qui correspond à vos exigences réglementaires (par ex. RGPD, HIPAA, lois sur la résidence des données).\n\nChanger de région nécessite de créer une nouvelle organisation et d'effectuer une migration manuelle.",
+    "regionDescription_short": "Sélectionnez la région où les données de votre organisation seront stockées, traitées et sauvegardées.\n<bold>Ce choix est définitif et ne pourra pas être modifié après la configuration.</bold>",
+    "subtitle": "Générez automatiquement des modèles 3D imprimables à partir d'empreintes intra-orales",
+    "title": "Créez votre compte Genira",
+    "website": "Site web"
+  },
+  "message": {
+    "acceptAiUsagePolicy": "J'accepte la <a>Politique d'utilisation des données par l'IA</a> de Genira",
+    "baaResendSuccess": "E-mail du BAA envoyé. Veuillez consulter votre boîte de réception.",
+    "checkEmailTo": "Consultez vos e-mails à l'adresse :",
+    "emailResendSuccess": "E-mail envoyé. Veuillez consulter votre boîte de réception.",
+    "emailVerified": "<bold>Adresse e-mail vérifiée avec succès</bold>\nVous allez être redirigé sous peu...",
+    "hipaaBaa": "Un accord d'associé commercial (BAA) HIPAA sera généré pour l'utilisation de Genira dans cette région.",
+    "redirecting": "Vous allez être redirigé sous peu...",
+    "regionError": "Genira n'est actuellement disponible qu'en Australie.",
+    "resendBaaError": "Impossible de renvoyer l'e-mail du BAA. Veuillez réessayer plus tard.",
+    "resendEmail": "Renvoyer l'e-mail de vérification",
+    "resendEmailError": "Impossible de renvoyer l'e-mail de vérification. Veuillez réessayer plus tard.",
+    "resendLink": "Renvoyer le lien",
+    "sendingBaaEmail": "Envoi de l'e-mail du BAA...",
+    "sendingEmail": "Envoi de l'e-mail de vérification...",
+    "signBaa": "Signer l'accord d'associé commercial (BAA)",
+    "verifyEmail": "Veuillez vérifier votre adresse e-mail pour accéder à Genira.",
+    "verifyEmailAddress": "Vérifiez votre adresse e-mail"
+  }
+}

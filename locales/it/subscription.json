@@ -1,0 +1,40 @@
+{
+  "button": {
+    "purchase": "Acquista",
+    "purchaseCredits": "Acquista crediti"
+  },
+  "description": {
+    "bannerNoCredits": "Genera automaticamente i progetti con un solo clic. Contatta l'amministratore per acquistare crediti.",
+    "creditBundles": "Seleziona uno dei pacchetti qui sotto per acquistare altri crediti.",
+    "credits": "Crediti",
+    "credits_one": "{{count}} credito",
+    "credits_other": "{{count}} crediti",
+    "creditSpend": "Scarica un elenco dettagliato per vedere come hai utilizzato i tuoi crediti.",
+    "enoughToProduce_one": "Sufficiente per produrre {{count}} caso",
+    "enoughToProduce_other": "Sufficienti per produrre {{count}} casi",
+    "manageBilling": "Visualizza le fatture, controlla e aggiorna la carta di pagamento.",
+    "noCredits": "Per continuare a generare progetti, contatta l'amministratore della tua organizzazione per acquistare altri crediti.",
+    "purchaseCredits": "Acquista crediti aggiuntivi per continuare a generare progetti."
+  },
+  "file": {
+    "creditHistory": "{{org}}-credit-history-{{year}}"
+  },
+  "label": {
+    "currentYear": "{{year}} (anno corrente)"
+  },
+  "message": {
+    "downloadedCreditSpend": "Cronologia crediti scaricata",
+    "downloadingCreditSpend": "Download della cronologia crediti in corso"
+  },
+  "title": {
+    "amount": "Importo",
+    "createdAt": "Data di creazione",
+    "creditSpend": "Utilizzo crediti",
+    "description": "Descrizione",
+    "kind": "Tipo",
+    "manageCredits": "Gestisci crediti",
+    "noCredits": "Nessun credito rimanente",
+    "organisation": "Organizzazione",
+    "purchaseCreditBundles": "Acquista pacchetti di crediti"
+  }
+}

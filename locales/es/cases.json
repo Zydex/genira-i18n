@@ -1,0 +1,272 @@
+{
+  "button": {
+    "addFolders": "Añadir carpetas",
+    "addScans": "Añadir escaneos",
+    "browse": "Examinar",
+    "browseDirectories": "Examinar carpetas",
+    "browseFiles": "Examinar archivos",
+    "downloadDesigns": "Descargar diseños",
+    "moveToNewCase": "Mover a un caso nuevo",
+    "newCase": "Caso nuevo",
+    "sendToFunnel": "Enviar a Funnel"
+  },
+  "caseInspector": {
+    "caseInformation": "Información del caso"
+  },
+  "details": {
+    "case": "Caso",
+    "caseInformation": "Información del caso"
+  },
+  "duplicate": {
+    "multipleUpperOrLower": {
+      "message": "Se han detectado varios escaneos maxilares o mandibulares",
+      "title": "Escaneos duplicados"
+    }
+  },
+  "error": {
+    "basedModel": {
+      "message": "El modelo cargado ya tiene zócalo. Cargue un escaneo sin procesar para generar un modelo con zócalo.",
+      "title": "El modelo ya tiene zócalo."
+    },
+    "emptyFolder": "Se ha detectado una carpeta vacía",
+    "emptyMesh": {
+      "message": "No se encuentran los datos de geometría del escaneo",
+      "title": "Escaneo vacío"
+    },
+    "failedToProcessCases_one": "No se ha podido procesar {{count}} caso",
+    "failedToProcessCases_other": "No se han podido procesar {{count}} casos",
+    "missingUpperAndLower": {
+      "message": "Los nombres de los escaneos no siguen una convención reconocida. Actualice los nombres de archivo o cree una nueva convención de nomenclatura. <a>Más información</a>",
+      "title": "No se pueden reconocer los escaneos"
+    },
+    "missingUpperOrLower": {
+      "message": "Al caso le falta un escaneo mandibular o maxilar",
+      "title": "Falta un escaneo"
+    },
+    "noScansDetected": "No se han detectado archivos de escaneo",
+    "unsupportedFileStructure": "Estructura de archivos no compatible"
+  },
+  "files": {
+    "cases": "cases-{{time}}.zip",
+    "designs": "designs-{{time}}.zip"
+  },
+  "filters": {
+    "all": "Todos",
+    "designed": "Diseñados",
+    "downloaded": "Descargados",
+    "issues": "Incidencias",
+    "rejected": "Rechazados"
+  },
+  "issues": {
+    "modelBasing": {
+      "basingError": {
+        "message": "No se ha podido generar el modelo con zócalo.\n<a>Más información</a> sobre este error.",
+        "status": "No se ha podido generar el modelo con zócalo"
+      },
+      "hollowingError": {
+        "message": "No se ha podido generar el modelo hueco.\n<a>Más información</a> sobre este error.",
+        "status": "No se ha podido generar el modelo hueco"
+      },
+      "occlusalPlaneError": {
+        "message": "No se ha podido calcular el plano oclusal.\n<a>Más información</a> sobre este error.",
+        "status": "No se ha podido calcular el plano oclusal"
+      },
+      "pillarGenerationError": {
+        "message": "No se han podido generar los ataches.\n<a>Más información</a> sobre este error.",
+        "status": "No se han podido generar los ataches"
+      },
+      "preprocessingError": {
+        "message": "No se han podido preprocesar los escaneos.\n<a>Más información</a> sobre este error.",
+        "status": "No se pueden preprocesar los escaneos"
+      },
+      "retry": {
+        "asSolid": "¿Reintentar el diseño como modelo macizo? <a>Reintentar</a>",
+        "withoutAttachments": "¿Reintentar el diseño sin ataches? <a>Reintentar</a>"
+      },
+      "textGenerationError": {
+        "message": "No se ha podido añadir la etiqueta de texto al modelo.\n<a>Más información</a> sobre este error.",
+        "status": "No se ha podido generar la etiqueta completa"
+      },
+      "textGenerationWarning": {
+        "message": "No se ha podido añadir la etiqueta de texto completa al modelo. Probablemente se debe a que no hay suficiente espacio libre para la longitud del texto.\n<a>Más información</a> sobre este error.",
+        "status": "No se ha podido generar la etiqueta completa"
+      },
+      "toothSegmentationError": {
+        "message": "No se han podido clasificar los dientes.\n<a>Más información</a> sobre este error.",
+        "status": "No se pueden clasificar los dientes"
+      },
+      "ventGenerationError": {
+        "message": "No se han podido generar los orificios de drenaje.\n<a>Más información</a> sobre este error.",
+        "status": "No se han podido generar los orificios de drenaje"
+      }
+    }
+  },
+  "label": {
+    "addingCases": "Añadiendo casos...",
+    "addingCases_amount": "Añadiendo casos... ({{amount}}/{{total}})",
+    "caseInformation": "Información del caso",
+    "caseName": "Nombre del caso",
+    "casesAdded": "¡Casos añadidos! ({{amount}}/{{total}})",
+    "deleteDesign": "Eliminar diseño",
+    "designedModel": "Diseñado",
+    "dontRemindMe": "No volver a recordármelo",
+    "downloadCases": "Descargar casos",
+    "downloadScans": "Descargar escaneos",
+    "dropFile": "Añadir archivo al caso",
+    "enterCaseName": "Introduzca el nombre del caso",
+    "enterNewCaseName": "Introduzca un nombre nuevo para el caso",
+    "estimatedTime": "Tiempo estimado",
+    "failedToMarkAsRejected_one": "No se ha podido marcar el caso como rechazado",
+    "failedToMarkAsRejected_other": "No se han podido marcar {{count}} casos como rechazados",
+    "markingCasesAsRejected_one": "Marcando el caso como rechazado",
+    "markingCasesAsRejected_other": "Marcando {{count}} casos como rechazados",
+    "rejectedBy": "Rechazado por",
+    "renameDesign": "Cambiar nombre del diseño",
+    "scan": "Escaneo",
+    "scanUploadCancelled": "{{scanName}} (cancelado)",
+    "search": "Buscar",
+    "selectDownloadOption": "seleccione la opción de descarga",
+    "sendingToFunnel": "Enviando a Funnel",
+    "template": "Plantilla",
+    "uploadComplete": "Carga completada",
+    "uploadedAt": "Fecha de carga",
+    "uploadedBy": "Cargado por",
+    "uploading": "Cargando"
+  },
+  "message": {
+    "basedModelsUploaded": "Parece que uno o varios de sus archivos ya son modelos con zócalo. Cargue escaneos sin procesar para generar modelos con zócalo.\n\n<a>Indíquenos</a> si esperaba poder utilizar modelos con zócalo o si tiene cualquier otro comentario.",
+    "downloadRejectedDesigns_one": "Se descontarán {{cost}} créditos de su cuenta.",
+    "downloadRejectedDesigns_other": "Su selección contiene {{count}} casos que se han rechazado anteriormente.\n\nSe descontarán {{cost}} créditos de su cuenta.",
+    "downloadRejectedInsufficientCredits_one": "No se pueden descargar los diseños rechazados por falta de créditos.\n\nPóngase en contacto con el administrador o el propietario de la organización para recargar créditos.",
+    "downloadRejectedInsufficientCredits_other": "Su selección contiene {{count}} casos que se han rechazado anteriormente.\n\nPara descargar estos diseños rechazados, póngase en contacto con el administrador o el propietario de la organización para recargar créditos.",
+    "downloadRejectedInsufficientCreditsAdmin_one": "No se pueden descargar los diseños rechazados por falta de créditos.\n\nPara descargar estos diseños rechazados, recargue los créditos de su cuenta.",
+    "downloadRejectedInsufficientCreditsAdmin_other": "Su selección contiene {{count}} casos que se han rechazado anteriormente.\n\nPara descargar estos diseños rechazados, recargue los créditos de su cuenta.",
+    "draggedCase_zero": "{{name}}",
+    "draggedCase_one": "<shrink>{{name}}</shrink> <span>y {{count}} más</span>",
+    "draggedCase_other": "<shrink>{{name}}</shrink> <span>y {{count}} más</span>",
+    "emptyFolderHelp": "No se han detectado archivos en la carpeta seleccionada. Compruebe el contenido e inténtelo de nuevo.",
+    "markCasesAsRejected": "Los diseños rechazados no se pueden descargar. Se reembolsarán los créditos retenidos para este diseño.",
+    "noCases": "No se han encontrado casos",
+    "noScans": "Este caso no tiene escaneos.",
+    "noScansDetectedHelp": "No se han detectado archivos en formato STL o PLY en la carpeta seleccionada.",
+    "processingCases_one": "Procesando caso",
+    "processingCases_other": "Procesando {{count}} casos",
+    "quitUploadWarning": "Los diseños de los casos seleccionados no se procesarán.",
+    "rejectedReason": "Indíquenos por qué ha rechazado este diseño:",
+    "sortCasesByIssues": "Los casos se reordenan en la lista para mostrar primero los que tienen incidencias.",
+    "unsupportedFileStructureHelp": "Solo se aceptan archivos STL o PLY."
+  },
+  "scans": {
+    "combined": "Combinado",
+    "lower": "Mandibular",
+    "unspecified": "Sin especificar",
+    "upper": "Maxilar"
+  },
+  "status": {
+    "complete": "Diseño completado",
+    "downloaded": "Descargado",
+    "failed": "Error",
+    "insufficientCredits": "Créditos insuficientes",
+    "pendingUpload": "Cargando",
+    "processing": "Procesando",
+    "rejected": "Rechazado",
+    "toProcess": "Por procesar",
+    "unknown": "Estado desconocido",
+    "uploaded": "Cargado"
+  },
+  "table": {
+    "emptyState": {
+      "all": {
+        "header": "Aún no se han creado diseños",
+        "paragraph": "Los casos de diseño aparecerán aquí cuando se hayan cargado los escaneos\nPara empezar, seleccione el botón Crear"
+      },
+      "designed": {
+        "header": "Aún no se han creado diseños",
+        "paragraph": "Los casos de diseño aparecerán aquí cuando se hayan cargado los escaneos\nPara empezar, seleccione el botón Crear"
+      },
+      "downloaded": {
+        "header": "No hay diseños descargados",
+        "paragraph": "Los diseños descargados aparecerán aquí"
+      },
+      "issues": {
+        "header": "No hay diseños con incidencias",
+        "paragraph": "Los diseños con incidencias aparecerán aquí"
+      },
+      "processing": {
+        "header": "No hay diseños en proceso",
+        "paragraph": "Los diseños procesados aparecerán aquí"
+      },
+      "rejected": {
+        "header": "No hay diseños rechazados",
+        "paragraph": "Los diseños rechazados aparecerán aquí"
+      }
+    }
+  },
+  "text": {
+    "permanentlyRemoveCase_one": "Este caso se eliminará definitivamente del sistema.",
+    "permanentlyRemoveCase_other": "{{count}} casos se eliminarán definitivamente del sistema."
+  },
+  "title": {
+    "caseID": "ID del caso",
+    "caseName": "Nombre del caso",
+    "caseNumber": "Número de caso",
+    "cases": "Casos",
+    "completeWithIssues": "Completado con incidencias",
+    "designs": "Diseños",
+    "downloadRejectedDesigns": "¿Descargar diseños rechazados?",
+    "failed": "Error",
+    "name": "Nombre",
+    "newCase": "Caso nuevo",
+    "quitUploadWarning": "¿Descartar diseños?",
+    "received": "Recibido",
+    "rejectDesign": "¿Rechazar diseño?",
+    "scanType": "Tipo de escaneo",
+    "sortCasesByIssues": "Ordenar casos por incidencias",
+    "status": "Estado",
+    "untitled": "Sin título",
+    "uploadRawScans": "Cargar escaneos sin procesar",
+    "uploads": "Cargas"
+  },
+  "toast": {
+    "allCasesNotReadyToDownload": "Los casos seleccionados no están listos para descargarse",
+    "caseUpdated": "Caso actualizado correctamente",
+    "failedToDownloadCase": "No se ha podido descargar el caso {{caseName}}",
+    "failedToGenerateZip": "No se ha podido generar el archivo zip",
+    "failedToLoadCase_one": "No se ha podido cargar el caso",
+    "failedToLoadCase_other": "No se han podido cargar {{count}} casos",
+    "failedToLoadCaseRanOutOfSpace_one": "No se ha podido cargar el caso en el navegador: no queda espacio de almacenamiento",
+    "failedToLoadCaseRanOutOfSpace_other": "No se han podido cargar {{count}} casos en el navegador: no queda espacio de almacenamiento",
+    "nameUpdateFailed": "No se ha podido actualizar el nombre",
+    "processingUpload": "Procesando el caso para su descarga",
+    "processingUploads": "Procesando {{amount}}/{{total}} casos para su descarga",
+    "someCasesNotReadyToDownload": "Algunos de los casos seleccionados no están listos para descargarse",
+    "statusUpdatedToDownloaded": "El caso {{caseName}} se ha movido de diseñados a descargados",
+    "statusUpdateFailed": "No se ha podido cambiar el estado del caso a descargado",
+    "unableToDownloadCases_one": "No se puede descargar el caso",
+    "unableToDownloadCases_other": "No se pueden descargar {{count}} casos",
+    "unableToDownloadDesigns_one": "No se puede descargar el diseño",
+    "unableToDownloadDesigns_other": "No se pueden descargar {{count}} diseños",
+    "unableToDownloadFiles": "No se pueden descargar los archivos"
+  },
+  "uploadModal": {
+    "multipleScans": {
+      "message": "Este caso contiene varios escaneos que se podrían utilizar. Se utilizarán los escaneos más recientes del maxilar y/o la mandíbula.",
+      "title": "Varios escaneos"
+    },
+    "text": {
+      "designTemplate": "Plantilla de diseño",
+      "dragAndDrop": "Arrastre y suelte archivos o carpetas que contengan escaneos intraorales PLY o STL",
+      "hoverDragAndDrop": "Suelte carpetas de casos o escaneos intraorales para crear diseños",
+      "or": "o",
+      "processUploads": "Procesar",
+      "scansHaveIssues_one": "{{count}} caso tiene incidencias",
+      "scansHaveIssues_other": "{{count}} casos tienen incidencias",
+      "title": "Cargar escaneos"
+    }
+  },
+  "uploadScans": {
+    "lower": "Inferior",
+    "unknown": "Desconocido",
+    "upper": "Superior"
+  }
+}

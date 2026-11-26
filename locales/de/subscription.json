@@ -1,0 +1,40 @@
+{
+  "button": {
+    "purchase": "Kaufen",
+    "purchaseCredits": "Credits kaufen"
+  },
+  "description": {
+    "bannerNoCredits": "Erstellen Sie Designs automatisch mit nur einem Klick. Wenden Sie sich an den Administrator, um Credits zu kaufen.",
+    "creditBundles": "Wählen Sie eines der folgenden Pakete aus, um weitere Credits zu kaufen.",
+    "credits": "Credits",
+    "credits_one": "{{count}} Credit",
+    "credits_other": "{{count}} Credits",
+    "creditSpend": "Laden Sie eine detaillierte Liste herunter, um zu sehen, wofür Sie Ihre Credits verwendet haben.",
+    "enoughToProduce_one": "Ausreichend für {{count}} Fall",
+    "enoughToProduce_other": "Ausreichend für {{count}} Fälle",
+    "manageBilling": "Rechnungen anzeigen sowie Zahlungskarte prüfen und aktualisieren.",
+    "noCredits": "Um weiterhin Designs zu erstellen, wenden Sie sich an den Administrator Ihrer Organisation, um weitere Credits zu kaufen.",
+    "purchaseCredits": "Kaufen Sie zusätzliche Credits, um weiterhin Designs zu erstellen."
+  },
+  "file": {
+    "creditHistory": "{{org}}-credit-verlauf-{{year}}"
+  },
+  "label": {
+    "currentYear": "{{year}} (Aktuelles Jahr)"
+  },
+  "message": {
+    "downloadedCreditSpend": "Credit-Verlauf heruntergeladen",
+    "downloadingCreditSpend": "Credit-Verlauf wird heruntergeladen"
+  },
+  "title": {
+    "amount": "Betrag",
+    "createdAt": "Erstellt am",
+    "creditSpend": "Credit-Verbrauch",
+    "description": "Beschreibung",
+    "kind": "Art",
+    "manageCredits": "Credits verwalten",
+    "noCredits": "Keine Credits mehr verfügbar",
+    "organisation": "Organisation",
+    "purchaseCreditBundles": "Credit-Pakete kaufen"
+  }
+}

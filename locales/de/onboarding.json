@@ -1,0 +1,32 @@
+{
+  "label": {
+    "country": "Land",
+    "fullName": "Vollständiger Name",
+    "organisationName": "Name der Organisation",
+    "region": "Datenregion",
+    "regionDescription_long": "Wählen Sie die Region, in der die Daten Ihrer Organisation gespeichert, verarbeitet und gesichert werden. \n<bold>Diese Auswahl ist dauerhaft und kann nach der Einrichtung nicht mehr geändert werden.</bold> Wählen Sie für optimale Leistung die Region, die Ihren Benutzern am nächsten liegt, oder die Region, die Ihren regulatorischen Anforderungen entspricht (z. B. DSGVO, HIPAA, Gesetze zur Datenresidenz).\n\nFür einen Wechsel der Region müssen Sie eine neue Organisation erstellen und die Daten manuell migrieren.",
+    "regionDescription_short": "Wählen Sie die Region, in der die Daten Ihrer Organisation gespeichert, verarbeitet und gesichert werden.\n<bold>Diese Auswahl ist dauerhaft und kann nach der Einrichtung nicht mehr geändert werden.</bold>",
+    "subtitle": "Automatisch 3D-druckbare Modelle aus Intraoralscans erstellen",
+    "title": "Erstellen Sie Ihr Genira-Konto",
+    "website": "Website"
+  },
+  "message": {
+    "acceptAiUsagePolicy": "Ich akzeptiere die <a>Richtlinie zur KI-Datennutzung</a> von Genira",
+    "baaResendSuccess": "BAA-E-Mail gesendet. Bitte überprüfen Sie Ihren Posteingang.",
+    "checkEmailTo": "Überprüfen Sie Ihre E-Mails an:",
+    "emailResendSuccess": "E-Mail gesendet. Bitte überprüfen Sie Ihren Posteingang.",
+    "emailVerified": "<bold>E-Mail-Adresse erfolgreich bestätigt</bold>\nSie werden in Kürze weitergeleitet...",
+    "hipaaBaa": "Für die Nutzung von Genira in dieser Region wird ein HIPAA Business Associate Agreement erstellt.",
+    "redirecting": "Sie werden in Kürze weitergeleitet...",
+    "regionError": "Genira wird derzeit nur in Australien unterstützt.",
+    "resendBaaError": "Die BAA-E-Mail konnte nicht erneut gesendet werden. Bitte versuchen Sie es später erneut.",
+    "resendEmail": "Bestätigungs-E-Mail erneut senden",
+    "resendEmailError": "Die Bestätigungs-E-Mail konnte nicht erneut gesendet werden. Bitte versuchen Sie es später erneut.",
+    "resendLink": "Link erneut senden",
+    "sendingBaaEmail": "BAA-E-Mail wird gesendet...",
+    "sendingEmail": "Bestätigungs-E-Mail wird gesendet...",
+    "signBaa": "Business Associate Agreement unterzeichnen",
+    "verifyEmail": "Bitte bestätigen Sie Ihre E-Mail-Adresse, um auf Genira zuzugreifen.",
+    "verifyEmailAddress": "Bestätigen Sie Ihre E-Mail-Adresse"
+  }
+}

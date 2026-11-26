@@ -1,0 +1,272 @@
+{
+  "button": {
+    "addFolders": "Adicionar pastas",
+    "addScans": "Adicionar digitalizações",
+    "browse": "Procurar",
+    "browseDirectories": "Procurar pastas",
+    "browseFiles": "Procurar ficheiros",
+    "downloadDesigns": "Transferir designs",
+    "moveToNewCase": "Mover para novo caso",
+    "newCase": "Novo caso",
+    "sendToFunnel": "Enviar para Funnel"
+  },
+  "caseInspector": {
+    "caseInformation": "Informações do caso"
+  },
+  "details": {
+    "case": "Caso",
+    "caseInformation": "Informações do caso"
+  },
+  "duplicate": {
+    "multipleUpperOrLower": {
+      "message": "Foram detetadas várias digitalizações maxilares ou mandibulares",
+      "title": "Digitalizações duplicadas"
+    }
+  },
+  "error": {
+    "basedModel": {
+      "message": "O modelo carregado já tem base. Carregue uma digitalização em bruto para gerar um modelo com base.",
+      "title": "O modelo já tem base."
+    },
+    "emptyFolder": "Pasta vazia detetada",
+    "emptyMesh": {
+      "message": "Não foi possível encontrar os dados de geometria da digitalização",
+      "title": "Digitalização vazia"
+    },
+    "failedToProcessCases_one": "Falha ao processar {{count}} caso",
+    "failedToProcessCases_other": "Falha ao processar {{count}} casos",
+    "missingUpperAndLower": {
+      "message": "Os nomes das digitalizações não seguem uma convenção reconhecida. Atualize os nomes dos ficheiros ou crie uma nova convenção de nomenclatura. <a>Saber mais</a>",
+      "title": "Não foi possível reconhecer as digitalizações"
+    },
+    "missingUpperOrLower": {
+      "message": "Falta uma digitalização mandibular ou maxilar no caso",
+      "title": "Digitalização em falta"
+    },
+    "noScansDetected": "Nenhum ficheiro de digitalização detetado",
+    "unsupportedFileStructure": "Estrutura de ficheiros não suportada"
+  },
+  "files": {
+    "cases": "cases-{{time}}.zip",
+    "designs": "designs-{{time}}.zip"
+  },
+  "filters": {
+    "all": "Todos",
+    "designed": "Desenhados",
+    "downloaded": "Transferidos",
+    "issues": "Problemas",
+    "rejected": "Rejeitados"
+  },
+  "issues": {
+    "modelBasing": {
+      "basingError": {
+        "message": "Não foi possível gerar o modelo com base.\n<a>Saber mais</a> sobre este erro.",
+        "status": "Não foi possível gerar o modelo com base"
+      },
+      "hollowingError": {
+        "message": "Falha ao gerar o modelo oco.\n<a>Saber mais</a> sobre este erro.",
+        "status": "Falha ao gerar o modelo oco"
+      },
+      "occlusalPlaneError": {
+        "message": "Não foi possível calcular o plano oclusal.\n<a>Saber mais</a> sobre este erro.",
+        "status": "Não foi possível calcular o plano oclusal"
+      },
+      "pillarGenerationError": {
+        "message": "Falha ao gerar os encaixes.\n<a>Saber mais</a> sobre este erro.",
+        "status": "Falha ao gerar os encaixes"
+      },
+      "preprocessingError": {
+        "message": "Falha ao pré-processar as digitalizações.\n<a>Saber mais</a> sobre este erro.",
+        "status": "Não foi possível pré-processar as digitalizações"
+      },
+      "retry": {
+        "asSolid": "Tentar novamente o design como modelo sólido? <a>Tentar novamente</a>",
+        "withoutAttachments": "Tentar novamente o design sem encaixes? <a>Tentar novamente</a>"
+      },
+      "textGenerationError": {
+        "message": "Não foi possível adicionar a etiqueta de texto ao modelo.\n<a>Saber mais</a> sobre este erro.",
+        "status": "Falha ao gerar a etiqueta completa"
+      },
+      "textGenerationWarning": {
+        "message": "Não foi possível adicionar a etiqueta de texto completa ao modelo. Provavelmente, isto deve-se a espaço livre insuficiente para o comprimento do texto.\n<a>Saber mais</a> sobre este erro.",
+        "status": "Falha ao gerar a etiqueta completa"
+      },
+      "toothSegmentationError": {
+        "message": "Não foi possível classificar os dentes.\n<a>Saber mais</a> sobre este erro.",
+        "status": "Não foi possível classificar os dentes"
+      },
+      "ventGenerationError": {
+        "message": "Falha ao gerar os orifícios de drenagem.\n<a>Saber mais</a> sobre este erro.",
+        "status": "Falha ao gerar os orifícios de drenagem"
+      }
+    }
+  },
+  "label": {
+    "addingCases": "A adicionar casos...",
+    "addingCases_amount": "A adicionar casos... ({{amount}}/{{total}})",
+    "caseInformation": "Informações do caso",
+    "caseName": "Nome do caso",
+    "casesAdded": "Casos adicionados! ({{amount}}/{{total}})",
+    "deleteDesign": "Eliminar design",
+    "designedModel": "Desenhado",
+    "dontRemindMe": "Não voltar a lembrar",
+    "downloadCases": "Transferir casos",
+    "downloadScans": "Transferir digitalizações",
+    "dropFile": "Adicionar ficheiro ao caso",
+    "enterCaseName": "Introduza o nome do caso",
+    "enterNewCaseName": "Introduza um novo nome para o caso",
+    "estimatedTime": "Tempo estimado",
+    "failedToMarkAsRejected_one": "Falha ao marcar o caso como rejeitado",
+    "failedToMarkAsRejected_other": "Falha ao marcar {{count}} casos como rejeitados",
+    "markingCasesAsRejected_one": "A marcar o caso como rejeitado",
+    "markingCasesAsRejected_other": "A marcar {{count}} casos como rejeitados",
+    "rejectedBy": "Rejeitado por",
+    "renameDesign": "Mudar o nome do design",
+    "scan": "Digitalização",
+    "scanUploadCancelled": "{{scanName}} (cancelado)",
+    "search": "Pesquisar",
+    "selectDownloadOption": "selecionar opção de transferência",
+    "sendingToFunnel": "A enviar para Funnel",
+    "template": "Modelo de design",
+    "uploadComplete": "Carregamento concluído",
+    "uploadedAt": "Carregado em",
+    "uploadedBy": "Carregado por",
+    "uploading": "A carregar"
+  },
+  "message": {
+    "basedModelsUploaded": "Parece que um ou mais dos seus ficheiros já são modelos com base. Carregue digitalizações em bruto para gerar modelos com base.\n\n<a>Informe-nos</a> se esperava poder utilizar modelos com base ou se tiver outro feedback a dar.",
+    "downloadRejectedDesigns_one": "Serão debitados {{cost}} créditos na sua conta.",
+    "downloadRejectedDesigns_other": "A sua seleção contém {{count}} casos que foram previamente rejeitados.\n\nSerão debitados {{cost}} créditos na sua conta.",
+    "downloadRejectedInsufficientCredits_one": "Não é possível transferir designs rejeitados devido a créditos insuficientes.\n\nContacte o Administrador ou o Proprietário da organização para carregar créditos.",
+    "downloadRejectedInsufficientCredits_other": "A sua seleção contém {{count}} casos que foram previamente rejeitados.\n\nPara transferir estes designs rejeitados, contacte o Administrador ou o Proprietário da organização para carregar créditos.",
+    "downloadRejectedInsufficientCreditsAdmin_one": "Não é possível transferir designs rejeitados devido a créditos insuficientes.\n\nPara transferir estes designs rejeitados, carregue créditos na sua conta.",
+    "downloadRejectedInsufficientCreditsAdmin_other": "A sua seleção contém {{count}} casos que foram previamente rejeitados.\n\nPara transferir estes designs rejeitados, carregue créditos na sua conta.",
+    "draggedCase_zero": "{{name}}",
+    "draggedCase_one": "<shrink>{{name}}</shrink> <span>e mais {{count}}</span>",
+    "draggedCase_other": "<shrink>{{name}}</shrink> <span>e mais {{count}}</span>",
+    "emptyFolderHelp": "Não foram detetados ficheiros na pasta selecionada. Verifique o conteúdo e tente novamente.",
+    "markCasesAsRejected": "Os designs rejeitados não podem ser transferidos. Todos os créditos retidos para este design serão reembolsados.",
+    "noCases": "Nenhum caso encontrado",
+    "noScans": "Este caso não tem digitalizações.",
+    "noScansDetectedHelp": "Não foram detetados ficheiros no formato STL ou PLY na pasta selecionada.",
+    "processingCases_one": "A processar o caso",
+    "processingCases_other": "A processar {{count}} casos",
+    "quitUploadWarning": "Os designs dos casos selecionados não serão processados.",
+    "rejectedReason": "Diga-nos porque rejeitou este design:",
+    "sortCasesByIssues": "Os casos são reordenados na lista para mostrar primeiro os casos com problemas.",
+    "unsupportedFileStructureHelp": "Só são aceites ficheiros STL ou PLY."
+  },
+  "scans": {
+    "combined": "Combinada",
+    "lower": "Mandibular",
+    "unspecified": "Não especificada",
+    "upper": "Maxilar"
+  },
+  "status": {
+    "complete": "Design concluído",
+    "downloaded": "Transferido",
+    "failed": "Falhou",
+    "insufficientCredits": "Créditos insuficientes",
+    "pendingUpload": "A carregar",
+    "processing": "A processar",
+    "rejected": "Rejeitado",
+    "toProcess": "Por processar",
+    "unknown": "Estado desconhecido",
+    "uploaded": "Carregado"
+  },
+  "table": {
+    "emptyState": {
+      "all": {
+        "header": "Ainda não foram criados designs",
+        "paragraph": "Os casos de design serão apresentados aqui após o carregamento das digitalizações\nPara começar, selecione o botão Criar"
+      },
+      "designed": {
+        "header": "Ainda não foram criados designs",
+        "paragraph": "Os casos de design serão apresentados aqui após o carregamento das digitalizações\nPara começar, selecione o botão Criar"
+      },
+      "downloaded": {
+        "header": "Nenhum design transferido",
+        "paragraph": "Os designs transferidos serão apresentados aqui"
+      },
+      "issues": {
+        "header": "Nenhum problema de design",
+        "paragraph": "Os designs com problemas serão apresentados aqui"
+      },
+      "processing": {
+        "header": "Nenhum design em processamento",
+        "paragraph": "Os designs processados serão apresentados aqui"
+      },
+      "rejected": {
+        "header": "Nenhum design rejeitado",
+        "paragraph": "Os designs rejeitados serão apresentados aqui"
+      }
+    }
+  },
+  "text": {
+    "permanentlyRemoveCase_one": "Este caso será removido permanentemente do sistema.",
+    "permanentlyRemoveCase_other": "{{count}} casos serão removidos permanentemente do sistema."
+  },
+  "title": {
+    "caseID": "ID do caso",
+    "caseName": "Nome do caso",
+    "caseNumber": "Número do caso",
+    "cases": "Casos",
+    "completeWithIssues": "Concluído com problemas",
+    "designs": "Designs",
+    "downloadRejectedDesigns": "Transferir designs rejeitados?",
+    "failed": "Falhou",
+    "name": "Nome",
+    "newCase": "Novo caso",
+    "quitUploadWarning": "Descartar designs?",
+    "received": "Recebido",
+    "rejectDesign": "Rejeitar design?",
+    "scanType": "Tipo de digitalização",
+    "sortCasesByIssues": "Ordenar casos por problemas",
+    "status": "Estado",
+    "untitled": "Sem título",
+    "uploadRawScans": "Carregar digitalizações em bruto",
+    "uploads": "Carregamentos"
+  },
+  "toast": {
+    "allCasesNotReadyToDownload": "Os casos selecionados não estão prontos para transferência",
+    "caseUpdated": "Caso atualizado com êxito",
+    "failedToDownloadCase": "Falha ao transferir o caso {{caseName}}",
+    "failedToGenerateZip": "Falha ao gerar o ficheiro zip",
+    "failedToLoadCase_one": "Falha ao abrir o caso",
+    "failedToLoadCase_other": "Falha ao abrir {{count}} casos",
+    "failedToLoadCaseRanOutOfSpace_one": "Falha ao abrir o caso, o navegador ficou sem espaço",
+    "failedToLoadCaseRanOutOfSpace_other": "Falha ao abrir {{count}} casos, o navegador ficou sem espaço",
+    "nameUpdateFailed": "Falha ao atualizar o nome",
+    "processingUpload": "A processar o caso para transferência",
+    "processingUploads": "A processar {{amount}}/{{total}} casos para transferência",
+    "someCasesNotReadyToDownload": "Alguns dos casos selecionados não estão prontos para transferência",
+    "statusUpdatedToDownloaded": "Caso {{caseName}} movido de desenhados para transferidos",
+    "statusUpdateFailed": "Falha ao alterar o estado do caso para transferido",
+    "unableToDownloadCases_one": "Não é possível transferir o caso",
+    "unableToDownloadCases_other": "Não é possível transferir {{count}} casos",
+    "unableToDownloadDesigns_one": "Não é possível transferir o design",
+    "unableToDownloadDesigns_other": "Não é possível transferir {{count}} designs",
+    "unableToDownloadFiles": "Não é possível transferir os ficheiros"
+  },
+  "uploadModal": {
+    "multipleScans": {
+      "message": "Este caso contém várias digitalizações que podem ser utilizadas. Serão utilizadas as digitalizações mais recentes do maxilar e/ou da mandíbula.",
+      "title": "Várias digitalizações"
+    },
+    "text": {
+      "designTemplate": "Modelo de design",
+      "dragAndDrop": "Arraste e largue ficheiros ou pastas com digitalizações intraorais PLY ou STL",
+      "hoverDragAndDrop": "Largue pastas de casos ou digitalizações intraorais para criar designs",
+      "or": "ou",
+      "processUploads": "Processar",
+      "scansHaveIssues_one": "{{count}} caso tem problemas",
+      "scansHaveIssues_other": "{{count}} casos têm problemas",
+      "title": "Carregar digitalizações"
+    }
+  },
+  "uploadScans": {
+    "lower": "Inferior",
+    "unknown": "Desconhecida",
+    "upper": "Superior"
+  }
+}

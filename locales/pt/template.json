@@ -1,0 +1,82 @@
+{
+  "alt": {
+    "modelIcon": "Modelo"
+  },
+  "button": {
+    "save": "Guardar",
+    "update": "Atualizar"
+  },
+  "error": {
+    "failedDeletion_one": "Falha ao eliminar {{count}} template",
+    "failedDeletion_other": "Falha ao eliminar {{count}} templates"
+  },
+  "label": {
+    "affixText": "Texto Afixado",
+    "createdBy": "Criado Por",
+    "createdOn": "Criado Em",
+    "default": "Predefinido",
+    "designPart": "Peça de Design",
+    "drainHoles": "Orifícios de Drenagem",
+    "gingivalTrimDistance": "Distância de Recorte",
+    "gingivalTrimming": "Recorte Gengival",
+    "hollowModel": "Modelo Oco",
+    "modelAttachmentTypes": "Encaixes",
+    "modelType": "Tipo de Modelo",
+    "name": "Nome do Template",
+    "newTemplate": "Novo Template",
+    "search": "Pesquisar um template",
+    "studyModel": "Modelo de Estudo",
+    "textStyle": "Estilo do Texto"
+  },
+  "message": {
+    "affixTextHelp": "Facilite a identificação das peças adicionando texto aos designs gerados.\n\nO nome do caso será adicionado aos modelos.",
+    "attachmentHelp": "Os encaixes são utilizados para manter a posição de mordida nos modelos físicos.\n\nSó são gerados para casos que tenham um scan superior (maxilar) e inferior (mandibular).",
+    "createATemplate": "Crie um template para os seus designs",
+    "deleteTemplate": "Este template deixará de estar disponível para utilização em casos futuros.",
+    "deleteTemplate_one": "Este template deixará de estar disponível para utilização em casos futuros.",
+    "deleteTemplate_other": "Estes templates deixarão de estar disponíveis para utilização em casos futuros.",
+    "deletingTemplates_one": "A eliminar {{count}} template",
+    "deletingTemplates_other": "A eliminar {{count}} templates",
+    "drainHolesHelp": "Os orifícios de drenagem ajudam a evitar falhas de impressão, permitindo a entrada de ar e a saída de resina do interior do modelo.\n\nEsta definição é obrigatória ao imprimir modelos ocos, sendo a posição dos orifícios determinada automaticamente.",
+    "gingivalTrimDistanceHelp": "Distância pretendida, em milímetros, a recortar a partir do limite dos dentes. Nas zonas em que o scan tem menos gengiva do que este valor, o recorte é feito apenas até onde o scan permite.",
+    "gingivalTrimmingHelp": "Recorta a gengiva a partir do limite dos dentes numa distância definida. Desative para deixar a gengiva sem recorte.",
+    "hollowModelHelp": "Ative esta opção para criar modelos ocos.\n\nIsto reduz a quantidade de material consumido na impressão do modelo.",
+    "modelTypeHelp": "Selecione entre modelos em ferradura ou de palato completo.",
+    "noTemplates": "Nenhum template criado",
+    "noTemplatesInfo": "Crie um template para reutilizar definições em novos designs",
+    "removeTemplate": "Tem a certeza de que pretende remover este template?",
+    "renameTemplate": "Já existe um template com este nome. Mude o nome do template para continuar.",
+    "templateNameHelp": "Identifique facilmente as suas definições guardadas atribuindo-lhes um nome fácil de recordar.\n\nVerá este nome na lista pendente de templates de design.",
+    "textStyleHelp": "Gravado irá cortar o texto no modelo.\n\nEm relevo irá extrudir o texto para fora do modelo."
+  },
+  "options": {
+    "modelAttachmentTypes": {
+      "hingedArticulator": "Articulador de charneira",
+      "none": "Nenhum",
+      "pillars": "Pilares"
+    },
+    "modelType": {
+      "fullPalate": "Palato completo",
+      "horseShoe": "Ferradura"
+    },
+    "textStyle": {
+      "embossed": "Em relevo",
+      "engraved": "Gravado",
+      "none": "Nenhum"
+    }
+  },
+  "placeholder": {
+    "templateName": "O nome do template é obrigatório"
+  },
+  "text": {
+    "addTemplate": "Adicionar Template",
+    "editTemplate": "Editar Template"
+  },
+  "title": {
+    "deleteTemplate": "Eliminar Template?",
+    "removeTemplate": "Remover Template",
+    "renameTemplate": "Mudar o Nome do Template",
+    "templateName": "Nome do Template",
+    "templates": "Templates"
+  }
+}

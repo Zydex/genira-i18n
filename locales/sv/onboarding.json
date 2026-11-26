@@ -1,0 +1,32 @@
+{
+  "label": {
+    "country": "Land",
+    "fullName": "Fullständigt namn",
+    "organisationName": "Organisationens namn",
+    "region": "Dataregion",
+    "regionDescription_long": "Välj den region där din organisations data ska lagras, bearbetas och säkerhetskopieras. \n<bold>Det här valet är permanent och kan inte ändras efter konfigurationen.</bold> Välj den region som ligger närmast dina användare för bästa prestanda, eller den som uppfyller dina regulatoriska krav (t.ex. GDPR, HIPAA, lagar om datalokalisering).\n\nFör att byta region måste du skapa en ny organisation och migrera data manuellt.",
+    "regionDescription_short": "Välj den region där din organisations data ska lagras, bearbetas och säkerhetskopieras.\n<bold>Det här valet är permanent och kan inte ändras efter konfigurationen.</bold>",
+    "subtitle": "Skapa 3D-utskrivbara modeller automatiskt från intraorala skanningar",
+    "title": "Skapa ditt Genira-konto",
+    "website": "Webbplats"
+  },
+  "message": {
+    "acceptAiUsagePolicy": "Jag godkänner Geniras <a>policy för AI-användning av data</a>",
+    "baaResendSuccess": "BAA-e-postmeddelandet har skickats. Kontrollera din inkorg.",
+    "checkEmailTo": "Kontrollera din e-post till:",
+    "emailResendSuccess": "E-postmeddelandet har skickats. Kontrollera din inkorg.",
+    "emailVerified": "<bold>E-postadressen har verifierats</bold>\nDu omdirigeras inom kort...",
+    "hipaaBaa": "Ett HIPAA Business Associate Agreement kommer att skapas för användning av Genira i den här regionen.",
+    "redirecting": "Du omdirigeras inom kort...",
+    "regionError": "Genira stöds för närvarande endast i Australien.",
+    "resendBaaError": "Det gick inte att skicka BAA-e-postmeddelandet igen. Försök igen senare.",
+    "resendEmail": "Skicka verifieringsmeddelandet igen",
+    "resendEmailError": "Det gick inte att skicka verifieringsmeddelandet igen. Försök igen senare.",
+    "resendLink": "Skicka länken igen",
+    "sendingBaaEmail": "Skickar BAA-e-postmeddelande...",
+    "sendingEmail": "Skickar verifieringsmeddelande...",
+    "signBaa": "Underteckna Business Associate Agreement",
+    "verifyEmail": "Verifiera din e-postadress för att få åtkomst till Genira.",
+    "verifyEmailAddress": "Verifiera din e-postadress"
+  }
+}

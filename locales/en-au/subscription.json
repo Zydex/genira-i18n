@@ -6,10 +6,10 @@
   "description": {
     "bannerNoCredits": "Automatically generate designs with the click of a button. Contact the administrator to purchase credits.",
     "creditBundles": "Select one of the bundles below to purchase more credits.",
-    "creditSpend": "Download an itemised list to see what you have spent your credits on.",
     "credits": "Credits",
     "credits_one": "{{count}} Credit",
     "credits_other": "{{count}} Credits",
+    "creditSpend": "Download an itemised list to see what you have spent your credits on.",
     "enoughToProduce_one": "Enough to produce {{count}} case",
     "enoughToProduce_other": "Enough to produce {{count}} cases",
     "manageBilling": "View invoices, review and update payment card.",

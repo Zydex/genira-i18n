@@ -1,0 +1,82 @@
+{
+  "alt": {
+    "modelIcon": "Modèle"
+  },
+  "button": {
+    "save": "Enregistrer",
+    "update": "Mettre à jour"
+  },
+  "error": {
+    "failedDeletion_one": "Échec de la suppression de {{count}} gabarit",
+    "failedDeletion_other": "Échec de la suppression de {{count}} gabarits"
+  },
+  "label": {
+    "affixText": "Ajout de texte",
+    "createdBy": "Créé par",
+    "createdOn": "Créé le",
+    "default": "Par défaut",
+    "designPart": "Pièce de conception",
+    "drainHoles": "Trous de drainage",
+    "gingivalTrimDistance": "Distance de découpe",
+    "gingivalTrimming": "Découpe gingivale",
+    "hollowModel": "Modèle évidé",
+    "modelAttachmentTypes": "Fixations",
+    "modelType": "Type de modèle",
+    "name": "Nom du gabarit",
+    "newTemplate": "Nouveau gabarit",
+    "search": "Rechercher un gabarit",
+    "studyModel": "Modèle d'étude",
+    "textStyle": "Style du texte"
+  },
+  "message": {
+    "affixTextHelp": "Identifiez facilement les pièces en ajoutant du texte aux conceptions générées.\n\nLe nom du cas sera ajouté aux modèles.",
+    "attachmentHelp": "Les fixations servent à maintenir la position d'occlusion des modèles physiques.\n\nElles ne sont générées que pour les cas comportant un scan supérieur (maxillaire) et un scan inférieur (mandibulaire).",
+    "createATemplate": "Créez un gabarit pour vos conceptions",
+    "deleteTemplate": "Ce gabarit ne pourra plus être utilisé pour les futurs cas.",
+    "deleteTemplate_one": "Ce gabarit ne pourra plus être utilisé pour les futurs cas.",
+    "deleteTemplate_other": "Ces gabarits ne pourront plus être utilisés pour les futurs cas.",
+    "deletingTemplates_one": "Suppression de {{count}} gabarit",
+    "deletingTemplates_other": "Suppression de {{count}} gabarits",
+    "drainHolesHelp": "Les trous de drainage permettent d'éviter les échecs d'impression en laissant entrer l'air et s'écouler la résine de l'intérieur du modèle.\n\nCe paramètre est obligatoire pour l'impression de modèles évidés ; la position des trous est déterminée automatiquement.",
+    "gingivalTrimDistanceHelp": "Distance cible, en millimètres, à découper depuis le bord des dents. Les zones où le scan comporte moins de gencive que cette valeur ne sont découpées que dans la mesure permise par le scan.",
+    "gingivalTrimmingHelp": "Découpe la gencive depuis le bord des dents sur une distance définie. Désactivez cette option pour laisser la gencive intacte.",
+    "hollowModelHelp": "Activez cette option pour créer des modèles évidés.\n\nCela réduit la quantité de matériau consommée lors de l'impression du modèle.",
+    "modelTypeHelp": "Choisissez entre un modèle en fer à cheval ou un modèle avec palais complet.",
+    "noTemplates": "Aucun gabarit créé",
+    "noTemplatesInfo": "Créez un gabarit pour réutiliser des paramètres dans de nouvelles conceptions",
+    "removeTemplate": "Voulez-vous vraiment retirer ce gabarit ?",
+    "renameTemplate": "Un gabarit portant ce nom existe déjà. Renommez le gabarit pour continuer.",
+    "templateNameHelp": "Identifiez facilement vos paramètres enregistrés en leur donnant un nom facile à retenir.\n\nCe nom apparaîtra dans la liste déroulante des gabarits de conception.",
+    "textStyleHelp": "La gravure creuse le texte dans le modèle.\n\nLe relief fait ressortir le texte du modèle."
+  },
+  "options": {
+    "modelAttachmentTypes": {
+      "hingedArticulator": "Articulateur à charnière",
+      "none": "Aucune",
+      "pillars": "Piliers"
+    },
+    "modelType": {
+      "fullPalate": "Palais complet",
+      "horseShoe": "Fer à cheval"
+    },
+    "textStyle": {
+      "embossed": "En relief",
+      "engraved": "Gravé",
+      "none": "Aucun"
+    }
+  },
+  "placeholder": {
+    "templateName": "Le nom du gabarit est obligatoire"
+  },
+  "text": {
+    "addTemplate": "Ajouter un gabarit",
+    "editTemplate": "Modifier le gabarit"
+  },
+  "title": {
+    "deleteTemplate": "Supprimer le gabarit ?",
+    "removeTemplate": "Retirer le gabarit",
+    "renameTemplate": "Renommer le gabarit",
+    "templateName": "Nom du gabarit",
+    "templates": "Gabarits"
+  }
+}

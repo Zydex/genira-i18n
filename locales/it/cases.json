@@ -1,0 +1,272 @@
+{
+  "button": {
+    "addFolders": "Aggiungi cartelle",
+    "addScans": "Aggiungi scansioni",
+    "browse": "Sfoglia",
+    "browseDirectories": "Sfoglia cartelle",
+    "browseFiles": "Sfoglia file",
+    "downloadDesigns": "Scarica progetti",
+    "moveToNewCase": "Sposta in un nuovo caso",
+    "newCase": "Nuovo caso",
+    "sendToFunnel": "Invia a Funnel"
+  },
+  "caseInspector": {
+    "caseInformation": "Informazioni sul caso"
+  },
+  "details": {
+    "case": "Caso",
+    "caseInformation": "Informazioni sul caso"
+  },
+  "duplicate": {
+    "multipleUpperOrLower": {
+      "message": "Rilevate più scansioni mascellari o mandibolari",
+      "title": "Scansioni duplicate"
+    }
+  },
+  "error": {
+    "basedModel": {
+      "message": "Il modello caricato è già zoccolato. Caricare una scansione grezza per generare un modello zoccolato.",
+      "title": "Il modello è già zoccolato."
+    },
+    "emptyFolder": "Rilevata cartella vuota",
+    "emptyMesh": {
+      "message": "Impossibile trovare i dati geometrici della scansione",
+      "title": "Scansione vuota"
+    },
+    "failedToProcessCases_one": "Impossibile elaborare {{count}} caso",
+    "failedToProcessCases_other": "Impossibile elaborare {{count}} casi",
+    "missingUpperAndLower": {
+      "message": "I nomi delle scansioni non seguono una convenzione riconosciuta. Aggiornare i nomi dei file o creare una nuova convenzione di denominazione. <a>Ulteriori informazioni</a>",
+      "title": "Impossibile riconoscere le scansioni"
+    },
+    "missingUpperOrLower": {
+      "message": "Nel caso manca una scansione mandibolare o mascellare",
+      "title": "Scansione mancante"
+    },
+    "noScansDetected": "Nessun file di scansione rilevato",
+    "unsupportedFileStructure": "Struttura dei file non supportata"
+  },
+  "files": {
+    "cases": "cases-{{time}}.zip",
+    "designs": "designs-{{time}}.zip"
+  },
+  "filters": {
+    "all": "Tutti",
+    "designed": "Progettati",
+    "downloaded": "Scaricati",
+    "issues": "Problemi",
+    "rejected": "Rifiutati"
+  },
+  "issues": {
+    "modelBasing": {
+      "basingError": {
+        "message": "Impossibile generare il modello zoccolato.\n<a>Ulteriori informazioni</a> su questo errore.",
+        "status": "Impossibile generare il modello zoccolato"
+      },
+      "hollowingError": {
+        "message": "Impossibile generare il modello cavo.\n<a>Ulteriori informazioni</a> su questo errore.",
+        "status": "Impossibile generare il modello cavo"
+      },
+      "occlusalPlaneError": {
+        "message": "Impossibile calcolare il piano occlusale.\n<a>Ulteriori informazioni</a> su questo errore.",
+        "status": "Impossibile calcolare il piano occlusale"
+      },
+      "pillarGenerationError": {
+        "message": "Impossibile generare gli attacchi.\n<a>Ulteriori informazioni</a> su questo errore.",
+        "status": "Impossibile generare gli attacchi"
+      },
+      "preprocessingError": {
+        "message": "Impossibile pre-elaborare le scansioni.\n<a>Ulteriori informazioni</a> su questo errore.",
+        "status": "Impossibile pre-elaborare le scansioni"
+      },
+      "retry": {
+        "asSolid": "Riprovare la progettazione come modello pieno? <a>Riprova</a>",
+        "withoutAttachments": "Riprovare la progettazione senza attacchi? <a>Riprova</a>"
+      },
+      "textGenerationError": {
+        "message": "Impossibile aggiungere l'etichetta di testo al modello.\n<a>Ulteriori informazioni</a> su questo errore.",
+        "status": "Impossibile generare l'etichetta completa"
+      },
+      "textGenerationWarning": {
+        "message": "Impossibile aggiungere l'etichetta di testo completa al modello. Probabilmente lo spazio libero non è sufficiente per la lunghezza del testo.\n<a>Ulteriori informazioni</a> su questo errore.",
+        "status": "Impossibile generare l'etichetta completa"
+      },
+      "toothSegmentationError": {
+        "message": "Impossibile classificare i denti.\n<a>Ulteriori informazioni</a> su questo errore.",
+        "status": "Impossibile classificare i denti"
+      },
+      "ventGenerationError": {
+        "message": "Impossibile generare i fori di drenaggio.\n<a>Ulteriori informazioni</a> su questo errore.",
+        "status": "Impossibile generare i fori di drenaggio"
+      }
+    }
+  },
+  "label": {
+    "addingCases": "Aggiunta dei casi in corso...",
+    "addingCases_amount": "Aggiunta dei casi in corso... ({{amount}}/{{total}})",
+    "caseInformation": "Informazioni sul caso",
+    "caseName": "Nome del caso",
+    "casesAdded": "Casi aggiunti! ({{amount}}/{{total}})",
+    "deleteDesign": "Elimina progetto",
+    "designedModel": "Progettato",
+    "dontRemindMe": "Non ricordarmelo più",
+    "downloadCases": "Scarica casi",
+    "downloadScans": "Scarica scansioni",
+    "dropFile": "Aggiungi file al caso",
+    "enterCaseName": "Inserire il nome del caso",
+    "enterNewCaseName": "Inserire un nuovo nome per il caso",
+    "estimatedTime": "Tempo stimato",
+    "failedToMarkAsRejected_one": "Impossibile contrassegnare il caso come rifiutato",
+    "failedToMarkAsRejected_other": "Impossibile contrassegnare {{count}} casi come rifiutati",
+    "markingCasesAsRejected_one": "Contrassegno del caso come rifiutato in corso",
+    "markingCasesAsRejected_other": "Contrassegno di {{count}} casi come rifiutati in corso",
+    "rejectedBy": "Rifiutato da",
+    "renameDesign": "Rinomina progetto",
+    "scan": "Scansione",
+    "scanUploadCancelled": "{{scanName}} (annullato)",
+    "search": "Cerca",
+    "selectDownloadOption": "seleziona l'opzione di download",
+    "sendingToFunnel": "Invio a Funnel in corso",
+    "template": "Modello",
+    "uploadComplete": "Caricamento completato",
+    "uploadedAt": "Caricato il",
+    "uploadedBy": "Caricato da",
+    "uploading": "Caricamento in corso"
+  },
+  "message": {
+    "basedModelsUploaded": "Sembra che uno o più file siano già modelli zoccolati. Caricare scansioni grezze per generare modelli zoccolati.\n\n<a>Ci faccia sapere</a> se si aspettava di poter utilizzare modelli zoccolati o se ha altri commenti da inviarci.",
+    "downloadRejectedDesigns_one": "Sul Suo account verranno addebitati {{cost}} crediti.",
+    "downloadRejectedDesigns_other": "La selezione contiene {{count}} casi che sono stati rifiutati in precedenza.\n\nSul Suo account verranno addebitati {{cost}} crediti.",
+    "downloadRejectedInsufficientCredits_one": "Impossibile scaricare i progetti rifiutati per credito insufficiente.\n\nContattare l'Amministratore o il Proprietario dell'organizzazione per ricaricare i crediti.",
+    "downloadRejectedInsufficientCredits_other": "La selezione contiene {{count}} casi che sono stati rifiutati in precedenza.\n\nPer scaricare questi progetti rifiutati, contattare l'Amministratore o il Proprietario dell'organizzazione per ricaricare i crediti.",
+    "downloadRejectedInsufficientCreditsAdmin_one": "Impossibile scaricare i progetti rifiutati per credito insufficiente.\n\nPer scaricare questi progetti rifiutati, ricaricare i crediti del Suo account.",
+    "downloadRejectedInsufficientCreditsAdmin_other": "La selezione contiene {{count}} casi che sono stati rifiutati in precedenza.\n\nPer scaricare questi progetti rifiutati, ricaricare i crediti del Suo account.",
+    "draggedCase_zero": "{{name}}",
+    "draggedCase_one": "<shrink>{{name}}</shrink> <span>e {{count}} altro</span>",
+    "draggedCase_other": "<shrink>{{name}}</shrink> <span>e altri {{count}}</span>",
+    "emptyFolderHelp": "Nessun file rilevato nella cartella selezionata. Verificarne il contenuto e riprovare.",
+    "markCasesAsRejected": "I progetti rifiutati non possono essere scaricati. Gli eventuali crediti trattenuti per questo progetto verranno rimborsati.",
+    "noCases": "Nessun caso trovato",
+    "noScans": "Questo caso non contiene scansioni.",
+    "noScansDetectedHelp": "Nessun file in formato STL o PLY rilevato nella cartella selezionata.",
+    "processingCases_one": "Elaborazione del caso in corso",
+    "processingCases_other": "Elaborazione di {{count}} casi in corso",
+    "quitUploadWarning": "I progetti per i casi selezionati non verranno elaborati.",
+    "rejectedReason": "Ci indichi il motivo per cui ha rifiutato questo progetto:",
+    "sortCasesByIssues": "I casi vengono riordinati nell'elenco per mostrare per primi quelli con problemi.",
+    "unsupportedFileStructureHelp": "Sono accettati solo file STL o PLY."
+  },
+  "scans": {
+    "combined": "Combinata",
+    "lower": "Mandibolare",
+    "unspecified": "Non specificata",
+    "upper": "Mascellare"
+  },
+  "status": {
+    "complete": "Progetto completato",
+    "downloaded": "Scaricato",
+    "failed": "Non riuscito",
+    "insufficientCredits": "Crediti insufficienti",
+    "pendingUpload": "Caricamento in corso",
+    "processing": "Elaborazione in corso",
+    "rejected": "Rifiutato",
+    "toProcess": "Da elaborare",
+    "unknown": "Stato sconosciuto",
+    "uploaded": "Caricato"
+  },
+  "table": {
+    "emptyState": {
+      "all": {
+        "header": "Nessun progetto ancora creato",
+        "paragraph": "I casi di progettazione appariranno qui dopo il caricamento delle scansioni\nPer iniziare, selezionare il pulsante Crea"
+      },
+      "designed": {
+        "header": "Nessun progetto ancora creato",
+        "paragraph": "I casi di progettazione appariranno qui dopo il caricamento delle scansioni\nPer iniziare, selezionare il pulsante Crea"
+      },
+      "downloaded": {
+        "header": "Nessun progetto scaricato",
+        "paragraph": "I progetti scaricati appariranno qui"
+      },
+      "issues": {
+        "header": "Nessun problema nei progetti",
+        "paragraph": "I progetti con problemi appariranno qui"
+      },
+      "processing": {
+        "header": "Nessun progetto attualmente in elaborazione",
+        "paragraph": "I progetti elaborati appariranno qui"
+      },
+      "rejected": {
+        "header": "Nessun progetto rifiutato",
+        "paragraph": "I progetti rifiutati appariranno qui"
+      }
+    }
+  },
+  "text": {
+    "permanentlyRemoveCase_one": "Questo caso verrà rimosso definitivamente dal sistema.",
+    "permanentlyRemoveCase_other": "{{count}} casi verranno rimossi definitivamente dal sistema."
+  },
+  "title": {
+    "caseID": "ID caso",
+    "caseName": "Nome del caso",
+    "caseNumber": "Numero del caso",
+    "cases": "Casi",
+    "completeWithIssues": "Completato con problemi",
+    "designs": "Progetti",
+    "downloadRejectedDesigns": "Scaricare i progetti rifiutati?",
+    "failed": "Non riuscito",
+    "name": "Nome",
+    "newCase": "Nuovo caso",
+    "quitUploadWarning": "Eliminare i progetti?",
+    "received": "Ricevuto",
+    "rejectDesign": "Rifiutare il progetto?",
+    "scanType": "Tipo di scansione",
+    "sortCasesByIssues": "Ordina i casi per problemi",
+    "status": "Stato",
+    "untitled": "Senza titolo",
+    "uploadRawScans": "Carica scansioni grezze",
+    "uploads": "Caricamenti"
+  },
+  "toast": {
+    "allCasesNotReadyToDownload": "I casi selezionati non sono pronti per il download",
+    "caseUpdated": "Caso aggiornato correttamente",
+    "failedToDownloadCase": "Impossibile scaricare il caso {{caseName}}",
+    "failedToGenerateZip": "Impossibile generare il file zip",
+    "failedToLoadCase_one": "Impossibile aprire il caso",
+    "failedToLoadCase_other": "Impossibile aprire {{count}} casi",
+    "failedToLoadCaseRanOutOfSpace_one": "Impossibile caricare il caso: spazio del browser esaurito",
+    "failedToLoadCaseRanOutOfSpace_other": "Impossibile caricare {{count}} casi: spazio del browser esaurito",
+    "nameUpdateFailed": "Aggiornamento del nome non riuscito",
+    "processingUpload": "Elaborazione del caso per il download in corso",
+    "processingUploads": "Elaborazione di {{amount}}/{{total}} casi per il download in corso",
+    "someCasesNotReadyToDownload": "Alcuni dei casi selezionati non sono pronti per il download",
+    "statusUpdatedToDownloaded": "Caso {{caseName}} spostato da progettati a scaricati",
+    "statusUpdateFailed": "Impossibile modificare lo stato del caso in scaricato",
+    "unableToDownloadCases_one": "Impossibile scaricare il caso",
+    "unableToDownloadCases_other": "Impossibile scaricare {{count}} casi",
+    "unableToDownloadDesigns_one": "Impossibile scaricare il progetto",
+    "unableToDownloadDesigns_other": "Impossibile scaricare {{count}} progetti",
+    "unableToDownloadFiles": "Impossibile scaricare i file"
+  },
+  "uploadModal": {
+    "multipleScans": {
+      "message": "Questo caso contiene più scansioni utilizzabili. Verranno utilizzate le scansioni più recenti per l'arcata mascellare e/o mandibolare.",
+      "title": "Scansioni multiple"
+    },
+    "text": {
+      "designTemplate": "Modello di progettazione",
+      "dragAndDrop": "Trascinare file o cartelle contenenti scansioni intraorali PLY o STL",
+      "hoverDragAndDrop": "Rilasciare cartelle di casi o scansioni intraorali per creare progetti",
+      "or": "oppure",
+      "processUploads": "Elabora",
+      "scansHaveIssues_one": "{{count}} caso presenta problemi",
+      "scansHaveIssues_other": "{{count}} casi presentano problemi",
+      "title": "Carica scansioni"
+    }
+  },
+  "uploadScans": {
+    "lower": "Inferiore",
+    "unknown": "Sconosciuta",
+    "upper": "Superiore"
+  }
+}

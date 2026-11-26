@@ -1,0 +1,272 @@
+{
+  "button": {
+    "addFolders": "Mappen toevoegen",
+    "addScans": "Scans toevoegen",
+    "browse": "Bladeren",
+    "browseDirectories": "Mappen doorbladeren",
+    "browseFiles": "Bestanden doorbladeren",
+    "downloadDesigns": "Ontwerpen downloaden",
+    "moveToNewCase": "Verplaatsen naar nieuwe casus",
+    "newCase": "Nieuwe casus",
+    "sendToFunnel": "Naar Funnel verzenden"
+  },
+  "caseInspector": {
+    "caseInformation": "Casusinformatie"
+  },
+  "details": {
+    "case": "Casus",
+    "caseInformation": "Casusinformatie"
+  },
+  "duplicate": {
+    "multipleUpperOrLower": {
+      "message": "Meerdere maxillaire of mandibulaire scans gedetecteerd",
+      "title": "Dubbele scans"
+    }
+  },
+  "error": {
+    "basedModel": {
+      "message": "Het geüploade model heeft al een sokkel. Upload een onbewerkte scan om een gesokkeld model te genereren.",
+      "title": "Model heeft al een sokkel."
+    },
+    "emptyFolder": "Lege map gedetecteerd",
+    "emptyMesh": {
+      "message": "Geometriegegevens van de scan zijn niet gevonden",
+      "title": "Lege scan"
+    },
+    "failedToProcessCases_one": "Verwerken van {{count}} casus mislukt",
+    "failedToProcessCases_other": "Verwerken van {{count}} casussen mislukt",
+    "missingUpperAndLower": {
+      "message": "Scannamen volgen geen herkende naamgevingsconventie. Wijzig de bestandsnamen of maak een nieuwe naamgevingsconventie aan. <a>Meer informatie</a>",
+      "title": "Scans niet herkend"
+    },
+    "missingUpperOrLower": {
+      "message": "Er ontbreekt een mandibulaire of maxillaire scan in de casus",
+      "title": "Ontbrekende scan"
+    },
+    "noScansDetected": "Geen scanbestanden gedetecteerd",
+    "unsupportedFileStructure": "Niet-ondersteunde bestandsstructuur"
+  },
+  "files": {
+    "cases": "cases-{{time}}.zip",
+    "designs": "designs-{{time}}.zip"
+  },
+  "filters": {
+    "all": "Alle",
+    "designed": "Ontworpen",
+    "downloaded": "Gedownload",
+    "issues": "Problemen",
+    "rejected": "Afgewezen"
+  },
+  "issues": {
+    "modelBasing": {
+      "basingError": {
+        "message": "Kan geen gesokkeld model genereren.\n<a>Meer informatie</a> over deze fout.",
+        "status": "Kan geen gesokkeld model genereren"
+      },
+      "hollowingError": {
+        "message": "Genereren van hol model mislukt.\n<a>Meer informatie</a> over deze fout.",
+        "status": "Genereren van hol model mislukt"
+      },
+      "occlusalPlaneError": {
+        "message": "Kan occlusievlak niet berekenen.\n<a>Meer informatie</a> over deze fout.",
+        "status": "Kan occlusievlak niet berekenen"
+      },
+      "pillarGenerationError": {
+        "message": "Genereren van bevestigingen mislukt.\n<a>Meer informatie</a> over deze fout.",
+        "status": "Genereren van bevestigingen mislukt"
+      },
+      "preprocessingError": {
+        "message": "Voorbewerken van scans mislukt.\n<a>Meer informatie</a> over deze fout.",
+        "status": "Kan scans niet voorbewerken"
+      },
+      "retry": {
+        "asSolid": "Ontwerp opnieuw proberen als massief model? <a>Opnieuw proberen</a>",
+        "withoutAttachments": "Ontwerp opnieuw proberen zonder bevestigingen? <a>Opnieuw proberen</a>"
+      },
+      "textGenerationError": {
+        "message": "Kan tekstlabel niet aan het model toevoegen.\n<a>Meer informatie</a> over deze fout.",
+        "status": "Genereren van volledig label mislukt"
+      },
+      "textGenerationWarning": {
+        "message": "Kan het volledige tekstlabel niet aan het model toevoegen. Dit komt waarschijnlijk door onvoldoende vrije ruimte voor de lengte van de tekst.\n<a>Meer informatie</a> over deze fout.",
+        "status": "Genereren van volledig label mislukt"
+      },
+      "toothSegmentationError": {
+        "message": "Kan tanden niet classificeren.\n<a>Meer informatie</a> over deze fout.",
+        "status": "Kan tanden niet classificeren"
+      },
+      "ventGenerationError": {
+        "message": "Genereren van afvoergaten mislukt.\n<a>Meer informatie</a> over deze fout.",
+        "status": "Genereren van afvoergaten mislukt"
+      }
+    }
+  },
+  "label": {
+    "addingCases": "Casussen toevoegen...",
+    "addingCases_amount": "Casussen toevoegen... ({{amount}}/{{total}})",
+    "caseInformation": "Casusinformatie",
+    "caseName": "Casusnaam",
+    "casesAdded": "Casussen toegevoegd! ({{amount}}/{{total}})",
+    "deleteDesign": "Ontwerp verwijderen",
+    "designedModel": "Ontworpen",
+    "dontRemindMe": "Niet meer herinneren",
+    "downloadCases": "Casussen downloaden",
+    "downloadScans": "Scans downloaden",
+    "dropFile": "Bestand aan casus toevoegen",
+    "enterCaseName": "Voer de casusnaam in",
+    "enterNewCaseName": "Voer een nieuwe naam voor de casus in",
+    "estimatedTime": "Geschatte tijd",
+    "failedToMarkAsRejected_one": "Markeren van casus als afgewezen mislukt",
+    "failedToMarkAsRejected_other": "Markeren van {{count}} casussen als afgewezen mislukt",
+    "markingCasesAsRejected_one": "Casus wordt als afgewezen gemarkeerd",
+    "markingCasesAsRejected_other": "{{count}} casussen worden als afgewezen gemarkeerd",
+    "rejectedBy": "Afgewezen door",
+    "renameDesign": "Ontwerp hernoemen",
+    "scan": "Scan",
+    "scanUploadCancelled": "{{scanName}} (geannuleerd)",
+    "search": "Zoeken",
+    "selectDownloadOption": "downloadoptie selecteren",
+    "sendingToFunnel": "Verzenden naar Funnel",
+    "template": "Sjabloon",
+    "uploadComplete": "Upload voltooid",
+    "uploadedAt": "Geüpload op",
+    "uploadedBy": "Geüpload door",
+    "uploading": "Uploaden"
+  },
+  "message": {
+    "basedModelsUploaded": "Het lijkt erop dat een of meer van uw bestanden al gesokkelde modellen zijn. Upload onbewerkte scans om gesokkelde modellen te genereren.\n\n<a>Laat het ons weten</a> als u verwachtte gesokkelde modellen te kunnen gebruiken, of als u andere feedback heeft.",
+    "downloadRejectedDesigns_one": "Er worden {{cost}} credits van uw account afgeschreven.",
+    "downloadRejectedDesigns_other": "Uw selectie bevat {{count}} casussen die eerder zijn afgewezen.\n\nEr worden {{cost}} credits van uw account afgeschreven.",
+    "downloadRejectedInsufficientCredits_one": "Kan afgewezen ontwerpen niet downloaden vanwege onvoldoende credits.\n\nNeem contact op met de beheerder of eigenaar van de organisatie om credits aan te vullen.",
+    "downloadRejectedInsufficientCredits_other": "Uw selectie bevat {{count}} casussen die eerder zijn afgewezen.\n\nNeem contact op met de beheerder of eigenaar van de organisatie om credits aan te vullen, zodat u deze afgewezen ontwerpen kunt downloaden.",
+    "downloadRejectedInsufficientCreditsAdmin_one": "Kan afgewezen ontwerpen niet downloaden vanwege onvoldoende credits.\n\nVul uw accountcredits aan om deze afgewezen ontwerpen te downloaden.",
+    "downloadRejectedInsufficientCreditsAdmin_other": "Uw selectie bevat {{count}} casussen die eerder zijn afgewezen.\n\nVul uw accountcredits aan om deze afgewezen ontwerpen te downloaden.",
+    "draggedCase_zero": "{{name}}",
+    "draggedCase_one": "<shrink>{{name}}</shrink> <span>en nog {{count}}</span>",
+    "draggedCase_other": "<shrink>{{name}}</shrink> <span>en nog {{count}}</span>",
+    "emptyFolderHelp": "Er zijn geen bestanden gevonden in de geselecteerde map. Controleer de inhoud en probeer het opnieuw.",
+    "markCasesAsRejected": "Afgewezen ontwerpen kunnen niet worden gedownload. Eventuele credits die voor dit ontwerp zijn gereserveerd, worden teruggestort.",
+    "noCases": "Geen casussen gevonden",
+    "noScans": "Deze casus heeft geen scans.",
+    "noScansDetectedHelp": "Er zijn geen STL- of PLY-bestanden gevonden in de geselecteerde map.",
+    "processingCases_one": "Casus wordt verwerkt",
+    "processingCases_other": "{{count}} casussen worden verwerkt",
+    "quitUploadWarning": "Ontwerpen voor de geselecteerde casussen worden niet verwerkt.",
+    "rejectedReason": "Laat ons weten waarom u dit ontwerp heeft afgewezen:",
+    "sortCasesByIssues": "Casussen worden in de lijst opnieuw gerangschikt, zodat casussen met problemen bovenaan staan.",
+    "unsupportedFileStructureHelp": "Alleen STL- of PLY-bestanden worden geaccepteerd."
+  },
+  "scans": {
+    "combined": "Gecombineerd",
+    "lower": "Mandibulair",
+    "unspecified": "Niet gespecificeerd",
+    "upper": "Maxillair"
+  },
+  "status": {
+    "complete": "Ontwerp voltooid",
+    "downloaded": "Gedownload",
+    "failed": "Mislukt",
+    "insufficientCredits": "Onvoldoende credits",
+    "pendingUpload": "Uploaden",
+    "processing": "Verwerken",
+    "rejected": "Afgewezen",
+    "toProcess": "Te verwerken",
+    "unknown": "Onbekende status",
+    "uploaded": "Geüpload"
+  },
+  "table": {
+    "emptyState": {
+      "all": {
+        "header": "Nog geen ontwerpen gemaakt",
+        "paragraph": "Ontwerpcasussen verschijnen hier zodra scans zijn geüpload\nSelecteer de knop Maken om te beginnen"
+      },
+      "designed": {
+        "header": "Nog geen ontwerpen gemaakt",
+        "paragraph": "Ontwerpcasussen verschijnen hier zodra scans zijn geüpload\nSelecteer de knop Maken om te beginnen"
+      },
+      "downloaded": {
+        "header": "Geen ontwerpen gedownload",
+        "paragraph": "Gedownloade ontwerpen verschijnen hier"
+      },
+      "issues": {
+        "header": "Geen ontwerpproblemen",
+        "paragraph": "Ontwerpen met problemen verschijnen hier"
+      },
+      "processing": {
+        "header": "Er worden momenteel geen ontwerpen verwerkt",
+        "paragraph": "Verwerkte ontwerpen verschijnen hier"
+      },
+      "rejected": {
+        "header": "Geen ontwerpen afgewezen",
+        "paragraph": "Afgewezen ontwerpen verschijnen hier"
+      }
+    }
+  },
+  "text": {
+    "permanentlyRemoveCase_one": "Deze casus wordt permanent uit het systeem verwijderd.",
+    "permanentlyRemoveCase_other": "{{count}} casussen worden permanent uit het systeem verwijderd."
+  },
+  "title": {
+    "caseID": "Casus-ID",
+    "caseName": "Casusnaam",
+    "caseNumber": "Casusnummer",
+    "cases": "Casussen",
+    "completeWithIssues": "Voltooid met problemen",
+    "designs": "Ontwerpen",
+    "downloadRejectedDesigns": "Afgewezen ontwerpen downloaden?",
+    "failed": "Mislukt",
+    "name": "Naam",
+    "newCase": "Nieuwe casus",
+    "quitUploadWarning": "Ontwerpen verwerpen?",
+    "received": "Ontvangen",
+    "rejectDesign": "Ontwerp afwijzen?",
+    "scanType": "Scantype",
+    "sortCasesByIssues": "Casussen sorteren op problemen",
+    "status": "Status",
+    "untitled": "Naamloos",
+    "uploadRawScans": "Onbewerkte scans uploaden",
+    "uploads": "Uploads"
+  },
+  "toast": {
+    "allCasesNotReadyToDownload": "De geselecteerde casussen zijn nog niet klaar om te downloaden",
+    "caseUpdated": "Casus bijgewerkt",
+    "failedToDownloadCase": "Downloaden van casus {{caseName}} mislukt",
+    "failedToGenerateZip": "Genereren van het zipbestand mislukt",
+    "failedToLoadCase_one": "Laden van casus mislukt",
+    "failedToLoadCase_other": "Laden van {{count}} casussen mislukt",
+    "failedToLoadCaseRanOutOfSpace_one": "Laden van casus mislukt, de browser heeft onvoldoende opslagruimte",
+    "failedToLoadCaseRanOutOfSpace_other": "Laden van {{count}} casussen mislukt, de browser heeft onvoldoende opslagruimte",
+    "nameUpdateFailed": "Naam bijwerken mislukt",
+    "processingUpload": "Casus wordt verwerkt voor download",
+    "processingUploads": "{{amount}}/{{total}} casussen worden verwerkt voor download",
+    "someCasesNotReadyToDownload": "Sommige geselecteerde casussen zijn nog niet klaar om te downloaden",
+    "statusUpdatedToDownloaded": "Casus {{caseName}} verplaatst van ontworpen naar gedownload",
+    "statusUpdateFailed": "Wijzigen van casusstatus naar gedownload mislukt",
+    "unableToDownloadCases_one": "Kan casus niet downloaden",
+    "unableToDownloadCases_other": "Kan {{count}} casussen niet downloaden",
+    "unableToDownloadDesigns_one": "Kan ontwerp niet downloaden",
+    "unableToDownloadDesigns_other": "Kan {{count}} ontwerpen niet downloaden",
+    "unableToDownloadFiles": "Kan bestanden niet downloaden"
+  },
+  "uploadModal": {
+    "multipleScans": {
+      "message": "Deze casus bevat meerdere bruikbare scans. De meest recente scans voor de maxilla en/of mandibula worden gebruikt.",
+      "title": "Meerdere scans"
+    },
+    "text": {
+      "designTemplate": "Ontwerpsjabloon",
+      "dragAndDrop": "Sleep bestanden of mappen met intraorale PLY- of STL-scans hierheen",
+      "hoverDragAndDrop": "Zet casusmappen of intraorale scans hier neer om ontwerpen te maken",
+      "or": "of",
+      "processUploads": "Verwerken",
+      "scansHaveIssues_one": "{{count}} casus heeft problemen",
+      "scansHaveIssues_other": "{{count}} casussen hebben problemen",
+      "title": "Scans uploaden"
+    }
+  },
+  "uploadScans": {
+    "lower": "Onder",
+    "unknown": "Onbekend",
+    "upper": "Boven"
+  }
+}
