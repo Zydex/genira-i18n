@@ -44,6 +44,10 @@
       "title": "Skanning saknas"
     },
     "noScansDetected": "Inga skanningsfiler upptäcktes",
+    "resolutionLowered": {
+      "message": "En högupplöst skanning förenklades till 400 000 hörnpunkter för att förbättra bearbetningsprestandan.",
+      "title": "Upplösningen sänktes"
+    },
     "unsupportedFileStructure": "Filstrukturen stöds inte"
   },
   "files": {
@@ -239,6 +243,8 @@
     "nameUpdateFailed": "Det gick inte att uppdatera namnet",
     "processingUpload": "Förbereder fallet för nedladdning",
     "processingUploads": "Förbereder {{amount}}/{{total}} fall för nedladdning",
+    "scanResolutionLowered_one": "En högupplöst skanning förenklades till 400 000 hörnpunkter för att förbättra bearbetningsprestandan",
+    "scanResolutionLowered_other": "{{count}} högupplösta skanningar förenklades till 400 000 hörnpunkter för att förbättra bearbetningsprestandan",
     "someCasesNotReadyToDownload": "Vissa av de valda fallen är inte redo för nedladdning",
     "statusUpdatedToDownloaded": "Fallet {{caseName}} flyttades från designade till nedladdade",
     "statusUpdateFailed": "Det gick inte att ändra fallets status till nedladdad",

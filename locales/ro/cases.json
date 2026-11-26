@@ -44,6 +44,10 @@
       "title": "Scanare lipsă"
     },
     "noScansDetected": "Nu au fost detectate fișiere de scanare",
+    "resolutionLowered": {
+      "message": "O scanare de înaltă rezoluție a fost simplificată la 400.000 de vârfuri pentru a îmbunătăți performanța procesării.",
+      "title": "Rezoluție redusă"
+    },
     "unsupportedFileStructure": "Structură de fișiere neacceptată"
   },
   "files": {
@@ -239,6 +243,8 @@
     "nameUpdateFailed": "Actualizarea numelui a eșuat",
     "processingUpload": "Se procesează cazul pentru descărcare",
     "processingUploads": "Se procesează {{amount}}/{{total}} cazuri pentru descărcare",
+    "scanResolutionLowered_one": "O scanare de înaltă rezoluție a fost simplificată la 400.000 de vârfuri pentru a îmbunătăți performanța procesării",
+    "scanResolutionLowered_other": "{{count}} scanări de înaltă rezoluție au fost simplificate la 400.000 de vârfuri pentru a îmbunătăți performanța procesării",
     "someCasesNotReadyToDownload": "Unele dintre cazurile selectate nu sunt pregătite pentru descărcare",
     "statusUpdatedToDownloaded": "Cazul {{caseName}} a fost mutat din proiectate în descărcate",
     "statusUpdateFailed": "Schimbarea stării cazului în descărcat a eșuat",

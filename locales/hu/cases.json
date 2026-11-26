@@ -44,6 +44,10 @@
       "title": "Hiányzó szkennelés"
     },
     "noScansDetected": "Nem található szkennelési fájl",
+    "resolutionLowered": {
+      "message": "A rendszer egy nagy felbontású szkennelést 400 000 csúcspontra egyszerűsített a feldolgozási teljesítmény javítása érdekében.",
+      "title": "Felbontás csökkentve"
+    },
     "unsupportedFileStructure": "Nem támogatott fájlstruktúra"
   },
   "files": {
@@ -239,6 +243,8 @@
     "nameUpdateFailed": "A név frissítése sikertelen",
     "processingUpload": "Eset feldolgozása letöltéshez",
     "processingUploads": "{{amount}}/{{total}} eset feldolgozása letöltéshez",
+    "scanResolutionLowered_one": "A rendszer egy nagy felbontású szkennelést 400 000 csúcspontra egyszerűsített a feldolgozási teljesítmény javítása érdekében",
+    "scanResolutionLowered_other": "A rendszer {{count}} nagy felbontású szkennelést 400 000 csúcspontra egyszerűsített a feldolgozási teljesítmény javítása érdekében",
     "someCasesNotReadyToDownload": "A kiválasztott esetek egy része nem áll készen a letöltésre",
     "statusUpdatedToDownloaded": "A(z) {{caseName}} eset átkerült a megtervezettek közül a letöltöttek közé",
     "statusUpdateFailed": "Nem sikerült az eset állapotát letöltöttre módosítani",

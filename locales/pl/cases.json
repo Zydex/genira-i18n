@@ -44,6 +44,10 @@
       "title": "Brak skanu"
     },
     "noScansDetected": "Nie wykryto plików skanów",
+    "resolutionLowered": {
+      "message": "Skan o wysokiej rozdzielczości został uproszczony do 400 000 wierzchołków, aby poprawić wydajność przetwarzania.",
+      "title": "Obniżono rozdzielczość"
+    },
     "unsupportedFileStructure": "Nieobsługiwana struktura plików"
   },
   "files": {
@@ -239,6 +243,8 @@
     "nameUpdateFailed": "Nie udało się zaktualizować nazwy",
     "processingUpload": "Przetwarzanie przypadku do pobrania",
     "processingUploads": "Przetwarzanie przypadków do pobrania: {{amount}}/{{total}}",
+    "scanResolutionLowered_one": "Skan o wysokiej rozdzielczości został uproszczony do 400 000 wierzchołków, aby poprawić wydajność przetwarzania",
+    "scanResolutionLowered_other": "Uproszczono skany o wysokiej rozdzielczości ({{count}}) do 400 000 wierzchołków, aby poprawić wydajność przetwarzania",
     "someCasesNotReadyToDownload": "Niektóre z wybranych przypadków nie są gotowe do pobrania",
     "statusUpdatedToDownloaded": "Przypadek {{caseName}} został przeniesiony z zaprojektowanych do pobranych",
     "statusUpdateFailed": "Nie udało się zmienić statusu przypadku na pobrany",

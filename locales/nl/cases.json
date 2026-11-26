@@ -44,6 +44,10 @@
       "title": "Ontbrekende scan"
     },
     "noScansDetected": "Geen scanbestanden gedetecteerd",
+    "resolutionLowered": {
+      "message": "Een scan met hoge resolutie is vereenvoudigd tot 400.000 hoekpunten om de verwerkingsprestaties te verbeteren.",
+      "title": "Resolutie verlaagd"
+    },
     "unsupportedFileStructure": "Niet-ondersteunde bestandsstructuur"
   },
   "files": {
@@ -239,6 +243,8 @@
     "nameUpdateFailed": "Naam bijwerken mislukt",
     "processingUpload": "Casus wordt verwerkt voor download",
     "processingUploads": "{{amount}}/{{total}} casussen worden verwerkt voor download",
+    "scanResolutionLowered_one": "Een scan met hoge resolutie is vereenvoudigd tot 400.000 hoekpunten om de verwerkingsprestaties te verbeteren",
+    "scanResolutionLowered_other": "{{count}} scans met hoge resolutie zijn vereenvoudigd tot 400.000 hoekpunten om de verwerkingsprestaties te verbeteren",
     "someCasesNotReadyToDownload": "Sommige geselecteerde casussen zijn nog niet klaar om te downloaden",
     "statusUpdatedToDownloaded": "Casus {{caseName}} verplaatst van ontworpen naar gedownload",
     "statusUpdateFailed": "Wijzigen van casusstatus naar gedownload mislukt",

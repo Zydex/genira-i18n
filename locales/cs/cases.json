@@ -44,6 +44,10 @@
       "title": "Chybějící sken"
     },
     "noScansDetected": "Nebyly zjištěny žádné soubory skenů",
+    "resolutionLowered": {
+      "message": "Sken s vysokým rozlišením byl zjednodušen na 400 000 vrcholů, aby se zlepšil výkon zpracování.",
+      "title": "Rozlišení sníženo"
+    },
     "unsupportedFileStructure": "Nepodporovaná struktura souborů"
   },
   "files": {
@@ -239,6 +243,8 @@
     "nameUpdateFailed": "Aktualizace názvu se nezdařila",
     "processingUpload": "Zpracování případu ke stažení",
     "processingUploads": "Zpracování případů ke stažení: {{amount}}/{{total}}",
+    "scanResolutionLowered_one": "Sken s vysokým rozlišením byl zjednodušen na 400 000 vrcholů, aby se zlepšil výkon zpracování",
+    "scanResolutionLowered_other": "Skeny s vysokým rozlišením byly zjednodušeny na 400 000 vrcholů, aby se zlepšil výkon zpracování (počet: {{count}})",
     "someCasesNotReadyToDownload": "Některé z vybraných případů nejsou připraveny ke stažení",
     "statusUpdatedToDownloaded": "Případ {{caseName}} byl přesunut z navržených do stažených",
     "statusUpdateFailed": "Nepodařilo se změnit stav případu na stažený",
