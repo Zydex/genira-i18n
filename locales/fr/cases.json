@@ -44,6 +44,10 @@
       "title": "Scan manquant"
     },
     "noScansDetected": "Aucun fichier de scan détecté",
+    "resolutionLowered": {
+      "message": "Un scan haute résolution a été simplifié à 400 000 sommets pour améliorer les performances de traitement.",
+      "title": "Résolution réduite"
+    },
     "unsupportedFileStructure": "Structure de fichiers non prise en charge"
   },
   "files": {
@@ -239,6 +243,8 @@
     "nameUpdateFailed": "Échec de la mise à jour du nom",
     "processingUpload": "Préparation du cas pour le téléchargement",
     "processingUploads": "Préparation de {{amount}}/{{total}} cas pour le téléchargement",
+    "scanResolutionLowered_one": "Un scan haute résolution a été simplifié à 400 000 sommets pour améliorer les performances de traitement",
+    "scanResolutionLowered_other": "{{count}} scans haute résolution ont été simplifiés à 400 000 sommets pour améliorer les performances de traitement",
     "someCasesNotReadyToDownload": "Certains des cas sélectionnés ne sont pas prêts à être téléchargés",
     "statusUpdatedToDownloaded": "Cas {{caseName}} déplacé de Conçus vers Téléchargés",
     "statusUpdateFailed": "Échec du changement du statut du cas en Téléchargé",

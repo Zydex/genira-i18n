@@ -44,6 +44,10 @@
       "title": "Fehlender Scan"
     },
     "noScansDetected": "Keine Scandateien erkannt",
+    "resolutionLowered": {
+      "message": "Ein hochauflösender Scan wurde auf 400.000 Eckpunkte vereinfacht, um die Verarbeitungsleistung zu verbessern.",
+      "title": "Auflösung reduziert"
+    },
     "unsupportedFileStructure": "Nicht unterstützte Dateistruktur"
   },
   "files": {
@@ -239,6 +243,8 @@
     "nameUpdateFailed": "Name konnte nicht aktualisiert werden",
     "processingUpload": "Fall wird für den Download verarbeitet",
     "processingUploads": "{{amount}}/{{total}} Fälle werden für den Download verarbeitet",
+    "scanResolutionLowered_one": "Ein hochauflösender Scan wurde auf 400.000 Eckpunkte vereinfacht, um die Verarbeitungsleistung zu verbessern",
+    "scanResolutionLowered_other": "{{count}} hochauflösende Scans wurden auf 400.000 Eckpunkte vereinfacht, um die Verarbeitungsleistung zu verbessern",
     "someCasesNotReadyToDownload": "Einige der ausgewählten Fälle sind nicht zum Download bereit",
     "statusUpdatedToDownloaded": "Fall {{caseName}} von „Designt“ nach „Heruntergeladen“ verschoben",
     "statusUpdateFailed": "Fallstatus konnte nicht auf „Heruntergeladen“ geändert werden",

@@ -44,6 +44,10 @@
       "title": "Digitalização em falta"
     },
     "noScansDetected": "Nenhum ficheiro de digitalização detetado",
+    "resolutionLowered": {
+      "message": "Uma digitalização de alta resolução foi simplificada para 400 000 vértices a fim de melhorar o desempenho do processamento.",
+      "title": "Resolução reduzida"
+    },
     "unsupportedFileStructure": "Estrutura de ficheiros não suportada"
   },
   "files": {
@@ -239,6 +243,8 @@
     "nameUpdateFailed": "Falha ao atualizar o nome",
     "processingUpload": "A processar o caso para transferência",
     "processingUploads": "A processar {{amount}}/{{total}} casos para transferência",
+    "scanResolutionLowered_one": "Uma digitalização de alta resolução foi simplificada para 400 000 vértices a fim de melhorar o desempenho do processamento",
+    "scanResolutionLowered_other": "{{count}} digitalizações de alta resolução foram simplificadas para 400 000 vértices a fim de melhorar o desempenho do processamento",
     "someCasesNotReadyToDownload": "Alguns dos casos selecionados não estão prontos para transferência",
     "statusUpdatedToDownloaded": "Caso {{caseName}} movido de desenhados para transferidos",
     "statusUpdateFailed": "Falha ao alterar o estado do caso para transferido",

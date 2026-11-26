@@ -44,6 +44,10 @@
       "title": "Scansione mancante"
     },
     "noScansDetected": "Nessun file di scansione rilevato",
+    "resolutionLowered": {
+      "message": "Una scansione ad alta risoluzione è stata semplificata a 400.000 vertici per migliorare le prestazioni di elaborazione.",
+      "title": "Risoluzione ridotta"
+    },
     "unsupportedFileStructure": "Struttura dei file non supportata"
   },
   "files": {
@@ -239,6 +243,8 @@
     "nameUpdateFailed": "Aggiornamento del nome non riuscito",
     "processingUpload": "Elaborazione del caso per il download in corso",
     "processingUploads": "Elaborazione di {{amount}}/{{total}} casi per il download in corso",
+    "scanResolutionLowered_one": "Una scansione ad alta risoluzione è stata semplificata a 400.000 vertici per migliorare le prestazioni di elaborazione",
+    "scanResolutionLowered_other": "{{count}} scansioni ad alta risoluzione sono state semplificate a 400.000 vertici per migliorare le prestazioni di elaborazione",
     "someCasesNotReadyToDownload": "Alcuni dei casi selezionati non sono pronti per il download",
     "statusUpdatedToDownloaded": "Caso {{caseName}} spostato da progettati a scaricati",
     "statusUpdateFailed": "Impossibile modificare lo stato del caso in scaricato",

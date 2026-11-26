@@ -44,6 +44,10 @@
       "title": "Falta un escaneo"
     },
     "noScansDetected": "No se han detectado archivos de escaneo",
+    "resolutionLowered": {
+      "message": "Se ha simplificado un escaneo de alta resolución a 400.000 vértices para mejorar el rendimiento del procesamiento.",
+      "title": "Resolución reducida"
+    },
     "unsupportedFileStructure": "Estructura de archivos no compatible"
   },
   "files": {
@@ -239,6 +243,8 @@
     "nameUpdateFailed": "No se ha podido actualizar el nombre",
     "processingUpload": "Procesando el caso para su descarga",
     "processingUploads": "Procesando {{amount}}/{{total}} casos para su descarga",
+    "scanResolutionLowered_one": "Se ha simplificado un escaneo de alta resolución a 400.000 vértices para mejorar el rendimiento del procesamiento",
+    "scanResolutionLowered_other": "Se han simplificado {{count}} escaneos de alta resolución a 400.000 vértices para mejorar el rendimiento del procesamiento",
     "someCasesNotReadyToDownload": "Algunos de los casos seleccionados no están listos para descargarse",
     "statusUpdatedToDownloaded": "El caso {{caseName}} se ha movido de diseñados a descargados",
     "statusUpdateFailed": "No se ha podido cambiar el estado del caso a descargado",
