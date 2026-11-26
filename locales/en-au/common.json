@@ -27,8 +27,8 @@
     "rename": "Rename",
     "retry": "Retry",
     "save": "Save",
-    "showMore": "Show More",
     "showLess": "Show Less",
+    "showMore": "Show More",
     "topUp": "Top Up",
     "undo": "Undo",
     "update": "Update",
@@ -52,9 +52,9 @@
     "unableToLoad": "Unable to load.",
     "unspecified": "An unknown error occurred",
     "userConflict": "User already exists.",
+    "userConflict_details": "User with email {{details}} already exists in your organisation or another organisation. Use an alternate email.",
     "userConflictAnotherOrg_details": "The email {{details}} is already associated with another organisation. Use an alternate email or request the user to unenrol from their previous organisation.",
     "userConflictWithinOrg_details": "A user with the email {{details}} already exists in your organisation.",
-    "userConflict_details": "User with email {{details}} already exists in your organisation or another organisation. Use an alternate email.",
     "userNotFound": "User not found.",
     "userNotFound_details": "User with email {{details}} could not be found."
   },
@@ -106,8 +106,8 @@
     "noMatches": "Sorry, no matches were found",
     "noMatchesHelp": "Check for typos or try more general words\nAlternatively, try using the table filters",
     "reconnecting": "Reconnecting...",
-    "reviewAndAgreeToPolicies": "Before continuing, you need to review and agree to the <terms>Terms of Service</terms> and the <privacy>Privacy Policy</privacy>.",
-    "reviewAndAgreeToOrgPolicies": "Before continuing, your organisation needs to review and agree to the following policies."
+    "reviewAndAgreeToOrgPolicies": "Before continuing, your organisation needs to review and agree to the following policies.",
+    "reviewAndAgreeToPolicies": "Before continuing, you need to review and agree to the <terms>Terms of Service</terms> and the <privacy>Privacy Policy</privacy>."
   },
   "notFoundPage": {
     "message_narrow": "Check the page address for typos or use the navigation menu on the top left",
@@ -144,11 +144,11 @@
     "termsOfService": "Terms of Service",
     "uploads": "Uploads"
   },
-  "units": {
-    "millimetres": "{{value}} mm"
-  },
   "underConstruction": {
     "subtitle1": "We're building something special",
     "subtitle2": "Check back later"
+  },
+  "units": {
+    "millimetres": "{{value}} mm"
   }
 }

@@ -1,0 +1,40 @@
+{
+  "button": {
+    "purchase": "Acheter",
+    "purchaseCredits": "Acheter des crédits"
+  },
+  "description": {
+    "bannerNoCredits": "Générez automatiquement des conceptions en un seul clic. Contactez l'administrateur pour acheter des crédits.",
+    "creditBundles": "Sélectionnez l'un des forfaits ci-dessous pour acheter des crédits supplémentaires.",
+    "credits": "Crédits",
+    "credits_one": "{{count}} crédit",
+    "credits_other": "{{count}} crédits",
+    "creditSpend": "Téléchargez une liste détaillée pour voir à quoi vous avez utilisé vos crédits.",
+    "enoughToProduce_one": "Suffisant pour produire {{count}} cas",
+    "enoughToProduce_other": "Suffisant pour produire {{count}} cas",
+    "manageBilling": "Consultez vos factures, vérifiez et mettez à jour votre carte de paiement.",
+    "noCredits": "Pour continuer à générer des conceptions, contactez l'administrateur de votre organisation afin d'acheter des crédits supplémentaires.",
+    "purchaseCredits": "Achetez des crédits supplémentaires pour continuer à générer des conceptions."
+  },
+  "file": {
+    "creditHistory": "{{org}}-credit-history-{{year}}"
+  },
+  "label": {
+    "currentYear": "{{year}} (année en cours)"
+  },
+  "message": {
+    "downloadedCreditSpend": "Historique des crédits téléchargé",
+    "downloadingCreditSpend": "Téléchargement de l'historique des crédits"
+  },
+  "title": {
+    "amount": "Montant",
+    "createdAt": "Créé le",
+    "creditSpend": "Utilisation des crédits",
+    "description": "Description",
+    "kind": "Type",
+    "manageCredits": "Gérer les crédits",
+    "noCredits": "Aucun crédit restant",
+    "organisation": "Organisation",
+    "purchaseCreditBundles": "Acheter des forfaits de crédits"
+  }
+}

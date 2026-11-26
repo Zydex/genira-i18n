@@ -1,0 +1,40 @@
+{
+  "button": {
+    "purchase": "Zakoupit",
+    "purchaseCredits": "Zakoupit kredity"
+  },
+  "description": {
+    "bannerNoCredits": "Automaticky generujte návrhy jediným kliknutím. Chcete-li zakoupit kredity, obraťte se na administrátora.",
+    "creditBundles": "Chcete-li zakoupit další kredity, vyberte jeden z níže uvedených balíčků.",
+    "credits": "Kredity",
+    "credits_one": "{{count}} kredit",
+    "credits_other": "Kredity: {{count}}",
+    "creditSpend": "Stáhněte si podrobný seznam a zjistěte, za co jste své kredity utratili.",
+    "enoughToProduce_one": "Vystačí na {{count}} případ",
+    "enoughToProduce_other": "Vystačí na tento počet případů: {{count}}",
+    "manageBilling": "Zobrazení faktur, kontrola a aktualizace platební karty.",
+    "noCredits": "Chcete-li pokračovat v generování návrhů, obraťte se na administrátora své organizace a požádejte o zakoupení dalších kreditů.",
+    "purchaseCredits": "Chcete-li pokračovat v generování návrhů, zakupte si další kredity."
+  },
+  "file": {
+    "creditHistory": "{{org}}-credit-history-{{year}}"
+  },
+  "label": {
+    "currentYear": "{{year}} (aktuální rok)"
+  },
+  "message": {
+    "downloadedCreditSpend": "Historie kreditů byla stažena",
+    "downloadingCreditSpend": "Stahování historie kreditů"
+  },
+  "title": {
+    "amount": "Částka",
+    "createdAt": "Vytvořeno",
+    "creditSpend": "Čerpání kreditů",
+    "description": "Popis",
+    "kind": "Druh",
+    "manageCredits": "Správa kreditů",
+    "noCredits": "Nezbývají žádné kredity",
+    "organisation": "Organizace",
+    "purchaseCreditBundles": "Zakoupit balíčky kreditů"
+  }
+}

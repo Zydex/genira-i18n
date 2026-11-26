@@ -1,0 +1,82 @@
+{
+  "alt": {
+    "modelIcon": "Modelo"
+  },
+  "button": {
+    "save": "Guardar",
+    "update": "Actualizar"
+  },
+  "error": {
+    "failedDeletion_one": "No se pudo eliminar {{count}} plantilla",
+    "failedDeletion_other": "No se pudieron eliminar {{count}} plantillas"
+  },
+  "label": {
+    "affixText": "Añadir texto",
+    "createdBy": "Creado por",
+    "createdOn": "Creado el",
+    "default": "Predeterminada",
+    "designPart": "Pieza de diseño",
+    "drainHoles": "Orificios de drenaje",
+    "gingivalTrimDistance": "Distancia de recorte",
+    "gingivalTrimming": "Recorte gingival",
+    "hollowModel": "Modelo hueco",
+    "modelAttachmentTypes": "Elementos de unión",
+    "modelType": "Tipo de modelo",
+    "name": "Nombre de la plantilla",
+    "newTemplate": "Nueva plantilla",
+    "search": "Buscar una plantilla",
+    "studyModel": "Modelo de estudio",
+    "textStyle": "Estilo de texto"
+  },
+  "message": {
+    "affixTextHelp": "Facilite la identificación de las piezas añadiendo texto a los diseños generados.\n\nEl nombre del caso se añadirá a los modelos.",
+    "attachmentHelp": "Los elementos de unión sirven para mantener la posición de mordida en los modelos físicos.\n\nSolo se generan para casos que tienen un escaneo superior (maxilar) y uno inferior (mandibular).",
+    "createATemplate": "Cree una plantilla para sus diseños",
+    "deleteTemplate": "Esta plantilla ya no estará disponible para casos futuros.",
+    "deleteTemplate_one": "Esta plantilla ya no estará disponible para casos futuros.",
+    "deleteTemplate_other": "Estas plantillas ya no estarán disponibles para casos futuros.",
+    "deletingTemplates_one": "Eliminando {{count}} plantilla",
+    "deletingTemplates_other": "Eliminando {{count}} plantillas",
+    "drainHolesHelp": "Los orificios de drenaje ayudan a evitar fallos de impresión al permitir que entre el aire y que la resina salga del interior del modelo.\n\nEste ajuste es obligatorio al imprimir modelos huecos; la posición de los orificios se determina automáticamente.",
+    "gingivalTrimDistanceHelp": "Distancia objetivo, en milímetros, que se recorta desde el borde del diente. Las zonas en las que el escaneo tiene menos encía que esta distancia solo se recortan hasta donde lo permite el escaneo.",
+    "gingivalTrimmingHelp": "Recorta la encía desde el borde del diente una distancia determinada. Desactívelo para dejar la encía sin recortar.",
+    "hollowModelHelp": "Active esta opción para crear modelos huecos.\n\nAsí se reduce la cantidad de material que se consume al imprimir el modelo.",
+    "modelTypeHelp": "Elija entre modelos en herradura o con paladar completo.",
+    "noTemplates": "No se han creado plantillas",
+    "noTemplatesInfo": "Cree una plantilla para reutilizar los ajustes en nuevos diseños",
+    "removeTemplate": "¿Seguro que desea quitar esta plantilla?",
+    "renameTemplate": "Ya existe una plantilla con este nombre. Cambie el nombre de la plantilla para continuar.",
+    "templateNameHelp": "Identifique fácilmente sus ajustes guardados asignándoles un nombre fácil de recordar.\n\nEste nombre aparecerá en la lista desplegable de plantillas de diseño.",
+    "textStyleHelp": "Con Grabado, el texto se talla hacia el interior del modelo.\n\nCon En relieve, el texto sobresale del modelo."
+  },
+  "options": {
+    "modelAttachmentTypes": {
+      "hingedArticulator": "Articulador de bisagra",
+      "none": "Ninguno",
+      "pillars": "Pilares"
+    },
+    "modelType": {
+      "fullPalate": "Paladar completo",
+      "horseShoe": "Herradura"
+    },
+    "textStyle": {
+      "embossed": "En relieve",
+      "engraved": "Grabado",
+      "none": "Ninguno"
+    }
+  },
+  "placeholder": {
+    "templateName": "El nombre de la plantilla es obligatorio"
+  },
+  "text": {
+    "addTemplate": "Añadir plantilla",
+    "editTemplate": "Editar plantilla"
+  },
+  "title": {
+    "deleteTemplate": "¿Eliminar plantilla?",
+    "removeTemplate": "Quitar plantilla",
+    "renameTemplate": "Cambiar nombre de la plantilla",
+    "templateName": "Nombre de la plantilla",
+    "templates": "Plantillas"
+  }
+}

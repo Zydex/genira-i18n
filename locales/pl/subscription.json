@@ -1,0 +1,40 @@
+{
+  "button": {
+    "purchase": "Kup",
+    "purchaseCredits": "Kup kredyty"
+  },
+  "description": {
+    "bannerNoCredits": "Automatycznie generuj projekty jednym kliknięciem. Aby kupić kredyty, skontaktuj się z administratorem.",
+    "creditBundles": "Wybierz jeden z poniższych pakietów, aby kupić więcej kredytów.",
+    "credits": "Kredyty",
+    "credits_one": "{{count}} kredyt",
+    "credits_other": "Kredyty: {{count}}",
+    "creditSpend": "Pobierz szczegółowe zestawienie, aby sprawdzić, na co zostały wydane kredyty.",
+    "enoughToProduce_one": "Wystarczy na wykonanie {{count}} przypadku",
+    "enoughToProduce_other": "Wystarczy na wykonanie przypadków: {{count}}",
+    "manageBilling": "Przeglądaj faktury oraz sprawdzaj i aktualizuj kartę płatniczą.",
+    "noCredits": "Aby dalej generować projekty, skontaktuj się z administratorem swojej organizacji w celu zakupu dodatkowych kredytów.",
+    "purchaseCredits": "Kup dodatkowe kredyty, aby dalej generować projekty."
+  },
+  "file": {
+    "creditHistory": "{{org}}-credit-history-{{year}}"
+  },
+  "label": {
+    "currentYear": "{{year}} (bieżący rok)"
+  },
+  "message": {
+    "downloadedCreditSpend": "Pobrano historię kredytów",
+    "downloadingCreditSpend": "Pobieranie historii kredytów"
+  },
+  "title": {
+    "amount": "Kwota",
+    "createdAt": "Data utworzenia",
+    "creditSpend": "Wykorzystanie kredytów",
+    "description": "Opis",
+    "kind": "Rodzaj",
+    "manageCredits": "Zarządzaj kredytami",
+    "noCredits": "Brak pozostałych kredytów",
+    "organisation": "Organizacja",
+    "purchaseCreditBundles": "Kup pakiety kredytów"
+  }
+}

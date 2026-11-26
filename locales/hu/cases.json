@@ -1,0 +1,272 @@
+{
+  "button": {
+    "addFolders": "Mappák hozzáadása",
+    "addScans": "Szkennelések hozzáadása",
+    "browse": "Tallózás",
+    "browseDirectories": "Mappák tallózása",
+    "browseFiles": "Fájlok tallózása",
+    "downloadDesigns": "Tervek letöltése",
+    "moveToNewCase": "Áthelyezés új esetbe",
+    "newCase": "Új eset",
+    "sendToFunnel": "Küldés a Funnelbe"
+  },
+  "caseInspector": {
+    "caseInformation": "Eset adatai"
+  },
+  "details": {
+    "case": "Eset",
+    "caseInformation": "Eset adatai"
+  },
+  "duplicate": {
+    "multipleUpperOrLower": {
+      "message": "Több maxilláris vagy mandibuláris szkennelés észlelhető",
+      "title": "Duplikált szkennelések"
+    }
+  },
+  "error": {
+    "basedModel": {
+      "message": "A feltöltött modell már talpazott. Talpazott modell létrehozásához töltsön fel nyers szkennelést.",
+      "title": "A modell már talpazott."
+    },
+    "emptyFolder": "Üres mappa észlelhető",
+    "emptyMesh": {
+      "message": "A szkennelés geometriai adatai nem találhatók",
+      "title": "Üres szkennelés"
+    },
+    "failedToProcessCases_one": "{{count}} eset feldolgozása sikertelen",
+    "failedToProcessCases_other": "{{count}} eset feldolgozása sikertelen",
+    "missingUpperAndLower": {
+      "message": "A szkennelések nevei nem követnek ismert elnevezési konvenciót. Módosítsa a fájlneveket, vagy hozzon létre új elnevezési konvenciót. <a>További információ</a>",
+      "title": "A szkennelések nem ismerhetők fel"
+    },
+    "missingUpperOrLower": {
+      "message": "Az esetből hiányzik a mandibuláris vagy a maxilláris szkennelés",
+      "title": "Hiányzó szkennelés"
+    },
+    "noScansDetected": "Nem található szkennelési fájl",
+    "unsupportedFileStructure": "Nem támogatott fájlstruktúra"
+  },
+  "files": {
+    "cases": "cases-{{time}}.zip",
+    "designs": "designs-{{time}}.zip"
+  },
+  "filters": {
+    "all": "Összes",
+    "designed": "Megtervezett",
+    "downloaded": "Letöltött",
+    "issues": "Problémák",
+    "rejected": "Elutasított"
+  },
+  "issues": {
+    "modelBasing": {
+      "basingError": {
+        "message": "Nem sikerült létrehozni a talpazott modellt.\n<a>További információ</a> erről a hibáról.",
+        "status": "Nem sikerült létrehozni a talpazott modellt"
+      },
+      "hollowingError": {
+        "message": "Nem sikerült létrehozni az üreges modellt.\n<a>További információ</a> erről a hibáról.",
+        "status": "Nem sikerült létrehozni az üreges modellt"
+      },
+      "occlusalPlaneError": {
+        "message": "Nem sikerült kiszámítani az okkluzális síkot.\n<a>További információ</a> erről a hibáról.",
+        "status": "Nem sikerült kiszámítani az okkluzális síkot"
+      },
+      "pillarGenerationError": {
+        "message": "Nem sikerült létrehozni a rögzítőelemeket.\n<a>További információ</a> erről a hibáról.",
+        "status": "Nem sikerült létrehozni a rögzítőelemeket"
+      },
+      "preprocessingError": {
+        "message": "Nem sikerült előfeldolgozni a szkenneléseket.\n<a>További információ</a> erről a hibáról.",
+        "status": "Nem sikerült előfeldolgozni a szkenneléseket"
+      },
+      "retry": {
+        "asSolid": "Újrapróbálja a tervezést tömör modellként? <a>Újrapróbálás</a>",
+        "withoutAttachments": "Újrapróbálja a tervezést rögzítőelemek nélkül? <a>Újrapróbálás</a>"
+      },
+      "textGenerationError": {
+        "message": "Nem sikerült szöveges címkét hozzáadni a modellhez.\n<a>További információ</a> erről a hibáról.",
+        "status": "Nem sikerült a teljes címkét létrehozni"
+      },
+      "textGenerationWarning": {
+        "message": "Nem sikerült a teljes szöveges címkét hozzáadni a modellhez. Ennek oka valószínűleg az, hogy nincs elegendő szabad hely a szöveg hosszához.\n<a>További információ</a> erről a hibáról.",
+        "status": "Nem sikerült a teljes címkét létrehozni"
+      },
+      "toothSegmentationError": {
+        "message": "Nem sikerült a fogakat azonosítani.\n<a>További információ</a> erről a hibáról.",
+        "status": "Nem sikerült a fogakat azonosítani"
+      },
+      "ventGenerationError": {
+        "message": "Nem sikerült létrehozni a leeresztő furatokat.\n<a>További információ</a> erről a hibáról.",
+        "status": "Nem sikerült létrehozni a leeresztő furatokat"
+      }
+    }
+  },
+  "label": {
+    "addingCases": "Esetek hozzáadása...",
+    "addingCases_amount": "Esetek hozzáadása... ({{amount}}/{{total}})",
+    "caseInformation": "Eset adatai",
+    "caseName": "Eset neve",
+    "casesAdded": "Esetek hozzáadva! ({{amount}}/{{total}})",
+    "deleteDesign": "Terv törlése",
+    "designedModel": "Megtervezve",
+    "dontRemindMe": "Ne emlékeztessen újra",
+    "downloadCases": "Esetek letöltése",
+    "downloadScans": "Szkennelések letöltése",
+    "dropFile": "Fájl hozzáadása az esethez",
+    "enterCaseName": "Adja meg az eset nevét",
+    "enterNewCaseName": "Adjon meg új nevet az esetnek",
+    "estimatedTime": "Becsült idő",
+    "failedToMarkAsRejected_one": "Nem sikerült elutasítottként megjelölni az esetet",
+    "failedToMarkAsRejected_other": "Nem sikerült elutasítottként megjelölni {{count}} esetet",
+    "markingCasesAsRejected_one": "Eset megjelölése elutasítottként",
+    "markingCasesAsRejected_other": "{{count}} eset megjelölése elutasítottként",
+    "rejectedBy": "Elutasította",
+    "renameDesign": "Terv átnevezése",
+    "scan": "Szkennelés",
+    "scanUploadCancelled": "{{scanName}} (megszakítva)",
+    "search": "Keresés",
+    "selectDownloadOption": "válasszon letöltési lehetőséget",
+    "sendingToFunnel": "Küldés a Funnelbe",
+    "template": "Sablon",
+    "uploadComplete": "Feltöltés kész",
+    "uploadedAt": "Feltöltés ideje",
+    "uploadedBy": "Feltöltötte",
+    "uploading": "Feltöltés"
+  },
+  "message": {
+    "basedModelsUploaded": "Úgy tűnik, hogy egy vagy több fájlja már talpazott modell. Talpazott modellek létrehozásához töltsön fel nyers szkenneléseket.\n\n<a>Jelezze nekünk</a>, ha arra számított, hogy talpazott modelleket is használhat, vagy ha egyéb visszajelzése van.",
+    "downloadRejectedDesigns_one": "A fiókjából {{cost}} kredit kerül levonásra.",
+    "downloadRejectedDesigns_other": "A kijelölés {{count}} korábban elutasított esetet tartalmaz.\n\nA fiókjából {{cost}} kredit kerül levonásra.",
+    "downloadRejectedInsufficientCredits_one": "Az elutasított tervek nem tölthetők le, mert nincs elegendő kredit.\n\nA kreditek feltöltéséhez forduljon a szervezet adminisztrátorához vagy tulajdonosához.",
+    "downloadRejectedInsufficientCredits_other": "A kijelölés {{count}} korábban elutasított esetet tartalmaz.\n\nAz elutasított tervek letöltéséhez forduljon a szervezet adminisztrátorához vagy tulajdonosához a kreditek feltöltése érdekében.",
+    "downloadRejectedInsufficientCreditsAdmin_one": "Az elutasított tervek nem tölthetők le, mert nincs elegendő kredit.\n\nAz elutasított tervek letöltéséhez töltse fel fiókja kreditjeit.",
+    "downloadRejectedInsufficientCreditsAdmin_other": "A kijelölés {{count}} korábban elutasított esetet tartalmaz.\n\nAz elutasított tervek letöltéséhez töltse fel fiókja kreditjeit.",
+    "draggedCase_zero": "{{name}}",
+    "draggedCase_one": "<shrink>{{name}}</shrink> <span>és még {{count}}</span>",
+    "draggedCase_other": "<shrink>{{name}}</shrink> <span>és még {{count}}</span>",
+    "emptyFolderHelp": "A kiválasztott mappában nem található fájl. Ellenőrizze a tartalmát, és próbálja újra.",
+    "markCasesAsRejected": "Az elutasított tervek nem tölthetők le. Az ehhez a tervhez zárolt kreditek visszatérítésre kerülnek.",
+    "noCases": "Nem található eset",
+    "noScans": "Ehhez az esethez nem tartoznak szkennelések.",
+    "noScansDetectedHelp": "A kiválasztott mappában nem található STL vagy PLY formátumú fájl.",
+    "processingCases_one": "Eset feldolgozása",
+    "processingCases_other": "{{count}} eset feldolgozása",
+    "quitUploadWarning": "A kiválasztott esetek tervei nem kerülnek feldolgozásra.",
+    "rejectedReason": "Ossza meg velünk, miért utasította el ezt a tervet:",
+    "sortCasesByIssues": "Az esetek a listában átrendeződnek, hogy a problémás esetek jelenjenek meg elöl.",
+    "unsupportedFileStructureHelp": "Csak STL vagy PLY fájlok fogadhatók el."
+  },
+  "scans": {
+    "combined": "Kombinált",
+    "lower": "Mandibuláris",
+    "unspecified": "Nincs megadva",
+    "upper": "Maxilláris"
+  },
+  "status": {
+    "complete": "Tervezés kész",
+    "downloaded": "Letöltve",
+    "failed": "Sikertelen",
+    "insufficientCredits": "Nincs elegendő kredit",
+    "pendingUpload": "Feltöltés",
+    "processing": "Feldolgozás",
+    "rejected": "Elutasítva",
+    "toProcess": "Feldolgozásra vár",
+    "unknown": "Ismeretlen állapot",
+    "uploaded": "Feltöltve"
+  },
+  "table": {
+    "emptyState": {
+      "all": {
+        "header": "Még nincsenek létrehozott tervek",
+        "paragraph": "A tervezési esetek a szkennelések feltöltése után itt jelennek meg\nA kezdéshez válassza a Létrehozás gombot"
+      },
+      "designed": {
+        "header": "Még nincsenek létrehozott tervek",
+        "paragraph": "A tervezési esetek a szkennelések feltöltése után itt jelennek meg\nA kezdéshez válassza a Létrehozás gombot"
+      },
+      "downloaded": {
+        "header": "Nincsenek letöltött tervek",
+        "paragraph": "A letöltött tervek itt jelennek meg"
+      },
+      "issues": {
+        "header": "Nincsenek problémás tervek",
+        "paragraph": "A problémás tervek itt jelennek meg"
+      },
+      "processing": {
+        "header": "Jelenleg nincs feldolgozás alatt álló terv",
+        "paragraph": "A feldolgozott tervek itt jelennek meg"
+      },
+      "rejected": {
+        "header": "Nincsenek elutasított tervek",
+        "paragraph": "Az elutasított tervek itt jelennek meg"
+      }
+    }
+  },
+  "text": {
+    "permanentlyRemoveCase_one": "Ez az eset véglegesen törlődik a rendszerből.",
+    "permanentlyRemoveCase_other": "{{count}} eset véglegesen törlődik a rendszerből."
+  },
+  "title": {
+    "caseID": "Esetazonosító",
+    "caseName": "Eset neve",
+    "caseNumber": "Esetszám",
+    "cases": "Esetek",
+    "completeWithIssues": "Kész, problémákkal",
+    "designs": "Tervek",
+    "downloadRejectedDesigns": "Letölti az elutasított terveket?",
+    "failed": "Sikertelen",
+    "name": "Név",
+    "newCase": "Új eset",
+    "quitUploadWarning": "Elveti a terveket?",
+    "received": "Beérkezett",
+    "rejectDesign": "Elutasítja a tervet?",
+    "scanType": "Szkennelés típusa",
+    "sortCasesByIssues": "Esetek rendezése problémák szerint",
+    "status": "Állapot",
+    "untitled": "Névtelen",
+    "uploadRawScans": "Nyers szkennelések feltöltése",
+    "uploads": "Feltöltések"
+  },
+  "toast": {
+    "allCasesNotReadyToDownload": "A kiválasztott esetek nem állnak készen a letöltésre",
+    "caseUpdated": "Az eset sikeresen frissítve",
+    "failedToDownloadCase": "Nem sikerült letölteni a(z) {{caseName}} esetet",
+    "failedToGenerateZip": "Nem sikerült létrehozni a ZIP-fájlt",
+    "failedToLoadCase_one": "Nem sikerült betölteni az esetet",
+    "failedToLoadCase_other": "Nem sikerült betölteni {{count}} esetet",
+    "failedToLoadCaseRanOutOfSpace_one": "Nem sikerült betölteni az esetet, a böngészőben elfogyott a tárhely",
+    "failedToLoadCaseRanOutOfSpace_other": "Nem sikerült betölteni {{count}} esetet, a böngészőben elfogyott a tárhely",
+    "nameUpdateFailed": "A név frissítése sikertelen",
+    "processingUpload": "Eset feldolgozása letöltéshez",
+    "processingUploads": "{{amount}}/{{total}} eset feldolgozása letöltéshez",
+    "someCasesNotReadyToDownload": "A kiválasztott esetek egy része nem áll készen a letöltésre",
+    "statusUpdatedToDownloaded": "A(z) {{caseName}} eset átkerült a megtervezettek közül a letöltöttek közé",
+    "statusUpdateFailed": "Nem sikerült az eset állapotát letöltöttre módosítani",
+    "unableToDownloadCases_one": "Az eset nem tölthető le",
+    "unableToDownloadCases_other": "{{count}} eset nem tölthető le",
+    "unableToDownloadDesigns_one": "A terv nem tölthető le",
+    "unableToDownloadDesigns_other": "{{count}} terv nem tölthető le",
+    "unableToDownloadFiles": "A fájlok nem tölthetők le"
+  },
+  "uploadModal": {
+    "multipleScans": {
+      "message": "Ez az eset több felhasználható szkennelést tartalmaz. A maxilláris és/vagy mandibuláris állcsonthoz a legutóbbi szkennelések lesznek felhasználva.",
+      "title": "Több szkennelés"
+    },
+    "text": {
+      "designTemplate": "Tervezési sablon",
+      "dragAndDrop": "Húzza ide a PLY vagy STL formátumú intraorális szkenneléseket tartalmazó fájlokat vagy mappákat",
+      "hoverDragAndDrop": "Engedje el az esetmappákat vagy intraorális szkenneléseket a tervek létrehozásához",
+      "or": "vagy",
+      "processUploads": "Feldolgozás",
+      "scansHaveIssues_one": "{{count}} esetnél probléma van",
+      "scansHaveIssues_other": "{{count}} esetnél probléma van",
+      "title": "Szkennelések feltöltése"
+    }
+  },
+  "uploadScans": {
+    "lower": "Alsó",
+    "unknown": "Ismeretlen",
+    "upper": "Felső"
+  }
+}

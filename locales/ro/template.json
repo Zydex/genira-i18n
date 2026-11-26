@@ -1,0 +1,82 @@
+{
+  "alt": {
+    "modelIcon": "Model"
+  },
+  "button": {
+    "save": "Salvare",
+    "update": "Actualizare"
+  },
+  "error": {
+    "failedDeletion_one": "Nu s-a putut șterge {{count}} șablon",
+    "failedDeletion_other": "Nu s-au putut șterge {{count}} șabloane"
+  },
+  "label": {
+    "affixText": "Adăugare text",
+    "createdBy": "Creat de",
+    "createdOn": "Creat la",
+    "default": "Implicit",
+    "designPart": "Componentă design",
+    "drainHoles": "Orificii de drenaj",
+    "gingivalTrimDistance": "Distanță de tăiere",
+    "gingivalTrimming": "Tăiere gingivală",
+    "hollowModel": "Model gol",
+    "modelAttachmentTypes": "Atașamente",
+    "modelType": "Tip model",
+    "name": "Nume șablon",
+    "newTemplate": "Șablon nou",
+    "search": "Căutați un șablon",
+    "studyModel": "Model de studiu",
+    "textStyle": "Stil text"
+  },
+  "message": {
+    "affixTextHelp": "Identificați ușor componentele adăugând text la designurile generate.\n\nNumele cazului va fi adăugat pe modele.",
+    "attachmentHelp": "Atașamentele sunt folosite pentru a menține poziția ocluzală la modelele fizice.\n\nAcestea sunt generate doar pentru cazurile care au o scanare superioară (maxilară) și una inferioară (mandibulară).",
+    "createATemplate": "Creați un șablon pentru designurile dumneavoastră",
+    "deleteTemplate": "Acest șablon nu va mai fi disponibil pentru cazurile viitoare.",
+    "deleteTemplate_one": "Acest șablon nu va mai fi disponibil pentru cazurile viitoare.",
+    "deleteTemplate_other": "Aceste șabloane nu vor mai fi disponibile pentru cazurile viitoare.",
+    "deletingTemplates_one": "Se șterge {{count}} șablon",
+    "deletingTemplates_other": "Se șterg {{count}} șabloane",
+    "drainHolesHelp": "Orificiile de drenaj ajută la evitarea erorilor de printare, permițând intrarea aerului și scurgerea rășinii din interiorul modelului.\n\nAceastă setare este obligatorie la printarea modelelor goale, iar pozițiile orificiilor sunt determinate automat.",
+    "gingivalTrimDistanceHelp": "Distanța țintă, în milimetri, de tăiere față de marginea dintelui. Zonele în care scanarea are mai puțină gingie decât această valoare sunt tăiate doar cât permite scanarea.",
+    "gingivalTrimmingHelp": "Taie gingia de la marginea dintelui pe o distanță stabilită. Dezactivați pentru a lăsa gingia netăiată.",
+    "hollowModelHelp": "Activați această opțiune pentru a crea modele goale în interior.\n\nAstfel se reduce cantitatea de material consumată la printarea modelului.",
+    "modelTypeHelp": "Alegeți între modele tip potcoavă sau cu palat complet.",
+    "noTemplates": "Niciun șablon creat",
+    "noTemplatesInfo": "Creați un șablon pentru a reutiliza setările în designurile noi",
+    "removeTemplate": "Sigur doriți să eliminați acest șablon?",
+    "renameTemplate": "Există deja un șablon cu acest nume. Redenumiți șablonul pentru a continua.",
+    "templateNameHelp": "Identificați ușor setările salvate dându-le un nume ușor de reținut.\n\nVeți vedea acest nume în lista derulantă a șabloanelor de design.",
+    "textStyleHelp": "Gravarea va tăia textul în model.\n\nReliefarea va extruda textul în afara modelului."
+  },
+  "options": {
+    "modelAttachmentTypes": {
+      "hingedArticulator": "Articulator cu balama",
+      "none": "Niciunul",
+      "pillars": "Stâlpi"
+    },
+    "modelType": {
+      "fullPalate": "Palat complet",
+      "horseShoe": "Potcoavă"
+    },
+    "textStyle": {
+      "embossed": "În relief",
+      "engraved": "Gravat",
+      "none": "Niciunul"
+    }
+  },
+  "placeholder": {
+    "templateName": "Numele șablonului este obligatoriu"
+  },
+  "text": {
+    "addTemplate": "Adăugare șablon",
+    "editTemplate": "Editare șablon"
+  },
+  "title": {
+    "deleteTemplate": "Ștergeți șablonul?",
+    "removeTemplate": "Eliminare șablon",
+    "renameTemplate": "Redenumire șablon",
+    "templateName": "Nume șablon",
+    "templates": "Șabloane"
+  }
+}

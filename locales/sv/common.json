@@ -1,0 +1,154 @@
+{
+  "alt": {
+    "logo": "Genira Modellsockling",
+    "noSearchResults": "Inga sökresultat"
+  },
+  "button": {
+    "accept": "Godkänn",
+    "acceptAll": "Godkänn alla",
+    "add": "Lägg till",
+    "cancel": "Avbryt",
+    "close": "Stäng",
+    "continue": "Fortsätt",
+    "delete": "Ta bort",
+    "deny": "Neka",
+    "discard": "Förkasta",
+    "download": "Ladda ner",
+    "edit": "Redigera",
+    "essentialOnly": "Endast nödvändiga",
+    "invite": "Bjud in",
+    "logout": "Logga ut",
+    "ok": "OK",
+    "process": "Bearbeta",
+    "refresh": "Uppdatera",
+    "reject": "Avvisa",
+    "rejectAll": "Avvisa alla",
+    "remove": "Ta bort",
+    "rename": "Byt namn",
+    "retry": "Försök igen",
+    "save": "Spara",
+    "showLess": "Visa mindre",
+    "showMore": "Visa mer",
+    "topUp": "Fyll på",
+    "undo": "Ångra",
+    "update": "Uppdatera",
+    "uploadCancelled": "Uppladdning avbruten"
+  },
+  "dialog": {
+    "no": "Nej",
+    "yes": "Ja"
+  },
+  "displayError": {
+    "button": "Kontakta support",
+    "message": "Kontrollera anslutningen och försök att uppdatera webbsidan.\nKontakta support om problemet kvarstår."
+  },
+  "error": {
+    "emptyModelFile_one": "{{count}} uppladdad skanning saknar läsbara data",
+    "emptyModelFile_other": "{{count}} uppladdade skanningar saknar läsbara data",
+    "failedDeletion_one": "Det gick inte att ta bort {{count}} fall",
+    "failedDeletion_other": "Det gick inte att ta bort {{count}} fall",
+    "failedToLoadScan": "Det gick inte att läsa skanningsdata, kontrollera den uppladdade filen",
+    "notAuthorized": "Du har inte behörighet att utföra den här åtgärden",
+    "unableToLoad": "Det gick inte att läsa in.",
+    "unspecified": "Ett okänt fel inträffade",
+    "userConflict": "Användaren finns redan.",
+    "userConflict_details": "En användare med e-postadressen {{details}} finns redan i din organisation eller i en annan organisation. Använd en annan e-postadress.",
+    "userConflictAnotherOrg_details": "E-postadressen {{details}} är redan kopplad till en annan organisation. Använd en annan e-postadress eller be användaren att avregistrera sig från sin tidigare organisation.",
+    "userConflictWithinOrg_details": "En användare med e-postadressen {{details}} finns redan i din organisation.",
+    "userNotFound": "Användaren hittades inte.",
+    "userNotFound_details": "Användaren med e-postadressen {{details}} kunde inte hittas."
+  },
+  "label": {
+    "cancelUploadModalButtonSecondary": "Fortsätt uppladdningar",
+    "cancelUploadsModalButtonPrimary": "Avbryt uppladdningar",
+    "cancelUploadsModalTitle": "Avbryta återstående uppladdningar?",
+    "deletingCases_one": "Tar bort {{count}} fall",
+    "deletingCases_other": "Tar bort {{count}} fall",
+    "dropFile": "Lägg till fil i fallet",
+    "itemSelected_one": "1 objekt valt",
+    "itemSelected_other": "{{count}} objekt valda",
+    "language": "Språk",
+    "locale": "Region",
+    "logo": "Logotyp",
+    "none": "Ingen",
+    "openDrawer": "Öppna sidopanel",
+    "preparingDownload": "Förbereder nedladdning",
+    "rejectModal": "Valda skanningar kommer inte längre att tas med i fallet.",
+    "settingsTab": "Fliken Inställningar",
+    "tabs": "Flikar",
+    "users": "Användare"
+  },
+  "links": {
+    "create": "Skapa",
+    "designs": "Designer",
+    "manage": "Hantera",
+    "underConstruction": "Under uppbyggnad"
+  },
+  "loading": {
+    "loading": "Läser in",
+    "unavailable": "Inte tillgänglig"
+  },
+  "message": {
+    "acceptAiUsagePolicy": "Jag godkänner <a>policyn för AI-användning av data</a>",
+    "acceptPrivacyPolicy": "Jag godkänner <a>integritetspolicyn</a>",
+    "acceptTermsOfService": "Jag godkänner <a>användarvillkoren</a>",
+    "betaTest": "Du använder betaversionen – få 100 krediter (100 fall) gratis under den här tidiga lanseringsperioden.",
+    "contactOrgOwner": "Kontakta din organisations ägare för att godkänna villkoren för organisationens räkning.",
+    "contactOrgOwnerRefresh": "När din organisations ägare har godkänt, uppdatera den här sidan för att fortsätta.",
+    "cookiePolicy": "Vi använder cookies för att förbättra din webbupplevelse. Läs mer i vår <cookie>cookiepolicy</cookie> och vårt <privacy>integritetsmeddelande</privacy>.",
+    "cookiePreferencesAllowed": "Du har tillåtit alla cookies, inklusive analys- och supportcookies.",
+    "cookiePreferencesDenied": "Du använder endast strikt nödvändiga cookies.",
+    "insufficientCredits": "Kontakta organisationens administratör eller ägare för att fylla på krediter.",
+    "insufficientCreditsAdmin": "Fyll på krediter för att bearbeta designer.",
+    "insufficientCreditsAdminLong": "Vissa designer kan inte bearbetas på grund av otillräckliga krediter.\n\nNär du har fyllt på, välj fallen som är markerade med ”Att bearbeta” och klicka på ”Bearbeta” för att generera designer.",
+    "insufficientCreditsLong": "Vissa designer kan inte bearbetas på grund av otillräckliga krediter. Kontakta organisationens administratör eller ägare för att fylla på krediter.\n\nNär du har fyllt på, välj fallen som är markerade med ”Att bearbeta” och klicka på ”Bearbeta” för att generera designer.",
+    "noConnection": "Kan inte ansluta, försöker igen om {{time}}",
+    "noMatches": "Tyvärr hittades inga träffar",
+    "noMatchesHelp": "Kontrollera stavningen eller prova mer allmänna ord\nDu kan också prova att använda tabellfiltren",
+    "reconnecting": "Återansluter...",
+    "reviewAndAgreeToOrgPolicies": "Innan du fortsätter måste din organisation granska och godkänna följande policyer.",
+    "reviewAndAgreeToPolicies": "Innan du fortsätter måste du granska och godkänna <terms>användarvillkoren</terms> och <privacy>integritetspolicyn</privacy>."
+  },
+  "notFoundPage": {
+    "message_narrow": "Kontrollera sidadressen efter stavfel eller använd navigeringsmenyn uppe till vänster",
+    "message_wide": "Kontrollera sidadressen efter stavfel eller använd navigeringsknapparna till vänster",
+    "title": "Vi hittar inte den sidan"
+  },
+  "table": {
+    "emptyState": {
+      "noMatches": {
+        "header": "Tyvärr hittades inga träffar",
+        "paragraph": "Kontrollera stavningen eller prova mer allmänna ord\nDu kan också prova att använda tabellfiltren"
+      }
+    },
+    "expandRow": "Expandera rad",
+    "pageAmount": "Antal",
+    "perPage": "Per sida"
+  },
+  "title": {
+    "aiUsagePolicy": "Policy för AI-användning av data",
+    "cookiePolicy": "Cookiepolicy",
+    "help": "Visa hjälp",
+    "insufficientCredits": "Otillräckliga krediter",
+    "language": "Språk",
+    "manage": "Hantera",
+    "manageSubscription": "Hantera prenumeration",
+    "name": "Visningsnamn",
+    "orgConsent": "Organisationens samtycke",
+    "photo": "Foto",
+    "privacy": "Integritet",
+    "privacyPolicy": "Integritetspolicy",
+    "profile": "Profil",
+    "settings": "Inställningar",
+    "termsAndPolicy": "Användarvillkor och integritetspolicy",
+    "termsOfService": "Användarvillkor",
+    "uploads": "Uppladdningar"
+  },
+  "underConstruction": {
+    "subtitle1": "Vi bygger något speciellt",
+    "subtitle2": "Titta in igen senare"
+  },
+  "units": {
+    "millimetres": "{{value}} mm"
+  }
+}

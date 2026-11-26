@@ -1,0 +1,82 @@
+{
+  "alt": {
+    "modelIcon": "Modell"
+  },
+  "button": {
+    "save": "Speichern",
+    "update": "Aktualisieren"
+  },
+  "error": {
+    "failedDeletion_one": "{{count}} Vorlage konnte nicht gelöscht werden",
+    "failedDeletion_other": "{{count}} Vorlagen konnten nicht gelöscht werden"
+  },
+  "label": {
+    "affixText": "Beschriftung",
+    "createdBy": "Erstellt von",
+    "createdOn": "Erstellt am",
+    "default": "Standard",
+    "designPart": "Designteil",
+    "drainHoles": "Drainagelöcher",
+    "gingivalTrimDistance": "Beschnittabstand",
+    "gingivalTrimming": "Gingivabeschnitt",
+    "hollowModel": "Hohles Modell",
+    "modelAttachmentTypes": "Verbindungselemente",
+    "modelType": "Modelltyp",
+    "name": "Vorlagenname",
+    "newTemplate": "Neue Vorlage",
+    "search": "Nach einer Vorlage suchen",
+    "studyModel": "Studienmodell",
+    "textStyle": "Textstil"
+  },
+  "message": {
+    "affixTextHelp": "Erleichtern Sie die Identifizierung von Teilen, indem Sie den generierten Designs Text hinzufügen.\n\nDer Fallname wird den Modellen hinzugefügt.",
+    "attachmentHelp": "Verbindungselemente dienen dazu, die Bisslage bei physischen Modellen beizubehalten.\n\nSie werden nur für Fälle generiert, die einen Oberkiefer-Scan (maxillär) und einen Unterkiefer-Scan (mandibulär) enthalten.",
+    "createATemplate": "Erstellen Sie eine Vorlage für Ihre Designs",
+    "deleteTemplate": "Diese Vorlage steht für zukünftige Fälle nicht mehr zur Verfügung.",
+    "deleteTemplate_one": "Diese Vorlage steht für zukünftige Fälle nicht mehr zur Verfügung.",
+    "deleteTemplate_other": "Diese Vorlagen stehen für zukünftige Fälle nicht mehr zur Verfügung.",
+    "deletingTemplates_one": "{{count}} Vorlage wird gelöscht",
+    "deletingTemplates_other": "{{count}} Vorlagen werden gelöscht",
+    "drainHolesHelp": "Drainagelöcher helfen, Druckfehler zu vermeiden, indem sie Luft eintreten und Harz aus dem Inneren des Modells austreten lassen.\n\nDiese Einstellung ist beim Drucken hohler Modelle obligatorisch; die Lochpositionen werden automatisch bestimmt.",
+    "gingivalTrimDistanceHelp": "Zielabstand in Millimetern, der ab der Zahngrenze beschnitten wird. Bereiche, in denen der Scan weniger Gingiva als diesen Abstand aufweist, werden nur so weit beschnitten, wie es der Scan zulässt.",
+    "gingivalTrimmingHelp": "Beschneidet die Gingiva um einen festgelegten Abstand ab der Zahngrenze. Deaktivieren Sie diese Option, um die Gingiva unbeschnitten zu lassen.",
+    "hollowModelHelp": "Aktivieren Sie diese Option, um ausgehöhlte Modelle zu erstellen.\n\nDadurch wird der Materialverbrauch beim Drucken des Modells reduziert.",
+    "modelTypeHelp": "Wählen Sie zwischen hufeisenförmigen Modellen und Modellen mit vollem Gaumen.",
+    "noTemplates": "Keine Vorlagen erstellt",
+    "noTemplatesInfo": "Erstellen Sie eine Vorlage, um Einstellungen für neue Designs wiederzuverwenden",
+    "removeTemplate": "Möchten Sie diese Vorlage wirklich entfernen?",
+    "renameTemplate": "Eine Vorlage mit diesem Namen existiert bereits. Benennen Sie die Vorlage um, um fortzufahren.",
+    "templateNameHelp": "Geben Sie Ihren gespeicherten Einstellungen einen einprägsamen Namen, um sie leicht wiederzuerkennen.\n\nDieser Name wird in der Dropdown-Liste der Designvorlagen angezeigt.",
+    "textStyleHelp": "Gravieren schneidet den Text in das Modell ein.\n\nPrägen hebt den Text aus dem Modell heraus."
+  },
+  "options": {
+    "modelAttachmentTypes": {
+      "hingedArticulator": "Scharnierartikulator",
+      "none": "Keine",
+      "pillars": "Säulen"
+    },
+    "modelType": {
+      "fullPalate": "Voller Gaumen",
+      "horseShoe": "Hufeisen"
+    },
+    "textStyle": {
+      "embossed": "Geprägt",
+      "engraved": "Graviert",
+      "none": "Keiner"
+    }
+  },
+  "placeholder": {
+    "templateName": "Vorlagenname ist erforderlich"
+  },
+  "text": {
+    "addTemplate": "Vorlage hinzufügen",
+    "editTemplate": "Vorlage bearbeiten"
+  },
+  "title": {
+    "deleteTemplate": "Vorlage löschen?",
+    "removeTemplate": "Vorlage entfernen",
+    "renameTemplate": "Vorlage umbenennen",
+    "templateName": "Vorlagenname",
+    "templates": "Vorlagen"
+  }
+}

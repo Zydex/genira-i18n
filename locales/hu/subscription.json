@@ -1,0 +1,40 @@
+{
+  "button": {
+    "purchase": "Vásárlás",
+    "purchaseCredits": "Kreditek vásárlása"
+  },
+  "description": {
+    "bannerNoCredits": "Tervek automatikus létrehozása egyetlen gombnyomással. Kreditek vásárlásához forduljon a rendszergazdához.",
+    "creditBundles": "További kreditek vásárlásához válasszon az alábbi csomagok közül.",
+    "credits": "Kreditek",
+    "credits_one": "{{count}} kredit",
+    "credits_other": "{{count}} kredit",
+    "creditSpend": "Töltsön le egy tételes listát, hogy megtekintse, mire használta fel a kreditjeit.",
+    "enoughToProduce_one": "{{count}} esethez elegendő",
+    "enoughToProduce_other": "{{count}} esethez elegendő",
+    "manageBilling": "Számlák megtekintése, a bankkártya ellenőrzése és frissítése.",
+    "noCredits": "A tervek létrehozásának folytatásához forduljon szervezete rendszergazdájához további kreditek vásárlása érdekében.",
+    "purchaseCredits": "Vásároljon további krediteket a tervek létrehozásának folytatásához."
+  },
+  "file": {
+    "creditHistory": "{{org}}-credit-history-{{year}}"
+  },
+  "label": {
+    "currentYear": "{{year}} (aktuális év)"
+  },
+  "message": {
+    "downloadedCreditSpend": "Kredittörténet letöltve",
+    "downloadingCreditSpend": "Kredittörténet letöltése"
+  },
+  "title": {
+    "amount": "Összeg",
+    "createdAt": "Létrehozva",
+    "creditSpend": "Kreditfelhasználás",
+    "description": "Leírás",
+    "kind": "Típus",
+    "manageCredits": "Kreditek kezelése",
+    "noCredits": "Nincs több kredit",
+    "organisation": "Szervezet",
+    "purchaseCreditBundles": "Kreditcsomagok vásárlása"
+  }
+}

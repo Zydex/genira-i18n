@@ -1,0 +1,61 @@
+{
+  "alt": {
+    "addUsers": "Gebruikers toevoegen",
+    "profile": "Gebruikersprofiel"
+  },
+  "button": {
+    "add": "Gebruiker toevoegen",
+    "changePassword": "Wachtwoord wijzigen",
+    "changeRole": "Rol wijzigen",
+    "deleteProfile": "Profiel verwijderen",
+    "remove": "Gebruiker verwijderen",
+    "restoreAccess": "Toegang herstellen",
+    "uploadPhoto": "Foto uploaden"
+  },
+  "label": {
+    "enterEmails": "Voer e-mailadressen in, gescheiden door komma's",
+    "search": "Zoek een gebruiker",
+    "users": "Gebruikers"
+  },
+  "message": {
+    "addUsers": "Voer hieronder e-mailadressen in om gebruikers uit te nodigen voor deze organisatie.",
+    "changePassword": "Er wordt een e-mail verzonden met een link om het wachtwoord te wijzigen.",
+    "changePassword_email": "Er wordt een e-mail naar {{email}} verzonden met een link om het wachtwoord te wijzigen.",
+    "changeRole": "Rol bijwerken:",
+    "changeRole_user": "Werk de rol van {{user}} bij:",
+    "confirmDelAccounts_one": "Deze gebruiker heeft geen toegang meer tot deze organisatie.",
+    "confirmDelAccounts_other": "Deze gebruikers hebben geen toegang meer tot deze organisatie.",
+    "confirmDelAccounts_org_one": "Deze gebruiker heeft geen toegang meer tot {{org}}.",
+    "confirmDelAccounts_org_other": "Deze gebruikers hebben geen toegang meer tot {{org}}.",
+    "deleteProfile": "Uw profiel wordt permanent verwijderd uit uw organisatie.",
+    "deleteProfile_org": "Uw profiel wordt permanent verwijderd uit {{org}}.",
+    "linkSent": "Link verzonden",
+    "loginLoadError": "Fout bij het laden van de aanmelding. Probeer het later opnieuw.",
+    "profilePicture": "Hiermee herkennen anderen u en ziet u dat u bij het juiste account bent aangemeld.",
+    "userPageInfo": "De gebruikers in uw organisatie worden op deze pagina weergegeven"
+  },
+  "role": {
+    "admin": "Beheerder",
+    "owner": "Eigenaar",
+    "user": "Gebruiker"
+  },
+  "title": {
+    "changePassword": "Wachtwoord wijzigen",
+    "changeRole": "Rol wijzigen",
+    "changeRole_user": "Werk de rol van {{user}} bij:",
+    "confirmDeleteProfile": "Verwijderen van profiel bevestigen",
+    "deleteProfile": "Profiel verwijderen",
+    "displayName": "Weergavenaam",
+    "edit": "Bewerken",
+    "email": "E-mail",
+    "invite": "Gebruikers uitnodigen",
+    "name": "Naam",
+    "photo": "Foto",
+    "profile": "Profiel",
+    "remove_one": "Gebruiker verwijderen?",
+    "remove_other": "Gebruikers verwijderen?",
+    "restoreAccess": "Toegang voor gebruiker herstellen?",
+    "role": "Rol",
+    "usersName": "Naam van gebruiker"
+  }
+}

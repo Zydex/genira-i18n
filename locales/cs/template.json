@@ -1,0 +1,82 @@
+{
+  "alt": {
+    "modelIcon": "Model"
+  },
+  "button": {
+    "save": "Uložit",
+    "update": "Aktualizovat"
+  },
+  "error": {
+    "failedDeletion_one": "Nepodařilo se odstranit {{count}} šablonu",
+    "failedDeletion_other": "Nepodařilo se odstranit šablony (počet: {{count}})"
+  },
+  "label": {
+    "affixText": "Připojit text",
+    "createdBy": "Vytvořil(a)",
+    "createdOn": "Datum vytvoření",
+    "default": "Výchozí",
+    "designPart": "Část návrhu",
+    "drainHoles": "Odtokové otvory",
+    "gingivalTrimDistance": "Vzdálenost ořezu",
+    "gingivalTrimming": "Ořez gingivy",
+    "hollowModel": "Dutý model",
+    "modelAttachmentTypes": "Spojovací prvky",
+    "modelType": "Typ modelu",
+    "name": "Název šablony",
+    "newTemplate": "Nová šablona",
+    "search": "Hledat šablonu",
+    "studyModel": "Studijní model",
+    "textStyle": "Styl textu"
+  },
+  "message": {
+    "affixTextHelp": "Usnadněte identifikaci dílů přidáním textu k vygenerovaným návrhům.\n\nNa modely bude přidán název případu.",
+    "attachmentHelp": "Spojovací prvky slouží k zachování polohy skusu u fyzických modelů.\n\nGenerují se pouze u případů, které mají horní (maxilární) a dolní (mandibulární) sken.",
+    "createATemplate": "Vytvořte šablonu pro své návrhy",
+    "deleteTemplate": "Tuto šablonu již nebude možné použít pro budoucí případy.",
+    "deleteTemplate_one": "Tuto šablonu již nebude možné použít pro budoucí případy.",
+    "deleteTemplate_other": "Tyto šablony již nebude možné použít pro budoucí případy.",
+    "deletingTemplates_one": "Odstraňování {{count}} šablony",
+    "deletingTemplates_other": "Odstraňování šablon (počet: {{count}})",
+    "drainHolesHelp": "Odtokové otvory pomáhají předejít selhání tisku tím, že umožňují vniknutí vzduchu a odtok pryskyřice z vnitřku modelu.\n\nPři tisku dutých modelů je toto nastavení povinné a polohy otvorů se určují automaticky.",
+    "gingivalTrimDistanceHelp": "Cílová vzdálenost ořezu od okraje zubu v milimetrech. Oblasti, kde má sken méně gingivy, než je tato hodnota, se ořežou jen tak daleko, jak to sken umožňuje.",
+    "gingivalTrimmingHelp": "Ořízne gingivu od okraje zubu o nastavenou vzdálenost. Vypnutím ponecháte gingivu neoříznutou.",
+    "hollowModelHelp": "Povolte tuto možnost pro vytváření dutých modelů.\n\nSníží se tím množství materiálu spotřebovaného při tisku modelu.",
+    "modelTypeHelp": "Vyberte model ve tvaru podkovy nebo s celým patrem.",
+    "noTemplates": "Nebyly vytvořeny žádné šablony",
+    "noTemplatesInfo": "Vytvořte šablonu a znovu použijte nastavení pro nové návrhy",
+    "removeTemplate": "Opravdu chcete tuto šablonu odebrat?",
+    "renameTemplate": "Šablona s tímto názvem již existuje. Chcete-li pokračovat, šablonu přejmenujte.",
+    "templateNameHelp": "Pojmenujte uložené nastavení snadno zapamatovatelným názvem, abyste jej snadno rozpoznali.\n\nTento název se zobrazí v rozbalovacím seznamu šablon návrhu.",
+    "textStyleHelp": "Vyrytý text bude vyříznut do modelu.\n\nVystouplý text bude vytažen z modelu."
+  },
+  "options": {
+    "modelAttachmentTypes": {
+      "hingedArticulator": "Kloubový artikulátor",
+      "none": "Žádné",
+      "pillars": "Sloupky"
+    },
+    "modelType": {
+      "fullPalate": "Celé patro",
+      "horseShoe": "Podkova"
+    },
+    "textStyle": {
+      "embossed": "Vystouplý",
+      "engraved": "Vyrytý",
+      "none": "Žádný"
+    }
+  },
+  "placeholder": {
+    "templateName": "Název šablony je povinný"
+  },
+  "text": {
+    "addTemplate": "Přidat šablonu",
+    "editTemplate": "Upravit šablonu"
+  },
+  "title": {
+    "deleteTemplate": "Odstranit šablonu?",
+    "removeTemplate": "Odebrat šablonu",
+    "renameTemplate": "Přejmenovat šablonu",
+    "templateName": "Název šablony",
+    "templates": "Šablony"
+  }
+}

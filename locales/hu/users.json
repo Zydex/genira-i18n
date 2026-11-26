@@ -1,0 +1,61 @@
+{
+  "alt": {
+    "addUsers": "Felhasználók hozzáadása",
+    "profile": "Felhasználói profil"
+  },
+  "button": {
+    "add": "Felhasználó hozzáadása",
+    "changePassword": "Jelszó módosítása",
+    "changeRole": "Szerepkör módosítása",
+    "deleteProfile": "Profil törlése",
+    "remove": "Felhasználó eltávolítása",
+    "restoreAccess": "Hozzáférés visszaállítása",
+    "uploadPhoto": "Fénykép feltöltése"
+  },
+  "label": {
+    "enterEmails": "Adja meg az e-mail-címeket vesszővel elválasztva",
+    "search": "Felhasználó keresése",
+    "users": "Felhasználók"
+  },
+  "message": {
+    "addUsers": "Adja meg alább az e-mail-címeket, hogy felhasználókat hívjon meg ebbe a szervezetbe.",
+    "changePassword": "E-mailt küldünk a jelszó módosítására szolgáló hivatkozással.",
+    "changePassword_email": "E-mailt küldünk a(z) {{email}} címre a jelszó módosítására szolgáló hivatkozással.",
+    "changeRole": "Szerepkör frissítése:",
+    "changeRole_user": "{{user}} szerepkörének frissítése:",
+    "confirmDelAccounts_one": "Ez a felhasználó többé nem fog hozzáférni ehhez a szervezethez.",
+    "confirmDelAccounts_other": "Ezek a felhasználók többé nem fognak hozzáférni ehhez a szervezethez.",
+    "confirmDelAccounts_org_one": "Ez a felhasználó többé nem fog hozzáférni a következőhöz: {{org}}.",
+    "confirmDelAccounts_org_other": "Ezek a felhasználók többé nem fognak hozzáférni a következőhöz: {{org}}.",
+    "deleteProfile": "Profilja véglegesen el lesz távolítva a szervezetéből.",
+    "deleteProfile_org": "Profilja véglegesen el lesz távolítva a következőből: {{org}}.",
+    "linkSent": "Hivatkozás elküldve",
+    "loginLoadError": "Hiba történt a bejelentkezés betöltésekor. Kérjük, próbálja újra később.",
+    "profilePicture": "Ez segít másoknak felismerni Önt, és jelzi, hogy a megfelelő fiókba van bejelentkezve.",
+    "userPageInfo": "Ezen az oldalon a szervezetében lévő felhasználók láthatók"
+  },
+  "role": {
+    "admin": "Rendszergazda",
+    "owner": "Tulajdonos",
+    "user": "Felhasználó"
+  },
+  "title": {
+    "changePassword": "Jelszó módosítása",
+    "changeRole": "Szerepkör módosítása",
+    "changeRole_user": "{{user}} szerepkörének frissítése:",
+    "confirmDeleteProfile": "Profil törlésének megerősítése",
+    "deleteProfile": "Profil törlése",
+    "displayName": "Megjelenített név",
+    "edit": "Szerkesztés",
+    "email": "E-mail",
+    "invite": "Felhasználók meghívása",
+    "name": "Név",
+    "photo": "Fénykép",
+    "profile": "Profil",
+    "remove_one": "Eltávolítja a felhasználót?",
+    "remove_other": "Eltávolítja a felhasználókat?",
+    "restoreAccess": "Visszaállítja a felhasználó hozzáférését?",
+    "role": "Szerepkör",
+    "usersName": "Felhasználó neve"
+  }
+}

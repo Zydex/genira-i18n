@@ -1,0 +1,61 @@
+{
+  "alt": {
+    "addUsers": "Adăugare utilizatori",
+    "profile": "Profil utilizator"
+  },
+  "button": {
+    "add": "Adăugați utilizator",
+    "changePassword": "Schimbați parola",
+    "changeRole": "Schimbați rolul",
+    "deleteProfile": "Ștergeți profilul",
+    "remove": "Eliminați utilizatorul",
+    "restoreAccess": "Restabiliți accesul",
+    "uploadPhoto": "Încărcați fotografia"
+  },
+  "label": {
+    "enterEmails": "Introduceți adresele de e-mail, separate prin virgulă",
+    "search": "Căutați un utilizator",
+    "users": "Utilizatori"
+  },
+  "message": {
+    "addUsers": "Introduceți mai jos adresele de e-mail pentru a invita utilizatori în această organizație.",
+    "changePassword": "Va fi trimis un e-mail cu un link pentru schimbarea parolei.",
+    "changePassword_email": "Va fi trimis un e-mail la {{email}} cu un link pentru schimbarea parolei.",
+    "changeRole": "Actualizați rolul:",
+    "changeRole_user": "Actualizați rolul pentru {{user}}:",
+    "confirmDelAccounts_one": "Acest utilizator nu va mai avea acces la această organizație.",
+    "confirmDelAccounts_other": "Acești utilizatori nu vor mai avea acces la această organizație.",
+    "confirmDelAccounts_org_one": "Acest utilizator nu va mai avea acces la {{org}}.",
+    "confirmDelAccounts_org_other": "Acești utilizatori nu vor mai avea acces la {{org}}.",
+    "deleteProfile": "Profilul dumneavoastră va fi eliminat definitiv din organizația dumneavoastră.",
+    "deleteProfile_org": "Profilul dumneavoastră va fi eliminat definitiv din {{org}}.",
+    "linkSent": "Link trimis",
+    "loginLoadError": "Eroare la încărcarea autentificării. Vă rugăm să încercați din nou mai târziu.",
+    "profilePicture": "Acest lucru îi ajută pe ceilalți să vă recunoască și vă permite să știți că v-ați conectat la contul corect.",
+    "userPageInfo": "Utilizatorii din organizația dumneavoastră sunt afișați pe această pagină"
+  },
+  "role": {
+    "admin": "Administrator",
+    "owner": "Proprietar",
+    "user": "Utilizator"
+  },
+  "title": {
+    "changePassword": "Schimbați parola",
+    "changeRole": "Schimbați rolul",
+    "changeRole_user": "Actualizați rolul pentru {{user}}:",
+    "confirmDeleteProfile": "Confirmați ștergerea profilului",
+    "deleteProfile": "Ștergeți profilul",
+    "displayName": "Nume afișat",
+    "edit": "Editare",
+    "email": "E-mail",
+    "invite": "Invitați utilizatori",
+    "name": "Nume",
+    "photo": "Fotografie",
+    "profile": "Profil",
+    "remove_one": "Eliminați utilizatorul?",
+    "remove_other": "Eliminați utilizatorii?",
+    "restoreAccess": "Restabiliți accesul pentru utilizator?",
+    "role": "Rol",
+    "usersName": "Numele utilizatorului"
+  }
+}

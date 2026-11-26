@@ -1,0 +1,32 @@
+{
+  "label": {
+    "country": "Kraj",
+    "fullName": "Imię i nazwisko",
+    "organisationName": "Nazwa organizacji",
+    "region": "Region danych",
+    "regionDescription_long": "Wybierz region, w którym dane Twojej organizacji będą przechowywane, przetwarzane i kopiowane zapasowo. \n<bold>Ten wybór jest ostateczny i nie można go zmienić po zakończeniu konfiguracji.</bold> Wybierz region najbliższy Twoim użytkownikom, aby uzyskać najlepszą wydajność, lub region zgodny z wymogami prawnymi (np. RODO, HIPAA, przepisy dotyczące lokalizacji danych).\n\nZmiana regionu wymaga utworzenia nowej organizacji i ręcznej migracji.",
+    "regionDescription_short": "Wybierz region, w którym dane Twojej organizacji będą przechowywane, przetwarzane i kopiowane zapasowo.\n<bold>Ten wybór jest ostateczny i nie można go zmienić po zakończeniu konfiguracji.</bold>",
+    "subtitle": "Automatycznie generuj modele do druku 3D ze skanów wewnątrzustnych",
+    "title": "Utwórz konto Genira",
+    "website": "Strona internetowa"
+  },
+  "message": {
+    "acceptAiUsagePolicy": "Akceptuję <a>Zasady wykorzystania danych przez AI</a> Genira",
+    "baaResendSuccess": "Wysłano wiadomość e-mail z umową BAA. Sprawdź swoją skrzynkę odbiorczą.",
+    "checkEmailTo": "Sprawdź skrzynkę e-mail:",
+    "emailResendSuccess": "Wiadomość e-mail została wysłana. Sprawdź swoją skrzynkę odbiorczą.",
+    "emailVerified": "<bold>Adres e-mail został zweryfikowany</bold>\nZa chwilę nastąpi przekierowanie...",
+    "hipaaBaa": "Dla korzystania z Genira w tym regionie zostanie wygenerowana umowa HIPAA Business Associate Agreement (BAA).",
+    "redirecting": "Za chwilę nastąpi przekierowanie...",
+    "regionError": "Genira jest obecnie dostępna wyłącznie w Australii.",
+    "resendBaaError": "Nie można ponownie wysłać wiadomości e-mail z umową BAA. Spróbuj ponownie później.",
+    "resendEmail": "Wyślij ponownie e-mail weryfikacyjny",
+    "resendEmailError": "Nie można ponownie wysłać e-maila weryfikacyjnego. Spróbuj ponownie później.",
+    "resendLink": "Wyślij link ponownie",
+    "sendingBaaEmail": "Wysyłanie wiadomości e-mail z umową BAA...",
+    "sendingEmail": "Wysyłanie e-maila weryfikacyjnego...",
+    "signBaa": "Podpisz umowę Business Associate Agreement (BAA)",
+    "verifyEmail": "Zweryfikuj swój adres e-mail, aby uzyskać dostęp do Genira.",
+    "verifyEmailAddress": "Zweryfikuj swój adres e-mail"
+  }
+}

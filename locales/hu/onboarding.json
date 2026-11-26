@@ -1,0 +1,32 @@
+{
+  "label": {
+    "country": "Ország",
+    "fullName": "Teljes név",
+    "organisationName": "Szervezet neve",
+    "region": "Adatrégió",
+    "regionDescription_long": "Válassza ki azt a régiót, ahol szervezete adatait tárolják, feldolgozzák és biztonsági mentéssel látják el. \n<bold>Ez a választás végleges, a beállítás után nem módosítható.</bold> A legjobb teljesítmény érdekében válassza a felhasználóihoz legközelebbi régiót, vagy azt, amely megfelel a szabályozási követelményeknek (pl. GDPR, HIPAA, adattárolási helyre vonatkozó jogszabályok).\n\nA régió módosításához új szervezetet kell létrehozni, és az adatokat manuálisan kell átköltöztetni.",
+    "regionDescription_short": "Válassza ki azt a régiót, ahol szervezete adatait tárolják, feldolgozzák és biztonsági mentéssel látják el.\n<bold>Ez a választás végleges, a beállítás után nem módosítható.</bold>",
+    "subtitle": "3D nyomtatható modellek automatikus generálása intraorális szkennelésekből",
+    "title": "Hozza létre Genira-fiókját",
+    "website": "Weboldal"
+  },
+  "message": {
+    "acceptAiUsagePolicy": "Elfogadom a Genira <a>Adat- és MI-használati szabályzatát</a>",
+    "baaResendSuccess": "A BAA e-mail elküldve. Kérjük, ellenőrizze a beérkező leveleit.",
+    "checkEmailTo": "Ellenőrizze az e-mailjeit ezen a címen:",
+    "emailResendSuccess": "E-mail elküldve. Kérjük, ellenőrizze a beérkező leveleit.",
+    "emailVerified": "<bold>E-mail-cím sikeresen megerősítve</bold>\nHamarosan átirányítjuk...",
+    "hipaaBaa": "Ebben a régióban a Genira használatához HIPAA üzleti társulási megállapodás (BAA) jön létre.",
+    "redirecting": "Hamarosan átirányítjuk...",
+    "regionError": "A Genira jelenleg csak Ausztráliában érhető el.",
+    "resendBaaError": "Nem sikerült újraküldeni a BAA e-mailt. Kérjük, próbálja újra később.",
+    "resendEmail": "Megerősítő e-mail újraküldése",
+    "resendEmailError": "Nem sikerült újraküldeni a megerősítő e-mailt. Kérjük, próbálja újra később.",
+    "resendLink": "Hivatkozás újraküldése",
+    "sendingBaaEmail": "BAA e-mail küldése...",
+    "sendingEmail": "Megerősítő e-mail küldése...",
+    "signBaa": "Üzleti társulási megállapodás (BAA) aláírása",
+    "verifyEmail": "A Genira eléréséhez kérjük, erősítse meg e-mail-címét.",
+    "verifyEmailAddress": "Erősítse meg e-mail-címét"
+  }
+}

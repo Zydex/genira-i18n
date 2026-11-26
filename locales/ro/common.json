@@ -1,0 +1,154 @@
+{
+  "alt": {
+    "logo": "Genira Model Basing",
+    "noSearchResults": "Niciun rezultat al căutării"
+  },
+  "button": {
+    "accept": "Acceptați",
+    "acceptAll": "Acceptați tot",
+    "add": "Adăugați",
+    "cancel": "Anulați",
+    "close": "Închideți",
+    "continue": "Continuați",
+    "delete": "Ștergeți",
+    "deny": "Refuzați",
+    "discard": "Renunțați",
+    "download": "Descărcați",
+    "edit": "Editați",
+    "essentialOnly": "Doar esențiale",
+    "invite": "Invitați",
+    "logout": "Deconectare",
+    "ok": "OK",
+    "process": "Procesați",
+    "refresh": "Reîmprospătați",
+    "reject": "Respingeți",
+    "rejectAll": "Respingeți tot",
+    "remove": "Eliminați",
+    "rename": "Redenumiți",
+    "retry": "Reîncercați",
+    "save": "Salvați",
+    "showLess": "Afișați mai puțin",
+    "showMore": "Afișați mai mult",
+    "topUp": "Reîncărcați",
+    "undo": "Anulați acțiunea",
+    "update": "Actualizați",
+    "uploadCancelled": "Încărcare anulată"
+  },
+  "dialog": {
+    "no": "Nu",
+    "yes": "Da"
+  },
+  "displayError": {
+    "button": "Contactați asistența",
+    "message": "Verificați conexiunea și încercați să reîmprospătați pagina web.\nContactați asistența dacă problema persistă."
+  },
+  "error": {
+    "emptyModelFile_one": "{{count}} scanare încărcată nu conține date lizibile",
+    "emptyModelFile_other": "{{count}} scanări încărcate nu conțin date lizibile",
+    "failedDeletion_one": "Ștergerea a {{count}} caz a eșuat",
+    "failedDeletion_other": "Ștergerea a {{count}} cazuri a eșuat",
+    "failedToLoadScan": "Datele scanării nu au putut fi citite, verificați fișierul încărcat",
+    "notAuthorized": "Nu sunteți autorizat să efectuați această acțiune",
+    "unableToLoad": "Nu se poate încărca.",
+    "unspecified": "A apărut o eroare necunoscută",
+    "userConflict": "Utilizatorul există deja.",
+    "userConflict_details": "Utilizatorul cu adresa de e-mail {{details}} există deja în organizația dumneavoastră sau în altă organizație. Folosiți o altă adresă de e-mail.",
+    "userConflictAnotherOrg_details": "Adresa de e-mail {{details}} este deja asociată cu altă organizație. Folosiți o altă adresă de e-mail sau solicitați utilizatorului să se retragă din organizația anterioară.",
+    "userConflictWithinOrg_details": "Un utilizator cu adresa de e-mail {{details}} există deja în organizația dumneavoastră.",
+    "userNotFound": "Utilizatorul nu a fost găsit.",
+    "userNotFound_details": "Utilizatorul cu adresa de e-mail {{details}} nu a putut fi găsit."
+  },
+  "label": {
+    "cancelUploadModalButtonSecondary": "Continuați încărcările",
+    "cancelUploadsModalButtonPrimary": "Anulați încărcările",
+    "cancelUploadsModalTitle": "Anulați încărcările rămase?",
+    "deletingCases_one": "Se șterge {{count}} caz",
+    "deletingCases_other": "Se șterg {{count}} cazuri",
+    "dropFile": "Adăugați fișierul la caz",
+    "itemSelected_one": "1 element selectat",
+    "itemSelected_other": "{{count}} elemente selectate",
+    "language": "Limbă",
+    "locale": "Setări regionale",
+    "logo": "Logo",
+    "none": "Niciunul",
+    "openDrawer": "Deschideți panoul",
+    "preparingDownload": "Se pregătește descărcarea",
+    "rejectModal": "Scanările selectate nu vor mai fi luate în considerare pentru caz.",
+    "settingsTab": "Fila Setări",
+    "tabs": "File",
+    "users": "Utilizatori"
+  },
+  "links": {
+    "create": "Creare",
+    "designs": "Designuri",
+    "manage": "Gestionare",
+    "underConstruction": "În construcție"
+  },
+  "loading": {
+    "loading": "Se încarcă",
+    "unavailable": "Indisponibil"
+  },
+  "message": {
+    "acceptAiUsagePolicy": "Accept <a>Politica de utilizare a datelor pentru AI</a>",
+    "acceptPrivacyPolicy": "Accept <a>Politica de confidențialitate</a>",
+    "acceptTermsOfService": "Accept <a>Termenii și condițiile de utilizare</a>",
+    "betaTest": "Folosiți versiunea beta — beneficiați gratuit de 100 de credite (100 de cazuri) în această perioadă de lansare timpurie.",
+    "contactOrgOwner": "Contactați proprietarul organizației dumneavoastră pentru a accepta termenii în numele organizației.",
+    "contactOrgOwnerRefresh": "După ce proprietarul organizației a acceptat, reîmprospătați această pagină pentru a continua.",
+    "cookiePolicy": "Folosim cookie-uri pentru a vă îmbunătăți experiența de navigare. Pentru a afla mai multe, consultați <cookie>Politica privind cookie-urile</cookie> și <privacy>Declarația de confidențialitate</privacy>.",
+    "cookiePreferencesAllowed": "Ați permis toate cookie-urile, inclusiv cele de analiză și asistență.",
+    "cookiePreferencesDenied": "Folosiți doar cookie-urile strict necesare.",
+    "insufficientCredits": "Contactați administratorul sau proprietarul organizației pentru a reîncărca creditele.",
+    "insufficientCreditsAdmin": "Reîncărcați creditele pentru a procesa designurile.",
+    "insufficientCreditsAdminLong": "Unele designuri nu pot fi procesate din cauza creditelor insuficiente.\n\nDupă reîncărcare, selectați cazurile marcate „De procesat” și faceți clic pe „Procesați” pentru a genera designurile.",
+    "insufficientCreditsLong": "Unele designuri nu pot fi procesate din cauza creditelor insuficiente. Contactați administratorul sau proprietarul organizației pentru a reîncărca creditele.\n\nDupă reîncărcare, selectați cazurile marcate „De procesat” și faceți clic pe „Procesați” pentru a genera designurile.",
+    "noConnection": "Nu se poate realiza conexiunea, se reîncearcă în {{time}}",
+    "noMatches": "Ne pare rău, nu s-au găsit rezultate",
+    "noMatchesHelp": "Verificați dacă există greșeli de scriere sau încercați termeni mai generali\nAlternativ, încercați să folosiți filtrele tabelului",
+    "reconnecting": "Se reconectează...",
+    "reviewAndAgreeToOrgPolicies": "Înainte de a continua, organizația dumneavoastră trebuie să examineze și să accepte următoarele politici.",
+    "reviewAndAgreeToPolicies": "Înainte de a continua, trebuie să examinați și să acceptați <terms>Termenii și condițiile de utilizare</terms> și <privacy>Politica de confidențialitate</privacy>."
+  },
+  "notFoundPage": {
+    "message_narrow": "Verificați dacă adresa paginii conține greșeli sau folosiți meniul de navigare din stânga sus",
+    "message_wide": "Verificați dacă adresa paginii conține greșeli sau folosiți butoanele de navigare din stânga",
+    "title": "Nu găsim această pagină"
+  },
+  "table": {
+    "emptyState": {
+      "noMatches": {
+        "header": "Ne pare rău, nu s-au găsit rezultate",
+        "paragraph": "Verificați dacă există greșeli de scriere sau încercați termeni mai generali\nAlternativ, încercați să folosiți filtrele tabelului"
+      }
+    },
+    "expandRow": "Extindeți rândul",
+    "pageAmount": "Număr",
+    "perPage": "Pe pagină"
+  },
+  "title": {
+    "aiUsagePolicy": "Politica de utilizare a datelor pentru AI",
+    "cookiePolicy": "Politica privind cookie-urile",
+    "help": "Vizualizați ajutorul",
+    "insufficientCredits": "Credite insuficiente",
+    "language": "Limbă",
+    "manage": "Gestionare",
+    "manageSubscription": "Gestionați abonamentul",
+    "name": "Nume afișat",
+    "orgConsent": "Consimțământul organizației",
+    "photo": "Fotografie",
+    "privacy": "Confidențialitate",
+    "privacyPolicy": "Politica de confidențialitate",
+    "profile": "Profil",
+    "settings": "Setări",
+    "termsAndPolicy": "Termenii și condițiile de utilizare și Politica de confidențialitate",
+    "termsOfService": "Termenii și condițiile de utilizare",
+    "uploads": "Încărcări"
+  },
+  "underConstruction": {
+    "subtitle1": "Construim ceva special",
+    "subtitle2": "Reveniți mai târziu"
+  },
+  "units": {
+    "millimetres": "{{value}} mm"
+  }
+}

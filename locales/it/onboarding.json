@@ -1,0 +1,32 @@
+{
+  "label": {
+    "country": "Paese",
+    "fullName": "Nome completo",
+    "organisationName": "Nome dell'organizzazione",
+    "region": "Regione dei dati",
+    "regionDescription_long": "Selezioni la regione in cui i dati della Sua organizzazione verranno archiviati, elaborati e sottoposti a backup. \n<bold>Questa scelta è definitiva e non potrà essere modificata dopo la configurazione.</bold> Scelga la regione più vicina ai Suoi utenti per ottenere le migliori prestazioni, oppure quella conforme ai Suoi requisiti normativi (ad es. GDPR, HIPAA, leggi sulla residenza dei dati).\n\nPer cambiare regione è necessario creare una nuova organizzazione ed eseguire la migrazione manualmente.",
+    "regionDescription_short": "Selezioni la regione in cui i dati della Sua organizzazione verranno archiviati, elaborati e sottoposti a backup.\n<bold>Questa scelta è definitiva e non potrà essere modificata dopo la configurazione.</bold>",
+    "subtitle": "Genera automaticamente modelli stampabili in 3D da scansioni intraorali",
+    "title": "Crei il Suo account Genira",
+    "website": "Sito web"
+  },
+  "message": {
+    "acceptAiUsagePolicy": "Accetto la <a>Politica di utilizzo dei dati per l'IA</a> di Genira",
+    "baaResendSuccess": "Email BAA inviata. Controlli la Sua casella di posta.",
+    "checkEmailTo": "Controlli l'email inviata a:",
+    "emailResendSuccess": "Email inviata. Controlli la Sua casella di posta.",
+    "emailVerified": "<bold>Email verificata correttamente</bold>\nVerrà reindirizzato a breve...",
+    "hipaaBaa": "Verrà generato un Business Associate Agreement (BAA) HIPAA per l'utilizzo di Genira in questa regione.",
+    "redirecting": "Verrà reindirizzato a breve...",
+    "regionError": "Genira è attualmente supportato solo in Australia.",
+    "resendBaaError": "Impossibile inviare nuovamente l'email BAA. Riprovi più tardi.",
+    "resendEmail": "Invia di nuovo l'email di verifica",
+    "resendEmailError": "Impossibile inviare nuovamente l'email di verifica. Riprovi più tardi.",
+    "resendLink": "Invia di nuovo il link",
+    "sendingBaaEmail": "Invio dell'email BAA in corso...",
+    "sendingEmail": "Invio dell'email di verifica in corso...",
+    "signBaa": "Firmi il Business Associate Agreement",
+    "verifyEmail": "Verifichi il Suo indirizzo email per accedere a Genira.",
+    "verifyEmailAddress": "Verifichi il Suo indirizzo email"
+  }
+}
