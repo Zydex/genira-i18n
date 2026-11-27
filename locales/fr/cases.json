@@ -48,6 +48,7 @@
       "message": "Un scan haute résolution a été simplifié à 400 000 sommets pour améliorer les performances de traitement.",
       "title": "Résolution réduite"
     },
+    "scansTooLarge": "Fichiers de scan trop volumineux",
     "unsupportedFileStructure": "Structure de fichiers non prise en charge"
   },
   "files": {
@@ -157,6 +158,8 @@
     "processingCases_other": "Traitement de {{count}} cas",
     "quitUploadWarning": "Les conceptions des cas sélectionnés ne seront pas traitées.",
     "rejectedReason": "Indiquez-nous pourquoi vous avez rejeté cette conception :",
+    "scansTooLargeHelp_one": "Le scan suivant dépasse la limite de {{limit}} Mo et n'a pas été ajouté :",
+    "scansTooLargeHelp_other": "Les {{count}} scans suivants dépassent la limite de {{limit}} Mo et n'ont pas été ajoutés :",
     "sortCasesByIssues": "Les cas sont réorganisés dans la liste afin d'afficher en premier ceux qui présentent des problèmes.",
     "unsupportedFileStructureHelp": "Seuls les fichiers STL ou PLY sont acceptés."
   },

@@ -48,6 +48,7 @@
       "message": "Sken s vysokým rozlišením byl zjednodušen na 400 000 vrcholů, aby se zlepšil výkon zpracování.",
       "title": "Rozlišení sníženo"
     },
+    "scansTooLarge": "Soubory skenů jsou příliš velké",
     "unsupportedFileStructure": "Nepodporovaná struktura souborů"
   },
   "files": {
@@ -157,6 +158,8 @@
     "processingCases_other": "Zpracování případů (počet: {{count}})",
     "quitUploadWarning": "Návrhy pro vybrané případy nebudou zpracovány.",
     "rejectedReason": "Dejte nám vědět, proč jste tento návrh zamítli:",
+    "scansTooLargeHelp_one": "Následující sken překračuje limit {{limit}} MB a nebyl přidán:",
+    "scansTooLargeHelp_other": "Následující skeny (počet: {{count}}) překračují limit {{limit}} MB a nebyly přidány:",
     "sortCasesByIssues": "Případy v seznamu jsou přeuspořádány tak, aby se případy s problémy zobrazovaly jako první.",
     "unsupportedFileStructureHelp": "Přijímány jsou pouze soubory STL nebo PLY."
   },

@@ -48,6 +48,7 @@
       "message": "Een scan met hoge resolutie is vereenvoudigd tot 400.000 hoekpunten om de verwerkingsprestaties te verbeteren.",
       "title": "Resolutie verlaagd"
     },
+    "scansTooLarge": "Scanbestanden te groot",
     "unsupportedFileStructure": "Niet-ondersteunde bestandsstructuur"
   },
   "files": {
@@ -157,6 +158,8 @@
     "processingCases_other": "{{count}} casussen worden verwerkt",
     "quitUploadWarning": "Ontwerpen voor de geselecteerde casussen worden niet verwerkt.",
     "rejectedReason": "Laat ons weten waarom u dit ontwerp heeft afgewezen:",
+    "scansTooLargeHelp_one": "De volgende scan is groter dan de limiet van {{limit}} MB en is niet toegevoegd:",
+    "scansTooLargeHelp_other": "De volgende {{count}} scans zijn groter dan de limiet van {{limit}} MB en zijn niet toegevoegd:",
     "sortCasesByIssues": "Casussen worden in de lijst opnieuw gerangschikt, zodat casussen met problemen bovenaan staan.",
     "unsupportedFileStructureHelp": "Alleen STL- of PLY-bestanden worden geaccepteerd."
   },

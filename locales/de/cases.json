@@ -48,6 +48,7 @@
       "message": "Ein hochauflösender Scan wurde auf 400.000 Eckpunkte vereinfacht, um die Verarbeitungsleistung zu verbessern.",
       "title": "Auflösung reduziert"
     },
+    "scansTooLarge": "Scandateien zu groß",
     "unsupportedFileStructure": "Nicht unterstützte Dateistruktur"
   },
   "files": {
@@ -157,6 +158,8 @@
     "processingCases_other": "{{count}} Fälle werden verarbeitet",
     "quitUploadWarning": "Designs für die ausgewählten Fälle werden nicht verarbeitet.",
     "rejectedReason": "Teilen Sie uns mit, warum Sie dieses Design abgelehnt haben:",
+    "scansTooLargeHelp_one": "Der folgende Scan überschreitet das Limit von {{limit}} MB und wurde nicht hinzugefügt:",
+    "scansTooLargeHelp_other": "Die folgenden {{count}} Scans überschreiten das Limit von {{limit}} MB und wurden nicht hinzugefügt:",
     "sortCasesByIssues": "Die Fälle in der Liste werden neu angeordnet, sodass Fälle mit Problemen zuerst angezeigt werden.",
     "unsupportedFileStructureHelp": "Es werden nur STL- oder PLY-Dateien akzeptiert."
   },

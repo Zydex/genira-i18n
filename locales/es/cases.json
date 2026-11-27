@@ -48,6 +48,7 @@
       "message": "Se ha simplificado un escaneo de alta resolución a 400.000 vértices para mejorar el rendimiento del procesamiento.",
       "title": "Resolución reducida"
     },
+    "scansTooLarge": "Archivos de escaneo demasiado grandes",
     "unsupportedFileStructure": "Estructura de archivos no compatible"
   },
   "files": {
@@ -157,6 +158,8 @@
     "processingCases_other": "Procesando {{count}} casos",
     "quitUploadWarning": "Los diseños de los casos seleccionados no se procesarán.",
     "rejectedReason": "Indíquenos por qué ha rechazado este diseño:",
+    "scansTooLargeHelp_one": "El siguiente escaneo supera el límite de {{limit}} MB y no se ha añadido:",
+    "scansTooLargeHelp_other": "Los siguientes {{count}} escaneos superan el límite de {{limit}} MB y no se han añadido:",
     "sortCasesByIssues": "Los casos se reordenan en la lista para mostrar primero los que tienen incidencias.",
     "unsupportedFileStructureHelp": "Solo se aceptan archivos STL o PLY."
   },

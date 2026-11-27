@@ -48,6 +48,7 @@
       "message": "Uma digitalização de alta resolução foi simplificada para 400 000 vértices a fim de melhorar o desempenho do processamento.",
       "title": "Resolução reduzida"
     },
+    "scansTooLarge": "Ficheiros de digitalização demasiado grandes",
     "unsupportedFileStructure": "Estrutura de ficheiros não suportada"
   },
   "files": {
@@ -157,6 +158,8 @@
     "processingCases_other": "A processar {{count}} casos",
     "quitUploadWarning": "Os designs dos casos selecionados não serão processados.",
     "rejectedReason": "Diga-nos porque rejeitou este design:",
+    "scansTooLargeHelp_one": "A seguinte digitalização excede o limite de {{limit}} MB e não foi adicionada:",
+    "scansTooLargeHelp_other": "As seguintes {{count}} digitalizações excedem o limite de {{limit}} MB e não foram adicionadas:",
     "sortCasesByIssues": "Os casos são reordenados na lista para mostrar primeiro os casos com problemas.",
     "unsupportedFileStructureHelp": "Só são aceites ficheiros STL ou PLY."
   },

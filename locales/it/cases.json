@@ -48,6 +48,7 @@
       "message": "Una scansione ad alta risoluzione è stata semplificata a 400.000 vertici per migliorare le prestazioni di elaborazione.",
       "title": "Risoluzione ridotta"
     },
+    "scansTooLarge": "File di scansione troppo grandi",
     "unsupportedFileStructure": "Struttura dei file non supportata"
   },
   "files": {
@@ -157,6 +158,8 @@
     "processingCases_other": "Elaborazione di {{count}} casi in corso",
     "quitUploadWarning": "I progetti per i casi selezionati non verranno elaborati.",
     "rejectedReason": "Ci indichi il motivo per cui ha rifiutato questo progetto:",
+    "scansTooLargeHelp_one": "La seguente scansione supera il limite di {{limit}} MB e non è stata aggiunta:",
+    "scansTooLargeHelp_other": "Le seguenti {{count}} scansioni superano il limite di {{limit}} MB e non sono state aggiunte:",
     "sortCasesByIssues": "I casi vengono riordinati nell'elenco per mostrare per primi quelli con problemi.",
     "unsupportedFileStructureHelp": "Sono accettati solo file STL o PLY."
   },

@@ -48,6 +48,7 @@
       "message": "O scanare de înaltă rezoluție a fost simplificată la 400.000 de vârfuri pentru a îmbunătăți performanța procesării.",
       "title": "Rezoluție redusă"
     },
+    "scansTooLarge": "Fișiere de scanare prea mari",
     "unsupportedFileStructure": "Structură de fișiere neacceptată"
   },
   "files": {
@@ -157,6 +158,8 @@
     "processingCases_other": "Se procesează {{count}} cazuri",
     "quitUploadWarning": "Design-urile pentru cazurile selectate nu vor fi procesate.",
     "rejectedReason": "Spuneți-ne de ce ați respins acest design:",
+    "scansTooLargeHelp_one": "Următoarea scanare depășește limita de {{limit}} MB și nu a fost adăugată:",
+    "scansTooLargeHelp_other": "Următoarele scanări ({{count}}) depășesc limita de {{limit}} MB și nu au fost adăugate:",
     "sortCasesByIssues": "Cazurile sunt rearanjate în listă astfel încât cele cu probleme să apară primele.",
     "unsupportedFileStructureHelp": "Sunt acceptate numai fișiere STL sau PLY."
   },
