@@ -48,6 +48,7 @@
       "message": "A rendszer egy nagy felbontású szkennelést 400 000 csúcspontra egyszerűsített a feldolgozási teljesítmény javítása érdekében.",
       "title": "Felbontás csökkentve"
     },
+    "scansTooLarge": "A szkennelési fájlok túl nagyok",
     "unsupportedFileStructure": "Nem támogatott fájlstruktúra"
   },
   "files": {
@@ -157,6 +158,8 @@
     "processingCases_other": "{{count}} eset feldolgozása",
     "quitUploadWarning": "A kiválasztott esetek tervei nem kerülnek feldolgozásra.",
     "rejectedReason": "Ossza meg velünk, miért utasította el ezt a tervet:",
+    "scansTooLargeHelp_one": "Az alábbi szkennelés meghaladja a megengedett {{limit}} MB-os méretkorlátot, ezért nem lett hozzáadva:",
+    "scansTooLargeHelp_other": "Az alábbi {{count}} szkennelés meghaladja a megengedett {{limit}} MB-os méretkorlátot, ezért nem lett hozzáadva:",
     "sortCasesByIssues": "Az esetek a listában átrendeződnek, hogy a problémás esetek jelenjenek meg elöl.",
     "unsupportedFileStructureHelp": "Csak STL vagy PLY fájlok fogadhatók el."
   },

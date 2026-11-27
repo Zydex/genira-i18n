@@ -48,6 +48,7 @@
       "message": "A high-resolution scan was simplified to 400,000 vertices to improve processing performance.",
       "title": "Resolution lowered"
     },
+    "scansTooLarge": "Scan files too large",
     "unsupportedFileStructure": "Unsupported file structure"
   },
   "files": {
@@ -157,6 +158,8 @@
     "processingCases_other": "Processing {{count}} cases",
     "quitUploadWarning": "Designs for the selected cases will not be processed.",
     "rejectedReason": "Let us know why you have rejected this design:",
+    "scansTooLargeHelp_one": "The following scan is larger than the {{limit}} MB limit and was not added:",
+    "scansTooLargeHelp_other": "The following {{count}} scans are larger than the {{limit}} MB limit and were not added:",
     "sortCasesByIssues": "Cases are rearranged in the list to show cases with issues first.",
     "unsupportedFileStructureHelp": "Only STL or PLY files are accepted."
   },

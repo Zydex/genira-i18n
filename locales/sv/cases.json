@@ -48,6 +48,7 @@
       "message": "En högupplöst skanning förenklades till 400 000 hörnpunkter för att förbättra bearbetningsprestandan.",
       "title": "Upplösningen sänktes"
     },
+    "scansTooLarge": "Skanningsfilerna är för stora",
     "unsupportedFileStructure": "Filstrukturen stöds inte"
   },
   "files": {
@@ -157,6 +158,8 @@
     "processingCases_other": "Bearbetar {{count}} fall",
     "quitUploadWarning": "Designer för de valda fallen kommer inte att bearbetas.",
     "rejectedReason": "Berätta varför du har avvisat den här designen:",
+    "scansTooLargeHelp_one": "Följande skanning överskrider gränsen på {{limit}} MB och lades inte till:",
+    "scansTooLargeHelp_other": "Följande {{count}} skanningar överskrider gränsen på {{limit}} MB och lades inte till:",
     "sortCasesByIssues": "Fallen ordnas om i listan så att fall med problem visas först.",
     "unsupportedFileStructureHelp": "Endast STL- eller PLY-filer accepteras."
   },

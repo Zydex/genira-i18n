@@ -48,6 +48,7 @@
       "message": "Skan o wysokiej rozdzielczości został uproszczony do 400 000 wierzchołków, aby poprawić wydajność przetwarzania.",
       "title": "Obniżono rozdzielczość"
     },
+    "scansTooLarge": "Pliki skanów są zbyt duże",
     "unsupportedFileStructure": "Nieobsługiwana struktura plików"
   },
   "files": {
@@ -157,6 +158,8 @@
     "processingCases_other": "Przetwarzanie przypadków: {{count}}",
     "quitUploadWarning": "Projekty dla wybranych przypadków nie zostaną przetworzone.",
     "rejectedReason": "Daj nam znać, dlaczego odrzuciłeś ten projekt:",
+    "scansTooLargeHelp_one": "Następujący skan przekracza limit {{limit}} MB i nie został dodany:",
+    "scansTooLargeHelp_other": "Następujące skany ({{count}}) przekraczają limit {{limit}} MB i nie zostały dodane:",
     "sortCasesByIssues": "Przypadki na liście zostały uporządkowane tak, aby przypadki z problemami były wyświetlane jako pierwsze.",
     "unsupportedFileStructureHelp": "Akceptowane są wyłącznie pliki STL lub PLY."
   },
