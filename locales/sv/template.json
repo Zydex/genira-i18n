@@ -1,0 +1,82 @@
+{
+  "alt": {
+    "modelIcon": "Modell"
+  },
+  "button": {
+    "save": "Spara",
+    "update": "Uppdatera"
+  },
+  "error": {
+    "failedDeletion_one": "Det gick inte att ta bort {{count}} mall",
+    "failedDeletion_other": "Det gick inte att ta bort {{count}} mallar"
+  },
+  "label": {
+    "affixText": "Märktext",
+    "createdBy": "Skapad av",
+    "createdOn": "Skapad den",
+    "default": "Standard",
+    "designPart": "Designdel",
+    "drainHoles": "Dräneringshål",
+    "gingivalTrimDistance": "Trimningsavstånd",
+    "gingivalTrimming": "Gingivatrimning",
+    "hollowModel": "Ihålig modell",
+    "modelAttachmentTypes": "Fästelement",
+    "modelType": "Modelltyp",
+    "name": "Mallnamn",
+    "newTemplate": "Ny mall",
+    "search": "Sök efter en mall",
+    "studyModel": "Studiemodell",
+    "textStyle": "Textstil"
+  },
+  "message": {
+    "affixTextHelp": "Gör delar lätta att identifiera genom att lägga till text på genererade designer.\n\nFallets namn läggs till på modellerna.",
+    "attachmentHelp": "Fästelement används för att bibehålla bettläget för fysiska modeller.\n\nDe genereras endast för fall som har en övre (maxillär) och en nedre (mandibulär) skanning.",
+    "createATemplate": "Skapa en mall för dina designer",
+    "deleteTemplate": "Den här mallen kommer inte längre att vara tillgänglig för framtida fall.",
+    "deleteTemplate_one": "Den här mallen kommer inte längre att vara tillgänglig för framtida fall.",
+    "deleteTemplate_other": "Dessa mallar kommer inte längre att vara tillgängliga för framtida fall.",
+    "deletingTemplates_one": "Tar bort {{count}} mall",
+    "deletingTemplates_other": "Tar bort {{count}} mallar",
+    "drainHolesHelp": "Dräneringshål hjälper till att undvika utskriftsfel genom att låta luft komma in och resin rinna ut från modellens insida.\n\nDetta är en obligatorisk inställning vid utskrift av ihåliga modeller, och hålens positioner bestäms automatiskt.",
+    "gingivalTrimDistanceHelp": "Målavstånd, i millimeter, att trimma från tandgränsen. Områden där skanningen har mindre gingiva än detta trimmas endast så långt som skanningen tillåter.",
+    "gingivalTrimmingHelp": "Trimmar tillbaka gingivan från tandgränsen med ett angivet avstånd. Inaktivera för att lämna gingivan otrimmad.",
+    "hollowModelHelp": "Aktivera det här alternativet för att skapa ihåliga modeller.\n\nDetta minskar mängden material som förbrukas vid utskrift av modellen.",
+    "modelTypeHelp": "Välj mellan hästskoformade modeller och modeller med hel gom.",
+    "noTemplates": "Inga mallar har skapats",
+    "noTemplatesInfo": "Skapa en mall för att återanvända inställningar för nya designer",
+    "removeTemplate": "Är du säker på att du vill ta bort den här mallen?",
+    "renameTemplate": "Det finns redan en mall med det här namnet. Byt namn på mallen för att fortsätta.",
+    "templateNameHelp": "Identifiera dina sparade inställningar enkelt genom att ge dem ett namn som är lätt att komma ihåg.\n\nDu ser det här namnet i listrutan för designmallar.",
+    "textStyleHelp": "Graverad skär in texten i modellen.\n\nPräglad lyfter texten ut från modellen."
+  },
+  "options": {
+    "modelAttachmentTypes": {
+      "hingedArticulator": "Gångjärnsartikulator",
+      "none": "Inga",
+      "pillars": "Pelare"
+    },
+    "modelType": {
+      "fullPalate": "Hel gom",
+      "horseShoe": "Hästsko"
+    },
+    "textStyle": {
+      "embossed": "Präglad",
+      "engraved": "Graverad",
+      "none": "Ingen"
+    }
+  },
+  "placeholder": {
+    "templateName": "Mallnamn krävs"
+  },
+  "text": {
+    "addTemplate": "Lägg till mall",
+    "editTemplate": "Redigera mall"
+  },
+  "title": {
+    "deleteTemplate": "Ta bort mall?",
+    "removeTemplate": "Ta bort mall",
+    "renameTemplate": "Byt namn på mall",
+    "templateName": "Mallnamn",
+    "templates": "Mallar"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "alt": {
+    "addUsers": "Ajouter des utilisateurs",
+    "profile": "Profil utilisateur"
+  },
+  "button": {
+    "add": "Ajouter un utilisateur",
+    "changePassword": "Modifier le mot de passe",
+    "changeRole": "Modifier le rôle",
+    "deleteProfile": "Supprimer le profil",
+    "remove": "Retirer l'utilisateur",
+    "restoreAccess": "Rétablir l'accès",
+    "uploadPhoto": "Téléverser une photo"
+  },
+  "label": {
+    "enterEmails": "Saisissez les adresses e-mail, séparées par des virgules",
+    "search": "Rechercher un utilisateur",
+    "users": "Utilisateurs"
+  },
+  "message": {
+    "addUsers": "Saisissez les adresses e-mail ci-dessous pour inviter des utilisateurs dans cette organisation.",
+    "changePassword": "Un e-mail contenant un lien de modification du mot de passe sera envoyé.",
+    "changePassword_email": "Un e-mail contenant un lien de modification du mot de passe sera envoyé à {{email}}.",
+    "changeRole": "Modifier le rôle :",
+    "changeRole_user": "Modifier le rôle de {{user}} :",
+    "confirmDelAccounts_one": "Cet utilisateur n'aura plus accès à cette organisation.",
+    "confirmDelAccounts_other": "Ces utilisateurs n'auront plus accès à cette organisation.",
+    "confirmDelAccounts_org_one": "Cet utilisateur n'aura plus accès à {{org}}.",
+    "confirmDelAccounts_org_other": "Ces utilisateurs n'auront plus accès à {{org}}.",
+    "deleteProfile": "Votre profil sera définitivement supprimé de votre organisation.",
+    "deleteProfile_org": "Votre profil sera définitivement supprimé de {{org}}.",
+    "linkSent": "Lien envoyé",
+    "loginLoadError": "Erreur lors du chargement de la connexion. Veuillez réessayer plus tard.",
+    "profilePicture": "Cela permet aux autres de vous reconnaître et vous confirme que vous êtes connecté au bon compte.",
+    "userPageInfo": "Les utilisateurs de votre organisation sont affichés sur cette page"
+  },
+  "role": {
+    "admin": "Administrateur",
+    "owner": "Propriétaire",
+    "user": "Utilisateur"
+  },
+  "title": {
+    "changePassword": "Modifier le mot de passe",
+    "changeRole": "Modifier le rôle",
+    "changeRole_user": "Modifier le rôle de {{user}} :",
+    "confirmDeleteProfile": "Confirmer la suppression du profil",
+    "deleteProfile": "Supprimer le profil",
+    "displayName": "Nom d'affichage",
+    "edit": "Modifier",
+    "email": "E-mail",
+    "invite": "Inviter des utilisateurs",
+    "name": "Nom",
+    "photo": "Photo",
+    "profile": "Profil",
+    "remove_one": "Retirer l'utilisateur ?",
+    "remove_other": "Retirer les utilisateurs ?",
+    "restoreAccess": "Rétablir l'accès de l'utilisateur ?",
+    "role": "Rôle",
+    "usersName": "Nom de l'utilisateur"
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "button": {
+    "addFolders": "Lägg till mappar",
+    "addScans": "Lägg till skanningar",
+    "browse": "Bläddra",
+    "browseDirectories": "Bläddra bland mappar",
+    "browseFiles": "Bläddra bland filer",
+    "downloadDesigns": "Ladda ned designer",
+    "moveToNewCase": "Flytta till nytt fall",
+    "newCase": "Nytt fall",
+    "sendToFunnel": "Skicka till Funnel"
+  },
+  "caseInspector": {
+    "caseInformation": "Fallinformation"
+  },
+  "details": {
+    "case": "Fall",
+    "caseInformation": "Fallinformation"
+  },
+  "duplicate": {
+    "multipleUpperOrLower": {
+      "message": "Flera maxillära eller mandibulära skanningar har upptäckts",
+      "title": "Dubbla skanningar"
+    }
+  },
+  "error": {
+    "basedModel": {
+      "message": "Den uppladdade modellen har redan en sockel. Ladda upp en råskanning för att generera en modell med sockel.",
+      "title": "Modellen har redan en sockel."
+    },
+    "emptyFolder": "Tom mapp upptäcktes",
+    "emptyMesh": {
+      "message": "Skanningens geometridata kan inte hittas",
+      "title": "Tom skanning"
+    },
+    "failedToProcessCases_one": "Det gick inte att bearbeta {{count}} fall",
+    "failedToProcessCases_other": "Det gick inte att bearbeta {{count}} fall",
+    "missingUpperAndLower": {
+      "message": "Skanningarnas namn följer inte en känd namnkonvention. Uppdatera filnamnen eller skapa en ny namnkonvention. <a>Läs mer</a>",
+      "title": "Det går inte att känna igen skanningarna"
+    },
+    "missingUpperOrLower": {
+      "message": "Fallet saknar en mandibulär eller maxillär skanning",
+      "title": "Skanning saknas"
+    },
+    "noScansDetected": "Inga skanningsfiler upptäcktes",
+    "resolutionLowered": {
+      "message": "En högupplöst skanning förenklades till 400 000 hörnpunkter för att förbättra bearbetningsprestandan.",
+      "title": "Upplösningen sänktes"
+    },
+    "unsupportedFileStructure": "Filstrukturen stöds inte"
+  },
+  "files": {
+    "cases": "cases-{{time}}.zip",
+    "designs": "designs-{{time}}.zip"
+  },
+  "filters": {
+    "all": "Alla",
+    "designed": "Designade",
+    "downloaded": "Nedladdade",
+    "issues": "Problem",
+    "rejected": "Avvisade"
+  },
+  "issues": {
+    "modelBasing": {
+      "basingError": {
+        "message": "Det gick inte att generera modell med sockel.\n<a>Läs mer</a> om det här felet.",
+        "status": "Det gick inte att generera modell med sockel"
+      },
+      "hollowingError": {
+        "message": "Det gick inte att generera ihålig modell.\n<a>Läs mer</a> om det här felet.",
+        "status": "Det gick inte att generera ihålig modell"
+      },
+      "occlusalPlaneError": {
+        "message": "Det gick inte att beräkna ocklusalplanet.\n<a>Läs mer</a> om det här felet.",
+        "status": "Det gick inte att beräkna ocklusalplanet"
+      },
+      "pillarGenerationError": {
+        "message": "Det gick inte att generera fästen.\n<a>Läs mer</a> om det här felet.",
+        "status": "Det gick inte att generera fästen"
+      },
+      "preprocessingError": {
+        "message": "Det gick inte att förbehandla skanningarna.\n<a>Läs mer</a> om det här felet.",
+        "status": "Det gick inte att förbehandla skanningarna"
+      },
+      "retry": {
+        "asSolid": "Försöka designa igen som en solid modell? <a>Försök igen</a>",
+        "withoutAttachments": "Försöka designa igen utan fästen? <a>Försök igen</a>"
+      },
+      "textGenerationError": {
+        "message": "Det gick inte att lägga till textetikett på modellen.\n<a>Läs mer</a> om det här felet.",
+        "status": "Det gick inte att generera hela etiketten"
+      },
+      "textGenerationWarning": {
+        "message": "Det gick inte att lägga till hela textetiketten på modellen. Det beror troligen på att det inte finns tillräckligt med ledigt utrymme för textens längd.\n<a>Läs mer</a> om det här felet.",
+        "status": "Det gick inte att generera hela etiketten"
+      },
+      "toothSegmentationError": {
+        "message": "Det gick inte att klassificera tänderna.\n<a>Läs mer</a> om det här felet.",
+        "status": "Det gick inte att klassificera tänderna"
+      },
+      "ventGenerationError": {
+        "message": "Det gick inte att generera dränagehål.\n<a>Läs mer</a> om det här felet.",
+        "status": "Det gick inte att generera dränagehål"
+      }
+    }
+  },
+  "label": {
+    "addingCases": "Lägger till fall...",
+    "addingCases_amount": "Lägger till fall... ({{amount}}/{{total}})",
+    "caseInformation": "Fallinformation",
+    "caseName": "Fallnamn",
+    "casesAdded": "Fall tillagda! ({{amount}}/{{total}})",
+    "deleteDesign": "Ta bort design",
+    "designedModel": "Designad",
+    "dontRemindMe": "Påminn mig inte igen",
+    "downloadCases": "Ladda ned fall",
+    "downloadScans": "Ladda ned skanningar",
+    "dropFile": "Lägg till fil i fallet",
+    "enterCaseName": "Ange fallnamn",
+    "enterNewCaseName": "Ange ett nytt namn för fallet",
+    "estimatedTime": "Beräknad tid",
+    "failedToMarkAsRejected_one": "Det gick inte att markera fallet som avvisat",
+    "failedToMarkAsRejected_other": "Det gick inte att markera {{count}} fall som avvisade",
+    "markingCasesAsRejected_one": "Markerar fallet som avvisat",
+    "markingCasesAsRejected_other": "Markerar {{count}} fall som avvisade",
+    "rejectedBy": "Avvisad av",
+    "renameDesign": "Byt namn på design",
+    "scan": "Skanning",
+    "scanUploadCancelled": "{{scanName}} (avbruten)",
+    "search": "Sök",
+    "selectDownloadOption": "välj nedladdningsalternativ",
+    "sendingToFunnel": "Skickar till Funnel",
+    "template": "Mall",
+    "uploadComplete": "Uppladdningen är klar",
+    "uploadedAt": "Uppladdad den",
+    "uploadedBy": "Uppladdad av",
+    "uploading": "Laddar upp"
+  },
+  "message": {
+    "basedModelsUploaded": "Det verkar som att en eller flera av dina filer redan är modeller med sockel. Ladda upp råskanningar för att generera modeller med sockel.\n\n<a>Hör av dig</a> om du förväntade dig att kunna använda modeller med sockel, eller om du har annan feedback.",
+    "downloadRejectedDesigns_one": "Ditt konto kommer att debiteras {{cost}} krediter.",
+    "downloadRejectedDesigns_other": "Ditt urval innehåller {{count}} fall som tidigare har avvisats.\n\nDitt konto kommer att debiteras {{cost}} krediter.",
+    "downloadRejectedInsufficientCredits_one": "Det går inte att ladda ned avvisade designer på grund av otillräckliga krediter.\n\nKontakta organisationens administratör eller ägare för att fylla på krediter.",
+    "downloadRejectedInsufficientCredits_other": "Ditt urval innehåller {{count}} fall som tidigare har avvisats.\n\nKontakta organisationens administratör eller ägare för att fylla på krediter och ladda ned dessa avvisade designer.",
+    "downloadRejectedInsufficientCreditsAdmin_one": "Det går inte att ladda ned avvisade designer på grund av otillräckliga krediter.\n\nFyll på kontots krediter för att ladda ned dessa avvisade designer.",
+    "downloadRejectedInsufficientCreditsAdmin_other": "Ditt urval innehåller {{count}} fall som tidigare har avvisats.\n\nFyll på kontots krediter för att ladda ned dessa avvisade designer.",
+    "draggedCase_zero": "{{name}}",
+    "draggedCase_one": "<shrink>{{name}}</shrink> <span>och {{count}} till</span>",
+    "draggedCase_other": "<shrink>{{name}}</shrink> <span>och {{count}} till</span>",
+    "emptyFolderHelp": "Inga filer upptäcktes i den valda mappen. Kontrollera innehållet och försök igen.",
+    "markCasesAsRejected": "Avvisade designer kan inte laddas ned. Eventuella krediter som reserverats för denna design återbetalas.",
+    "noCases": "Inga fall hittades",
+    "noScans": "Det här fallet har inga skanningar.",
+    "noScansDetectedHelp": "Inga filer i STL- eller PLY-format upptäcktes i den valda mappen.",
+    "processingCases_one": "Bearbetar fall",
+    "processingCases_other": "Bearbetar {{count}} fall",
+    "quitUploadWarning": "Designer för de valda fallen kommer inte att bearbetas.",
+    "rejectedReason": "Berätta varför du har avvisat den här designen:",
+    "sortCasesByIssues": "Fallen ordnas om i listan så att fall med problem visas först.",
+    "unsupportedFileStructureHelp": "Endast STL- eller PLY-filer accepteras."
+  },
+  "scans": {
+    "combined": "Kombinerad",
+    "lower": "Mandibulär",
+    "unspecified": "Ospecificerad",
+    "upper": "Maxillär"
+  },
+  "status": {
+    "complete": "Design klar",
+    "downloaded": "Nedladdad",
+    "failed": "Misslyckades",
+    "insufficientCredits": "Otillräckliga krediter",
+    "pendingUpload": "Laddar upp",
+    "processing": "Bearbetar",
+    "rejected": "Avvisad",
+    "toProcess": "Att bearbeta",
+    "unknown": "Okänd status",
+    "uploaded": "Uppladdad"
+  },
+  "table": {
+    "emptyState": {
+      "all": {
+        "header": "Inga designer har skapats än",
+        "paragraph": "Designfall visas här när skanningar har laddats upp\nKom igång genom att välja knappen Skapa"
+      },
+      "designed": {
+        "header": "Inga designer har skapats än",
+        "paragraph": "Designfall visas här när skanningar har laddats upp\nKom igång genom att välja knappen Skapa"
+      },
+      "downloaded": {
+        "header": "Inga designer har laddats ned",
+        "paragraph": "Designer som har laddats ned visas här"
+      },
+      "issues": {
+        "header": "Inga designproblem",
+        "paragraph": "Designer som har problem visas här"
+      },
+      "processing": {
+        "header": "Inga designer bearbetas just nu",
+        "paragraph": "Designer som bearbetas visas här"
+      },
+      "rejected": {
+        "header": "Inga designer har avvisats",
+        "paragraph": "Designer som har avvisats visas här"
+      }
+    }
+  },
+  "text": {
+    "permanentlyRemoveCase_one": "Det här fallet kommer att tas bort permanent från systemet.",
+    "permanentlyRemoveCase_other": "{{count}} fall kommer att tas bort permanent från systemet."
+  },
+  "title": {
+    "caseID": "Fall-ID",
+    "caseName": "Fallnamn",
+    "caseNumber": "Fallnummer",
+    "cases": "Fall",
+    "completeWithIssues": "Klar med problem",
+    "designs": "Designer",
+    "downloadRejectedDesigns": "Ladda ned avvisade designer?",
+    "failed": "Misslyckades",
+    "name": "Namn",
+    "newCase": "Nytt fall",
+    "quitUploadWarning": "Kassera designer?",
+    "received": "Mottagen",
+    "rejectDesign": "Avvisa design?",
+    "scanType": "Skanningstyp",
+    "sortCasesByIssues": "Sortera fall efter problem",
+    "status": "Status",
+    "untitled": "Namnlös",
+    "uploadRawScans": "Ladda upp råskanningar",
+    "uploads": "Uppladdningar"
+  },
+  "toast": {
+    "allCasesNotReadyToDownload": "De valda fallen är inte redo för nedladdning",
+    "caseUpdated": "Fallet har uppdaterats",
+    "failedToDownloadCase": "Det gick inte att ladda ned fallet {{caseName}}",
+    "failedToGenerateZip": "Det gick inte att skapa zip-filen",
+    "failedToLoadCase_one": "Det gick inte att läsa in fallet",
+    "failedToLoadCase_other": "Det gick inte att läsa in {{count}} fall",
+    "failedToLoadCaseRanOutOfSpace_one": "Det gick inte att läsa in fallet, webbläsaren har slut på utrymme",
+    "failedToLoadCaseRanOutOfSpace_other": "Det gick inte att läsa in {{count}} fall, webbläsaren har slut på utrymme",
+    "nameUpdateFailed": "Det gick inte att uppdatera namnet",
+    "processingUpload": "Förbereder fallet för nedladdning",
+    "processingUploads": "Förbereder {{amount}}/{{total}} fall för nedladdning",
+    "scanResolutionLowered_one": "En högupplöst skanning förenklades till 400 000 hörnpunkter för att förbättra bearbetningsprestandan",
+    "scanResolutionLowered_other": "{{count}} högupplösta skanningar förenklades till 400 000 hörnpunkter för att förbättra bearbetningsprestandan",
+    "someCasesNotReadyToDownload": "Vissa av de valda fallen är inte redo för nedladdning",
+    "statusUpdatedToDownloaded": "Fallet {{caseName}} flyttades från designade till nedladdade",
+    "statusUpdateFailed": "Det gick inte att ändra fallets status till nedladdad",
+    "unableToDownloadCases_one": "Det går inte att ladda ned fallet",
+    "unableToDownloadCases_other": "Det går inte att ladda ned {{count}} fall",
+    "unableToDownloadDesigns_one": "Det går inte att ladda ned designen",
+    "unableToDownloadDesigns_other": "Det går inte att ladda ned {{count}} designer",
+    "unableToDownloadFiles": "Det går inte att ladda ned filerna"
+  },
+  "uploadModal": {
+    "multipleScans": {
+      "message": "Det här fallet innehåller flera skanningar som kan användas. De senaste skanningarna för maxillen och/eller mandibeln kommer att användas.",
+      "title": "Flera skanningar"
+    },
+    "text": {
+      "designTemplate": "Designmall",
+      "dragAndDrop": "Dra och släpp filer eller mappar som innehåller intraorala skanningar i PLY- eller STL-format",
+      "hoverDragAndDrop": "Släpp fallmappar eller intraorala skanningar för att skapa designer",
+      "or": "eller",
+      "processUploads": "Bearbeta",
+      "scansHaveIssues_one": "{{count}} fall har problem",
+      "scansHaveIssues_other": "{{count}} fall har problem",
+      "title": "Ladda upp skanningar"
+    }
+  },
+  "uploadScans": {
+    "lower": "Nedre",
+    "unknown": "Okänd",
+    "upper": "Övre"
+  }
+}

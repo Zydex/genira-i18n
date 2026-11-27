@@ -1,0 +1,61 @@
+{
+  "alt": {
+    "addUsers": "Adicionar utilizadores",
+    "profile": "Perfil do utilizador"
+  },
+  "button": {
+    "add": "Adicionar utilizador",
+    "changePassword": "Alterar palavra-passe",
+    "changeRole": "Alterar função",
+    "deleteProfile": "Eliminar perfil",
+    "remove": "Remover utilizador",
+    "restoreAccess": "Restaurar acesso",
+    "uploadPhoto": "Carregar fotografia"
+  },
+  "label": {
+    "enterEmails": "Introduza os e-mails, separados por vírgulas",
+    "search": "Pesquisar um utilizador",
+    "users": "Utilizadores"
+  },
+  "message": {
+    "addUsers": "Introduza os e-mails abaixo para convidar utilizadores para esta organização.",
+    "changePassword": "Será enviado um e-mail com uma ligação para alterar a palavra-passe.",
+    "changePassword_email": "Será enviado um e-mail para {{email}} com uma ligação para alterar a palavra-passe.",
+    "changeRole": "Atualizar função:",
+    "changeRole_user": "Atualizar a função de {{user}}:",
+    "confirmDelAccounts_one": "Este utilizador deixará de ter acesso a esta organização.",
+    "confirmDelAccounts_other": "Estes utilizadores deixarão de ter acesso a esta organização.",
+    "confirmDelAccounts_org_one": "Este utilizador deixará de ter acesso a {{org}}.",
+    "confirmDelAccounts_org_other": "Estes utilizadores deixarão de ter acesso a {{org}}.",
+    "deleteProfile": "O seu perfil será removido permanentemente da sua organização.",
+    "deleteProfile_org": "O seu perfil será removido permanentemente de {{org}}.",
+    "linkSent": "Ligação enviada",
+    "loginLoadError": "Erro ao carregar o início de sessão. Tente novamente mais tarde.",
+    "profilePicture": "Isto ajuda os outros a reconhecê-lo e permite-lhe confirmar que tem sessão iniciada na conta correta.",
+    "userPageInfo": "Os utilizadores da sua organização são apresentados nesta página"
+  },
+  "role": {
+    "admin": "Administrador",
+    "owner": "Proprietário",
+    "user": "Utilizador"
+  },
+  "title": {
+    "changePassword": "Alterar palavra-passe",
+    "changeRole": "Alterar função",
+    "changeRole_user": "Atualizar a função de {{user}}:",
+    "confirmDeleteProfile": "Confirmar eliminação do perfil",
+    "deleteProfile": "Eliminar perfil",
+    "displayName": "Nome a apresentar",
+    "edit": "Editar",
+    "email": "E-mail",
+    "invite": "Convidar utilizadores",
+    "name": "Nome",
+    "photo": "Fotografia",
+    "profile": "Perfil",
+    "remove_one": "Remover utilizador?",
+    "remove_other": "Remover utilizadores?",
+    "restoreAccess": "Restaurar o acesso do utilizador?",
+    "role": "Função",
+    "usersName": "Nome do utilizador"
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "button": {
+    "addFolders": "Adăugați foldere",
+    "addScans": "Adăugați scanări",
+    "browse": "Răsfoiți",
+    "browseDirectories": "Răsfoiți folderele",
+    "browseFiles": "Răsfoiți fișierele",
+    "downloadDesigns": "Descărcați design-urile",
+    "moveToNewCase": "Mutați într-un caz nou",
+    "newCase": "Caz nou",
+    "sendToFunnel": "Trimiteți în Funnel"
+  },
+  "caseInspector": {
+    "caseInformation": "Informații caz"
+  },
+  "details": {
+    "case": "Caz",
+    "caseInformation": "Informații caz"
+  },
+  "duplicate": {
+    "multipleUpperOrLower": {
+      "message": "Au fost detectate mai multe scanări maxilare sau mandibulare",
+      "title": "Scanări duplicate"
+    }
+  },
+  "error": {
+    "basedModel": {
+      "message": "Modelul încărcat are deja soclu. Încărcați o scanare brută pentru a genera un model cu soclu.",
+      "title": "Modelul are deja soclu."
+    },
+    "emptyFolder": "A fost detectat un folder gol",
+    "emptyMesh": {
+      "message": "Datele de geometrie ale scanării nu au fost găsite",
+      "title": "Scanare goală"
+    },
+    "failedToProcessCases_one": "Procesarea a {{count}} caz a eșuat",
+    "failedToProcessCases_other": "Procesarea a {{count}} cazuri a eșuat",
+    "missingUpperAndLower": {
+      "message": "Numele scanărilor nu respectă o convenție recunoscută. Actualizați numele fișierelor sau creați o nouă convenție de denumire. <a>Aflați mai multe</a>",
+      "title": "Scanările nu pot fi recunoscute"
+    },
+    "missingUpperOrLower": {
+      "message": "Cazului îi lipsește o scanare mandibulară sau maxilară",
+      "title": "Scanare lipsă"
+    },
+    "noScansDetected": "Nu au fost detectate fișiere de scanare",
+    "resolutionLowered": {
+      "message": "O scanare de înaltă rezoluție a fost simplificată la 400.000 de vârfuri pentru a îmbunătăți performanța procesării.",
+      "title": "Rezoluție redusă"
+    },
+    "unsupportedFileStructure": "Structură de fișiere neacceptată"
+  },
+  "files": {
+    "cases": "cases-{{time}}.zip",
+    "designs": "designs-{{time}}.zip"
+  },
+  "filters": {
+    "all": "Toate",
+    "designed": "Proiectate",
+    "downloaded": "Descărcate",
+    "issues": "Probleme",
+    "rejected": "Respinse"
+  },
+  "issues": {
+    "modelBasing": {
+      "basingError": {
+        "message": "Nu se poate genera modelul cu soclu.\n<a>Aflați mai multe</a> despre această eroare.",
+        "status": "Nu se poate genera modelul cu soclu"
+      },
+      "hollowingError": {
+        "message": "Generarea modelului gol pe interior a eșuat.\n<a>Aflați mai multe</a> despre această eroare.",
+        "status": "Generarea modelului gol pe interior a eșuat"
+      },
+      "occlusalPlaneError": {
+        "message": "Nu se poate calcula planul ocluzal.\n<a>Aflați mai multe</a> despre această eroare.",
+        "status": "Nu se poate calcula planul ocluzal"
+      },
+      "pillarGenerationError": {
+        "message": "Generarea atașamentelor a eșuat.\n<a>Aflați mai multe</a> despre această eroare.",
+        "status": "Generarea atașamentelor a eșuat"
+      },
+      "preprocessingError": {
+        "message": "Preprocesarea scanărilor a eșuat.\n<a>Aflați mai multe</a> despre această eroare.",
+        "status": "Nu se pot preprocesa scanările"
+      },
+      "retry": {
+        "asSolid": "Reîncercați design-ul ca model solid? <a>Reîncercați</a>",
+        "withoutAttachments": "Reîncercați design-ul fără atașamente? <a>Reîncercați</a>"
+      },
+      "textGenerationError": {
+        "message": "Nu se poate adăuga eticheta text pe model.\n<a>Aflați mai multe</a> despre această eroare.",
+        "status": "Generarea etichetei complete a eșuat"
+      },
+      "textGenerationWarning": {
+        "message": "Nu se poate adăuga eticheta text completă pe model. Cel mai probabil, spațiul liber este insuficient pentru lungimea textului.\n<a>Aflați mai multe</a> despre această eroare.",
+        "status": "Generarea etichetei complete a eșuat"
+      },
+      "toothSegmentationError": {
+        "message": "Nu se pot clasifica dinții.\n<a>Aflați mai multe</a> despre această eroare.",
+        "status": "Nu se pot clasifica dinții"
+      },
+      "ventGenerationError": {
+        "message": "Generarea orificiilor de drenaj a eșuat.\n<a>Aflați mai multe</a> despre această eroare.",
+        "status": "Generarea orificiilor de drenaj a eșuat"
+      }
+    }
+  },
+  "label": {
+    "addingCases": "Se adaugă cazurile...",
+    "addingCases_amount": "Se adaugă cazurile... ({{amount}}/{{total}})",
+    "caseInformation": "Informații caz",
+    "caseName": "Nume caz",
+    "casesAdded": "Cazuri adăugate! ({{amount}}/{{total}})",
+    "deleteDesign": "Ștergeți design-ul",
+    "designedModel": "Proiectat",
+    "dontRemindMe": "Nu-mi mai reamintiți",
+    "downloadCases": "Descărcați cazurile",
+    "downloadScans": "Descărcați scanările",
+    "dropFile": "Adăugați fișierul la caz",
+    "enterCaseName": "Introduceți numele cazului",
+    "enterNewCaseName": "Introduceți un nume nou pentru caz",
+    "estimatedTime": "Timp estimat",
+    "failedToMarkAsRejected_one": "Marcarea cazului ca respins a eșuat",
+    "failedToMarkAsRejected_other": "Marcarea a {{count}} cazuri ca respinse a eșuat",
+    "markingCasesAsRejected_one": "Se marchează cazul ca respins",
+    "markingCasesAsRejected_other": "Se marchează {{count}} cazuri ca respinse",
+    "rejectedBy": "Respins de",
+    "renameDesign": "Redenumiți design-ul",
+    "scan": "Scanare",
+    "scanUploadCancelled": "{{scanName}} (anulat)",
+    "search": "Căutare",
+    "selectDownloadOption": "selectați opțiunea de descărcare",
+    "sendingToFunnel": "Se trimite în Funnel",
+    "template": "Șablon",
+    "uploadComplete": "Încărcare finalizată",
+    "uploadedAt": "Încărcat la",
+    "uploadedBy": "Încărcat de",
+    "uploading": "Se încarcă"
+  },
+  "message": {
+    "basedModelsUploaded": "Se pare că unul sau mai multe dintre fișierele dvs. sunt deja modele cu soclu. Încărcați scanări brute pentru a genera modele cu soclu.\n\n<a>Anunțați-ne</a> dacă vă așteptați să puteți utiliza modele cu soclu sau dacă aveți alt feedback.",
+    "downloadRejectedDesigns_one": "Din contul dvs. se vor debita {{cost}} credite.",
+    "downloadRejectedDesigns_other": "Selecția dvs. conține {{count}} cazuri care au fost respinse anterior.\n\nDin contul dvs. se vor debita {{cost}} credite.",
+    "downloadRejectedInsufficientCredits_one": "Design-urile respinse nu pot fi descărcate din cauza creditelor insuficiente.\n\nContactați administratorul sau proprietarul organizației pentru a reîncărca creditele.",
+    "downloadRejectedInsufficientCredits_other": "Selecția dvs. conține {{count}} cazuri care au fost respinse anterior.\n\nPentru a descărca aceste design-uri respinse, contactați administratorul sau proprietarul organizației pentru a reîncărca creditele.",
+    "downloadRejectedInsufficientCreditsAdmin_one": "Design-urile respinse nu pot fi descărcate din cauza creditelor insuficiente.\n\nPentru a descărca aceste design-uri respinse, reîncărcați creditele contului dvs.",
+    "downloadRejectedInsufficientCreditsAdmin_other": "Selecția dvs. conține {{count}} cazuri care au fost respinse anterior.\n\nPentru a descărca aceste design-uri respinse, reîncărcați creditele contului dvs.",
+    "draggedCase_zero": "{{name}}",
+    "draggedCase_one": "<shrink>{{name}}</shrink> <span>și încă {{count}}</span>",
+    "draggedCase_other": "<shrink>{{name}}</shrink> <span>și încă {{count}}</span>",
+    "emptyFolderHelp": "Nu au fost detectate fișiere în folderul selectat. Verificați conținutul și încercați din nou.",
+    "markCasesAsRejected": "Design-urile respinse nu pot fi descărcate. Toate creditele rezervate pentru acest design vor fi rambursate.",
+    "noCases": "Nu au fost găsite cazuri",
+    "noScans": "Acest caz nu are scanări.",
+    "noScansDetectedHelp": "Nu au fost detectate fișiere în format STL sau PLY în folderul selectat.",
+    "processingCases_one": "Se procesează cazul",
+    "processingCases_other": "Se procesează {{count}} cazuri",
+    "quitUploadWarning": "Design-urile pentru cazurile selectate nu vor fi procesate.",
+    "rejectedReason": "Spuneți-ne de ce ați respins acest design:",
+    "sortCasesByIssues": "Cazurile sunt rearanjate în listă astfel încât cele cu probleme să apară primele.",
+    "unsupportedFileStructureHelp": "Sunt acceptate numai fișiere STL sau PLY."
+  },
+  "scans": {
+    "combined": "Combinat",
+    "lower": "Mandibular",
+    "unspecified": "Nespecificat",
+    "upper": "Maxilar"
+  },
+  "status": {
+    "complete": "Design finalizat",
+    "downloaded": "Descărcat",
+    "failed": "Eșuat",
+    "insufficientCredits": "Credite insuficiente",
+    "pendingUpload": "Se încarcă",
+    "processing": "Se procesează",
+    "rejected": "Respins",
+    "toProcess": "De procesat",
+    "unknown": "Stare necunoscută",
+    "uploaded": "Încărcat"
+  },
+  "table": {
+    "emptyState": {
+      "all": {
+        "header": "Nu a fost creat încă niciun design",
+        "paragraph": "Cazurile de design vor apărea aici după încărcarea scanărilor\nPentru a începe, selectați butonul Creare"
+      },
+      "designed": {
+        "header": "Nu a fost creat încă niciun design",
+        "paragraph": "Cazurile de design vor apărea aici după încărcarea scanărilor\nPentru a începe, selectați butonul Creare"
+      },
+      "downloaded": {
+        "header": "Niciun design descărcat",
+        "paragraph": "Design-urile descărcate vor apărea aici"
+      },
+      "issues": {
+        "header": "Niciun design cu probleme",
+        "paragraph": "Design-urile care au probleme vor apărea aici"
+      },
+      "processing": {
+        "header": "Niciun design în curs de procesare",
+        "paragraph": "Design-urile procesate vor apărea aici"
+      },
+      "rejected": {
+        "header": "Niciun design respins",
+        "paragraph": "Design-urile respinse vor apărea aici"
+      }
+    }
+  },
+  "text": {
+    "permanentlyRemoveCase_one": "Acest caz va fi eliminat definitiv din sistem.",
+    "permanentlyRemoveCase_other": "{{count}} cazuri vor fi eliminate definitiv din sistem."
+  },
+  "title": {
+    "caseID": "ID caz",
+    "caseName": "Nume caz",
+    "caseNumber": "Număr caz",
+    "cases": "Cazuri",
+    "completeWithIssues": "Finalizat cu probleme",
+    "designs": "Design-uri",
+    "downloadRejectedDesigns": "Descărcați design-urile respinse?",
+    "failed": "Eșuat",
+    "name": "Nume",
+    "newCase": "Caz nou",
+    "quitUploadWarning": "Renunțați la design-uri?",
+    "received": "Primit",
+    "rejectDesign": "Respingeți design-ul?",
+    "scanType": "Tip scanare",
+    "sortCasesByIssues": "Sortați cazurile după probleme",
+    "status": "Stare",
+    "untitled": "Fără titlu",
+    "uploadRawScans": "Încărcați scanări brute",
+    "uploads": "Încărcări"
+  },
+  "toast": {
+    "allCasesNotReadyToDownload": "Cazurile selectate nu sunt pregătite pentru descărcare",
+    "caseUpdated": "Cazul a fost actualizat cu succes",
+    "failedToDownloadCase": "Descărcarea cazului {{caseName}} a eșuat",
+    "failedToGenerateZip": "Generarea fișierului zip a eșuat",
+    "failedToLoadCase_one": "Încărcarea cazului a eșuat",
+    "failedToLoadCase_other": "Încărcarea a {{count}} cazuri a eșuat",
+    "failedToLoadCaseRanOutOfSpace_one": "Încărcarea cazului a eșuat, browserul a rămas fără spațiu",
+    "failedToLoadCaseRanOutOfSpace_other": "Încărcarea a {{count}} cazuri a eșuat, browserul a rămas fără spațiu",
+    "nameUpdateFailed": "Actualizarea numelui a eșuat",
+    "processingUpload": "Se procesează cazul pentru descărcare",
+    "processingUploads": "Se procesează {{amount}}/{{total}} cazuri pentru descărcare",
+    "scanResolutionLowered_one": "O scanare de înaltă rezoluție a fost simplificată la 400.000 de vârfuri pentru a îmbunătăți performanța procesării",
+    "scanResolutionLowered_other": "{{count}} scanări de înaltă rezoluție au fost simplificate la 400.000 de vârfuri pentru a îmbunătăți performanța procesării",
+    "someCasesNotReadyToDownload": "Unele dintre cazurile selectate nu sunt pregătite pentru descărcare",
+    "statusUpdatedToDownloaded": "Cazul {{caseName}} a fost mutat din proiectate în descărcate",
+    "statusUpdateFailed": "Schimbarea stării cazului în descărcat a eșuat",
+    "unableToDownloadCases_one": "Cazul nu poate fi descărcat",
+    "unableToDownloadCases_other": "Nu se pot descărca {{count}} cazuri",
+    "unableToDownloadDesigns_one": "Design-ul nu poate fi descărcat",
+    "unableToDownloadDesigns_other": "Nu se pot descărca {{count}} design-uri",
+    "unableToDownloadFiles": "Fișierele nu pot fi descărcate"
+  },
+  "uploadModal": {
+    "multipleScans": {
+      "message": "Acest caz conține mai multe scanări care ar putea fi utilizate. Vor fi utilizate cele mai recente scanări maxilare și/sau mandibulare.",
+      "title": "Scanări multiple"
+    },
+    "text": {
+      "designTemplate": "Șablon de design",
+      "dragAndDrop": "Trageți și plasați fișiere sau foldere care conțin scanări intraorale PLY sau STL",
+      "hoverDragAndDrop": "Plasați folderele de cazuri sau scanările intraorale pentru a crea design-uri",
+      "or": "sau",
+      "processUploads": "Procesare",
+      "scansHaveIssues_one": "{{count}} caz are probleme",
+      "scansHaveIssues_other": "{{count}} cazuri au probleme",
+      "title": "Încărcați scanări"
+    }
+  },
+  "uploadScans": {
+    "lower": "Inferior",
+    "unknown": "Necunoscut",
+    "upper": "Superior"
+  }
+}

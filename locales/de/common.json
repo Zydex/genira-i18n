@@ -1,0 +1,154 @@
+{
+  "alt": {
+    "logo": "Genira Modellsockelung",
+    "noSearchResults": "Keine Suchergebnisse"
+  },
+  "button": {
+    "accept": "Akzeptieren",
+    "acceptAll": "Alle akzeptieren",
+    "add": "Hinzufügen",
+    "cancel": "Abbrechen",
+    "close": "Schließen",
+    "continue": "Weiter",
+    "delete": "Löschen",
+    "deny": "Ablehnen",
+    "discard": "Verwerfen",
+    "download": "Herunterladen",
+    "edit": "Bearbeiten",
+    "essentialOnly": "Nur notwendige",
+    "invite": "Einladen",
+    "logout": "Abmelden",
+    "ok": "OK",
+    "process": "Verarbeiten",
+    "refresh": "Aktualisieren",
+    "reject": "Ablehnen",
+    "rejectAll": "Alle ablehnen",
+    "remove": "Entfernen",
+    "rename": "Umbenennen",
+    "retry": "Erneut versuchen",
+    "save": "Speichern",
+    "showLess": "Weniger anzeigen",
+    "showMore": "Mehr anzeigen",
+    "topUp": "Aufladen",
+    "undo": "Rückgängig",
+    "update": "Aktualisieren",
+    "uploadCancelled": "Upload abgebrochen"
+  },
+  "dialog": {
+    "no": "Nein",
+    "yes": "Ja"
+  },
+  "displayError": {
+    "button": "Support kontaktieren",
+    "message": "Überprüfen Sie Ihre Verbindung und laden Sie die Webseite neu.\nWenden Sie sich an den Support, wenn das Problem weiterhin besteht."
+  },
+  "error": {
+    "emptyModelFile_one": "{{count}} hochgeladener Scan enthält keine lesbaren Daten",
+    "emptyModelFile_other": "{{count}} hochgeladene Scans enthalten keine lesbaren Daten",
+    "failedDeletion_one": "{{count}} Fall konnte nicht gelöscht werden",
+    "failedDeletion_other": "{{count}} Fälle konnten nicht gelöscht werden",
+    "failedToLoadScan": "Scandaten konnten nicht gelesen werden. Bitte überprüfen Sie die hochgeladene Datei",
+    "notAuthorized": "Sie sind nicht berechtigt, diese Aktion auszuführen",
+    "unableToLoad": "Laden nicht möglich.",
+    "unspecified": "Ein unbekannter Fehler ist aufgetreten",
+    "userConflict": "Benutzer existiert bereits.",
+    "userConflict_details": "Ein Benutzer mit der E-Mail-Adresse {{details}} existiert bereits in Ihrer oder einer anderen Organisation. Verwenden Sie eine andere E-Mail-Adresse.",
+    "userConflictAnotherOrg_details": "Die E-Mail-Adresse {{details}} ist bereits einer anderen Organisation zugeordnet. Verwenden Sie eine andere E-Mail-Adresse oder bitten Sie den Benutzer, seine bisherige Organisation zu verlassen.",
+    "userConflictWithinOrg_details": "Ein Benutzer mit der E-Mail-Adresse {{details}} existiert bereits in Ihrer Organisation.",
+    "userNotFound": "Benutzer nicht gefunden.",
+    "userNotFound_details": "Benutzer mit der E-Mail-Adresse {{details}} wurde nicht gefunden."
+  },
+  "label": {
+    "cancelUploadModalButtonSecondary": "Uploads fortsetzen",
+    "cancelUploadsModalButtonPrimary": "Uploads abbrechen",
+    "cancelUploadsModalTitle": "Verbleibende Uploads abbrechen?",
+    "deletingCases_one": "{{count}} Fall wird gelöscht",
+    "deletingCases_other": "{{count}} Fälle werden gelöscht",
+    "dropFile": "Datei zum Fall hinzufügen",
+    "itemSelected_one": "1 Element ausgewählt",
+    "itemSelected_other": "{{count}} Elemente ausgewählt",
+    "language": "Sprache",
+    "locale": "Gebietsschema",
+    "logo": "Logo",
+    "none": "Keine",
+    "openDrawer": "Seitenleiste öffnen",
+    "preparingDownload": "Download wird vorbereitet",
+    "rejectModal": "Ausgewählte Scans werden für den Fall nicht mehr berücksichtigt.",
+    "settingsTab": "Registerkarte Einstellungen",
+    "tabs": "Registerkarten",
+    "users": "Benutzer"
+  },
+  "links": {
+    "create": "Erstellen",
+    "designs": "Designs",
+    "manage": "Verwalten",
+    "underConstruction": "Im Aufbau"
+  },
+  "loading": {
+    "loading": "Wird geladen",
+    "unavailable": "Nicht verfügbar"
+  },
+  "message": {
+    "acceptAiUsagePolicy": "Ich akzeptiere die <a>Richtlinie zur KI-Datennutzung</a>",
+    "acceptPrivacyPolicy": "Ich akzeptiere die <a>Datenschutzrichtlinie</a>",
+    "acceptTermsOfService": "Ich akzeptiere die <a>Nutzungsbedingungen</a>",
+    "betaTest": "Sie nutzen die Beta-Version – während dieser frühen Phase erhalten Sie 100 Credits (100 Fälle) kostenlos.",
+    "contactOrgOwner": "Bitte wenden Sie sich an den Inhaber Ihrer Organisation, damit dieser die Bedingungen im Namen Ihrer Organisation akzeptiert.",
+    "contactOrgOwnerRefresh": "Sobald der Inhaber Ihrer Organisation zugestimmt hat, laden Sie diese Seite neu, um fortzufahren.",
+    "cookiePolicy": "Wir verwenden Cookies, um Ihr Nutzungserlebnis zu verbessern. Weitere Informationen finden Sie in unserer <cookie>Cookie-Richtlinie</cookie> und unserer <privacy>Datenschutzerklärung</privacy>.",
+    "cookiePreferencesAllowed": "Sie haben alle Cookies zugelassen, einschließlich Analyse- und Support-Cookies.",
+    "cookiePreferencesDenied": "Sie verwenden nur unbedingt erforderliche Cookies.",
+    "insufficientCredits": "Wenden Sie sich an den Administrator oder Inhaber der Organisation, um Credits aufzuladen.",
+    "insufficientCreditsAdmin": "Laden Sie Credits auf, um Designs zu verarbeiten.",
+    "insufficientCreditsAdminLong": "Einige Designs können aufgrund unzureichender Credits nicht verarbeitet werden.\n\nWählen Sie nach dem Aufladen die mit „Zu verarbeiten“ markierten Fälle aus und klicken Sie auf „Verarbeiten“, um Designs zu erstellen.",
+    "insufficientCreditsLong": "Einige Designs können aufgrund unzureichender Credits nicht verarbeitet werden. Wenden Sie sich an den Administrator oder Inhaber der Organisation, um Credits aufzuladen.\n\nWählen Sie nach dem Aufladen die mit „Zu verarbeiten“ markierten Fälle aus und klicken Sie auf „Verarbeiten“, um Designs zu erstellen.",
+    "noConnection": "Verbindung nicht möglich, neuer Versuch in {{time}}",
+    "noMatches": "Leider wurden keine Treffer gefunden",
+    "noMatchesHelp": "Überprüfen Sie die Schreibweise oder verwenden Sie allgemeinere Begriffe\nAlternativ können Sie die Tabellenfilter verwenden",
+    "reconnecting": "Verbindung wird wiederhergestellt...",
+    "reviewAndAgreeToOrgPolicies": "Bevor Sie fortfahren, muss Ihre Organisation die folgenden Richtlinien prüfen und akzeptieren.",
+    "reviewAndAgreeToPolicies": "Bevor Sie fortfahren, müssen Sie die <terms>Nutzungsbedingungen</terms> und die <privacy>Datenschutzrichtlinie</privacy> prüfen und akzeptieren."
+  },
+  "notFoundPage": {
+    "message_narrow": "Überprüfen Sie die Seitenadresse auf Tippfehler oder verwenden Sie das Navigationsmenü oben links",
+    "message_wide": "Überprüfen Sie die Seitenadresse auf Tippfehler oder verwenden Sie die Navigationsschaltflächen links",
+    "title": "Diese Seite wurde nicht gefunden"
+  },
+  "table": {
+    "emptyState": {
+      "noMatches": {
+        "header": "Leider wurden keine Treffer gefunden",
+        "paragraph": "Überprüfen Sie die Schreibweise oder verwenden Sie allgemeinere Begriffe\nAlternativ können Sie die Tabellenfilter verwenden"
+      }
+    },
+    "expandRow": "Zeile erweitern",
+    "pageAmount": "Anzahl",
+    "perPage": "Pro Seite"
+  },
+  "title": {
+    "aiUsagePolicy": "Richtlinie zur KI-Datennutzung",
+    "cookiePolicy": "Cookie-Richtlinie",
+    "help": "Hilfe anzeigen",
+    "insufficientCredits": "Unzureichende Credits",
+    "language": "Sprache",
+    "manage": "Verwalten",
+    "manageSubscription": "Abonnement verwalten",
+    "name": "Anzeigename",
+    "orgConsent": "Zustimmung der Organisation",
+    "photo": "Foto",
+    "privacy": "Datenschutz",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "profile": "Profil",
+    "settings": "Einstellungen",
+    "termsAndPolicy": "Nutzungsbedingungen und Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen",
+    "uploads": "Uploads"
+  },
+  "underConstruction": {
+    "subtitle1": "Wir arbeiten an etwas Besonderem",
+    "subtitle2": "Schauen Sie später wieder vorbei"
+  },
+  "units": {
+    "millimetres": "{{value}} mm"
+  }
+}

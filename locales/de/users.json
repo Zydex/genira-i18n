@@ -1,0 +1,61 @@
+{
+  "alt": {
+    "addUsers": "Benutzer hinzufügen",
+    "profile": "Benutzerprofil"
+  },
+  "button": {
+    "add": "Benutzer hinzufügen",
+    "changePassword": "Passwort ändern",
+    "changeRole": "Rolle ändern",
+    "deleteProfile": "Profil löschen",
+    "remove": "Benutzer entfernen",
+    "restoreAccess": "Zugriff wiederherstellen",
+    "uploadPhoto": "Foto hochladen"
+  },
+  "label": {
+    "enterEmails": "E-Mail-Adressen eingeben, durch Kommas getrennt",
+    "search": "Nach einem Benutzer suchen",
+    "users": "Benutzer"
+  },
+  "message": {
+    "addUsers": "Geben Sie unten E-Mail-Adressen ein, um Benutzer zu dieser Organisation einzuladen.",
+    "changePassword": "Es wird eine E-Mail mit einem Link zum Ändern des Passworts gesendet.",
+    "changePassword_email": "Es wird eine E-Mail mit einem Link zum Ändern des Passworts an {{email}} gesendet.",
+    "changeRole": "Rolle aktualisieren:",
+    "changeRole_user": "Rolle von {{user}} aktualisieren:",
+    "confirmDelAccounts_one": "Dieser Benutzer hat keinen Zugriff mehr auf diese Organisation.",
+    "confirmDelAccounts_other": "Diese Benutzer haben keinen Zugriff mehr auf diese Organisation.",
+    "confirmDelAccounts_org_one": "Dieser Benutzer hat keinen Zugriff mehr auf {{org}}.",
+    "confirmDelAccounts_org_other": "Diese Benutzer haben keinen Zugriff mehr auf {{org}}.",
+    "deleteProfile": "Ihr Profil wird dauerhaft aus Ihrer Organisation entfernt.",
+    "deleteProfile_org": "Ihr Profil wird dauerhaft aus {{org}} entfernt.",
+    "linkSent": "Link gesendet",
+    "loginLoadError": "Fehler beim Laden der Anmeldung. Bitte versuchen Sie es später erneut.",
+    "profilePicture": "So erkennen andere Sie leichter, und Sie sehen, dass Sie beim richtigen Konto angemeldet sind.",
+    "userPageInfo": "Auf dieser Seite werden die Benutzer Ihrer Organisation angezeigt"
+  },
+  "role": {
+    "admin": "Administrator",
+    "owner": "Inhaber",
+    "user": "Benutzer"
+  },
+  "title": {
+    "changePassword": "Passwort ändern",
+    "changeRole": "Rolle ändern",
+    "changeRole_user": "Rolle von {{user}} aktualisieren:",
+    "confirmDeleteProfile": "Löschen des Profils bestätigen",
+    "deleteProfile": "Profil löschen",
+    "displayName": "Anzeigename",
+    "edit": "Bearbeiten",
+    "email": "E-Mail",
+    "invite": "Benutzer einladen",
+    "name": "Name",
+    "photo": "Foto",
+    "profile": "Profil",
+    "remove_one": "Benutzer entfernen?",
+    "remove_other": "Benutzer entfernen?",
+    "restoreAccess": "Zugriff für Benutzer wiederherstellen?",
+    "role": "Rolle",
+    "usersName": "Name des Benutzers"
+  }
+}

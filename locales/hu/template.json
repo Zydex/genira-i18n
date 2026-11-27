@@ -1,0 +1,82 @@
+{
+  "alt": {
+    "modelIcon": "Modell"
+  },
+  "button": {
+    "save": "Mentés",
+    "update": "Frissítés"
+  },
+  "error": {
+    "failedDeletion_one": "{{count}} sablon törlése nem sikerült",
+    "failedDeletion_other": "{{count}} sablon törlése nem sikerült"
+  },
+  "label": {
+    "affixText": "Felirat",
+    "createdBy": "Létrehozta",
+    "createdOn": "Létrehozás dátuma",
+    "default": "Alapértelmezett",
+    "designPart": "Tervrész",
+    "drainHoles": "Leeresztő furatok",
+    "gingivalTrimDistance": "Vágási távolság",
+    "gingivalTrimming": "Ínyvágás",
+    "hollowModel": "Üreges modell",
+    "modelAttachmentTypes": "Rögzítőelemek",
+    "modelType": "Modelltípus",
+    "name": "Sablon neve",
+    "newTemplate": "Új sablon",
+    "search": "Sablon keresése",
+    "studyModel": "Tanulmányi modell",
+    "textStyle": "Szövegstílus"
+  },
+  "message": {
+    "affixTextHelp": "Tegye könnyen azonosíthatóvá az alkatrészeket azzal, hogy szöveget ad a generált tervekhez.\n\nAz eset neve rákerül a modellekre.",
+    "attachmentHelp": "A rögzítőelemek a fizikai modellek harapási helyzetének megtartására szolgálnak.\n\nCsak olyan esetekhez készülnek, amelyek felső (maxilláris) és alsó (mandibuláris) szkennelést is tartalmaznak.",
+    "createATemplate": "Hozzon létre sablont a terveihez",
+    "deleteTemplate": "Ez a sablon a jövőbeli esetekhez már nem lesz elérhető.",
+    "deleteTemplate_one": "Ez a sablon a jövőbeli esetekhez már nem lesz elérhető.",
+    "deleteTemplate_other": "Ezek a sablonok a jövőbeli esetekhez már nem lesznek elérhetők.",
+    "deletingTemplates_one": "{{count}} sablon törlése",
+    "deletingTemplates_other": "{{count}} sablon törlése",
+    "drainHolesHelp": "A leeresztő furatok segítenek elkerülni a nyomtatási hibákat, mivel lehetővé teszik, hogy levegő jusson be a modell belsejébe, és a gyanta kifolyhasson onnan.\n\nÜreges modellek nyomtatásakor ez a beállítás kötelező; a furatok helyzetét a rendszer automatikusan határozza meg.",
+    "gingivalTrimDistanceHelp": "A fogszéltől levágandó célzott távolság milliméterben. Azokon a területeken, ahol a szkennelés ennél kevesebb ínyt tartalmaz, a vágás csak addig történik, ameddig a szkennelés lehetővé teszi.",
+    "gingivalTrimmingHelp": "Az ínyt a fogszéltől meghatározott távolságra visszavágja. Kapcsolja ki, ha az ínyt vágatlanul szeretné hagyni.",
+    "hollowModelHelp": "Engedélyezze ezt a beállítást üreges modellek létrehozásához.\n\nEzzel csökken a modell nyomtatásához felhasznált anyag mennyisége.",
+    "modelTypeHelp": "Válasszon patkó alakú vagy teljes szájpadlásos modellek közül.",
+    "noTemplates": "Nincsenek létrehozott sablonok",
+    "noTemplatesInfo": "Hozzon létre sablont, hogy a beállításokat új tervekhez is újra felhasználhassa",
+    "removeTemplate": "Biztosan eltávolítja ezt a sablont?",
+    "renameTemplate": "Már létezik ilyen nevű sablon. A folytatáshoz nevezze át a sablont.",
+    "templateNameHelp": "Adjon emlékezetes nevet a mentett beállításainak, hogy könnyen azonosíthassa őket.\n\nEz a név jelenik meg a tervsablonok legördülő listájában.",
+    "textStyleHelp": "A gravírozás belevágja a szöveget a modellbe.\n\nA dombornyomás kiemeli a szöveget a modellből."
+  },
+  "options": {
+    "modelAttachmentTypes": {
+      "hingedArticulator": "Csuklós artikulátor",
+      "none": "Nincs",
+      "pillars": "Oszlopok"
+    },
+    "modelType": {
+      "fullPalate": "Teljes szájpadlás",
+      "horseShoe": "Patkó"
+    },
+    "textStyle": {
+      "embossed": "Domború",
+      "engraved": "Gravírozott",
+      "none": "Nincs"
+    }
+  },
+  "placeholder": {
+    "templateName": "A sablon nevének megadása kötelező"
+  },
+  "text": {
+    "addTemplate": "Sablon hozzáadása",
+    "editTemplate": "Sablon szerkesztése"
+  },
+  "title": {
+    "deleteTemplate": "Törli a sablont?",
+    "removeTemplate": "Sablon eltávolítása",
+    "renameTemplate": "Sablon átnevezése",
+    "templateName": "Sablon neve",
+    "templates": "Sablonok"
+  }
+}

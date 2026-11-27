@@ -1,0 +1,154 @@
+{
+  "alt": {
+    "logo": "Genira Model Basing",
+    "noSearchResults": "Nincs találat"
+  },
+  "button": {
+    "accept": "Elfogadás",
+    "acceptAll": "Összes elfogadása",
+    "add": "Hozzáadás",
+    "cancel": "Mégse",
+    "close": "Bezárás",
+    "continue": "Folytatás",
+    "delete": "Törlés",
+    "deny": "Elutasítás",
+    "discard": "Elvetés",
+    "download": "Letöltés",
+    "edit": "Szerkesztés",
+    "essentialOnly": "Csak a szükségesek",
+    "invite": "Meghívás",
+    "logout": "Kijelentkezés",
+    "ok": "OK",
+    "process": "Feldolgozás",
+    "refresh": "Frissítés",
+    "reject": "Elutasítás",
+    "rejectAll": "Összes elutasítása",
+    "remove": "Eltávolítás",
+    "rename": "Átnevezés",
+    "retry": "Újrapróbálás",
+    "save": "Mentés",
+    "showLess": "Kevesebb megjelenítése",
+    "showMore": "Több megjelenítése",
+    "topUp": "Feltöltés",
+    "undo": "Visszavonás",
+    "update": "Frissítés",
+    "uploadCancelled": "Feltöltés megszakítva"
+  },
+  "dialog": {
+    "no": "Nem",
+    "yes": "Igen"
+  },
+  "displayError": {
+    "button": "Kapcsolatfelvétel az ügyfélszolgálattal",
+    "message": "Ellenőrizze a kapcsolatot, és próbálja meg frissíteni a weboldalt.\nHa a probléma továbbra is fennáll, forduljon az ügyfélszolgálathoz."
+  },
+  "error": {
+    "emptyModelFile_one": "{{count}} feltöltött szkennelés nem tartalmaz olvasható adatot",
+    "emptyModelFile_other": "{{count}} feltöltött szkennelés nem tartalmaz olvasható adatot",
+    "failedDeletion_one": "{{count}} eset törlése sikertelen",
+    "failedDeletion_other": "{{count}} eset törlése sikertelen",
+    "failedToLoadScan": "A szkennelési adatok beolvasása sikertelen, ellenőrizze a feltöltött fájlt",
+    "notAuthorized": "Nincs jogosultsága a művelet végrehajtásához",
+    "unableToLoad": "Nem sikerült betölteni.",
+    "unspecified": "Ismeretlen hiba történt",
+    "userConflict": "A felhasználó már létezik.",
+    "userConflict_details": "A(z) {{details}} e-mail-címmel rendelkező felhasználó már létezik az Ön szervezetében vagy egy másik szervezetben. Adjon meg másik e-mail-címet.",
+    "userConflictAnotherOrg_details": "A(z) {{details}} e-mail-cím már egy másik szervezethez van társítva. Adjon meg másik e-mail-címet, vagy kérje meg a felhasználót, hogy lépjen ki korábbi szervezetéből.",
+    "userConflictWithinOrg_details": "A(z) {{details}} e-mail-címmel rendelkező felhasználó már létezik az Ön szervezetében.",
+    "userNotFound": "A felhasználó nem található.",
+    "userNotFound_details": "A(z) {{details}} e-mail-címmel rendelkező felhasználó nem található."
+  },
+  "label": {
+    "cancelUploadModalButtonSecondary": "Feltöltések folytatása",
+    "cancelUploadsModalButtonPrimary": "Feltöltések megszakítása",
+    "cancelUploadsModalTitle": "Megszakítja a hátralévő feltöltéseket?",
+    "deletingCases_one": "{{count}} eset törlése",
+    "deletingCases_other": "{{count}} eset törlése",
+    "dropFile": "Fájl hozzáadása az esethez",
+    "itemSelected_one": "1 elem kiválasztva",
+    "itemSelected_other": "{{count}} elem kiválasztva",
+    "language": "Nyelv",
+    "locale": "Területi beállítás",
+    "logo": "Logó",
+    "none": "Nincs",
+    "openDrawer": "Oldalsáv megnyitása",
+    "preparingDownload": "Letöltés előkészítése",
+    "rejectModal": "A kiválasztott szkenneléseket a rendszer a továbbiakban nem veszi figyelembe az esethez.",
+    "settingsTab": "Beállítások lap",
+    "tabs": "Lapok",
+    "users": "Felhasználók"
+  },
+  "links": {
+    "create": "Létrehozás",
+    "designs": "Tervek",
+    "manage": "Kezelés",
+    "underConstruction": "Fejlesztés alatt"
+  },
+  "loading": {
+    "loading": "Betöltés",
+    "unavailable": "Nem elérhető"
+  },
+  "message": {
+    "acceptAiUsagePolicy": "Elfogadom az <a>Adatok MI-felhasználására vonatkozó szabályzatot</a>",
+    "acceptPrivacyPolicy": "Elfogadom az <a>Adatvédelmi szabályzatot</a>",
+    "acceptTermsOfService": "Elfogadom a <a>Szolgáltatási feltételeket</a>",
+    "betaTest": "Ön a béta verziót használja – a korai kiadási időszak alatt 100 kreditet (100 esetet) ingyenesen használhat.",
+    "contactOrgOwner": "Kérjük, forduljon a szervezete tulajdonosához, hogy elfogadja a feltételeket a szervezet nevében.",
+    "contactOrgOwnerRefresh": "Miután a szervezete tulajdonosa elfogadta a feltételeket, a folytatáshoz frissítse ezt az oldalt.",
+    "cookiePolicy": "Cookie-kat használunk a böngészési élmény javítása érdekében. További információért tekintse meg <cookie>Cookie-szabályzatunkat</cookie> és <privacy>Adatvédelmi nyilatkozatunkat</privacy>.",
+    "cookiePreferencesAllowed": "Ön engedélyezte az összes cookie-t, beleértve az analitikai és támogatási cookie-kat is.",
+    "cookiePreferencesDenied": "Ön csak a feltétlenül szükséges cookie-kat használja.",
+    "insufficientCredits": "A kreditek feltöltéséhez forduljon a szervezet adminisztrátorához vagy tulajdonosához.",
+    "insufficientCreditsAdmin": "A tervek feldolgozásához töltsön fel krediteket.",
+    "insufficientCreditsAdminLong": "Néhány terv nem dolgozható fel elegendő kredit hiányában.\n\nA feltöltés után jelölje ki a „Feldolgozandó” állapotú eseteket, és kattintson a „Feldolgozás” gombra a tervek létrehozásához.",
+    "insufficientCreditsLong": "Néhány terv nem dolgozható fel elegendő kredit hiányában. A kreditek feltöltéséhez forduljon a szervezet adminisztrátorához vagy tulajdonosához.\n\nA feltöltés után jelölje ki a „Feldolgozandó” állapotú eseteket, és kattintson a „Feldolgozás” gombra a tervek létrehozásához.",
+    "noConnection": "Nem sikerült csatlakozni, újrapróbálkozás {{time}} múlva",
+    "noMatches": "Sajnáljuk, nincs találat",
+    "noMatchesHelp": "Ellenőrizze az elírásokat, vagy próbáljon általánosabb kifejezéseket\nMásik lehetőségként használja a táblázat szűrőit",
+    "reconnecting": "Újracsatlakozás...",
+    "reviewAndAgreeToOrgPolicies": "A folytatás előtt szervezetének át kell tekintenie és el kell fogadnia az alábbi szabályzatokat.",
+    "reviewAndAgreeToPolicies": "A folytatás előtt át kell tekintenie és el kell fogadnia a <terms>Szolgáltatási feltételeket</terms> és az <privacy>Adatvédelmi szabályzatot</privacy>."
+  },
+  "notFoundPage": {
+    "message_narrow": "Ellenőrizze, hogy nincs-e elírás az oldal címében, vagy használja a bal felső sarokban található navigációs menüt",
+    "message_wide": "Ellenőrizze, hogy nincs-e elírás az oldal címében, vagy használja a bal oldali navigációs gombokat",
+    "title": "Nem találjuk ezt az oldalt"
+  },
+  "table": {
+    "emptyState": {
+      "noMatches": {
+        "header": "Sajnáljuk, nincs találat",
+        "paragraph": "Ellenőrizze az elírásokat, vagy próbáljon általánosabb kifejezéseket\nMásik lehetőségként használja a táblázat szűrőit"
+      }
+    },
+    "expandRow": "Sor kibontása",
+    "pageAmount": "Mennyiség",
+    "perPage": "Oldalanként"
+  },
+  "title": {
+    "aiUsagePolicy": "Adatok MI-felhasználására vonatkozó szabályzat",
+    "cookiePolicy": "Cookie-szabályzat",
+    "help": "Súgó megtekintése",
+    "insufficientCredits": "Nincs elegendő kredit",
+    "language": "Nyelv",
+    "manage": "Kezelés",
+    "manageSubscription": "Előfizetés kezelése",
+    "name": "Megjelenített név",
+    "orgConsent": "Szervezeti hozzájárulás",
+    "photo": "Fénykép",
+    "privacy": "Adatvédelem",
+    "privacyPolicy": "Adatvédelmi szabályzat",
+    "profile": "Profil",
+    "settings": "Beállítások",
+    "termsAndPolicy": "Szolgáltatási feltételek és adatvédelmi szabályzat",
+    "termsOfService": "Szolgáltatási feltételek",
+    "uploads": "Feltöltések"
+  },
+  "underConstruction": {
+    "subtitle1": "Valami különlegeset készítünk",
+    "subtitle2": "Nézzen vissza később"
+  },
+  "units": {
+    "millimetres": "{{value}} mm"
+  }
+}

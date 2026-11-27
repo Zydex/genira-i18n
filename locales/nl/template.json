@@ -1,0 +1,82 @@
+{
+  "alt": {
+    "modelIcon": "Model"
+  },
+  "button": {
+    "save": "Opslaan",
+    "update": "Bijwerken"
+  },
+  "error": {
+    "failedDeletion_one": "Verwijderen van {{count}} sjabloon mislukt",
+    "failedDeletion_other": "Verwijderen van {{count}} sjablonen mislukt"
+  },
+  "label": {
+    "affixText": "Tekst aanbrengen",
+    "createdBy": "Gemaakt door",
+    "createdOn": "Gemaakt op",
+    "default": "Standaard",
+    "designPart": "Ontwerponderdeel",
+    "drainHoles": "Drainagegaten",
+    "gingivalTrimDistance": "Trimafstand",
+    "gingivalTrimming": "Gingiva trimmen",
+    "hollowModel": "Hol model",
+    "modelAttachmentTypes": "Verbindingselementen",
+    "modelType": "Modeltype",
+    "name": "Sjabloonnaam",
+    "newTemplate": "Nieuw sjabloon",
+    "search": "Zoeken naar een sjabloon",
+    "studyModel": "Studiemodel",
+    "textStyle": "Tekststijl"
+  },
+  "message": {
+    "affixTextHelp": "Maak onderdelen gemakkelijk herkenbaar door tekst toe te voegen aan gegenereerde ontwerpen.\n\nDe casusnaam wordt aan de modellen toegevoegd.",
+    "attachmentHelp": "Verbindingselementen worden gebruikt om de beetpositie van fysieke modellen te behouden.\n\nZe worden alleen gegenereerd voor casussen met een scan van de bovenkaak (maxillair) en de onderkaak (mandibulair).",
+    "createATemplate": "Maak een sjabloon voor uw ontwerpen",
+    "deleteTemplate": "Dit sjabloon is niet meer beschikbaar voor toekomstige casussen.",
+    "deleteTemplate_one": "Dit sjabloon is niet meer beschikbaar voor toekomstige casussen.",
+    "deleteTemplate_other": "Deze sjablonen zijn niet meer beschikbaar voor toekomstige casussen.",
+    "deletingTemplates_one": "{{count}} sjabloon wordt verwijderd",
+    "deletingTemplates_other": "{{count}} sjablonen worden verwijderd",
+    "drainHolesHelp": "Drainagegaten helpen printfouten te voorkomen doordat lucht kan binnenkomen en hars uit het model kan ontsnappen.\n\nDeze instelling is verplicht bij het printen van holle modellen; de posities van de gaten worden automatisch bepaald.",
+    "gingivalTrimDistanceHelp": "Doelafstand in millimeters die vanaf de tandrand wordt getrimd. Gebieden waar de scan minder gingiva bevat dan deze afstand, worden slechts zo ver getrimd als de scan toelaat.",
+    "gingivalTrimmingHelp": "Trimt de gingiva over een ingestelde afstand terug vanaf de tandrand. Schakel deze optie uit om de gingiva ongetrimd te laten.",
+    "hollowModelHelp": "Schakel deze optie in om uitgeholde modellen te maken.\n\nHierdoor wordt minder materiaal verbruikt bij het printen van het model.",
+    "modelTypeHelp": "Kies tussen hoefijzermodellen en modellen met volledig palatum.",
+    "noTemplates": "Geen sjablonen gemaakt",
+    "noTemplatesInfo": "Maak een sjabloon om instellingen opnieuw te gebruiken voor nieuwe ontwerpen",
+    "removeTemplate": "Weet u zeker dat u dit sjabloon wilt verwijderen?",
+    "renameTemplate": "Er bestaat al een sjabloon met deze naam. Wijzig de naam van het sjabloon om door te gaan.",
+    "templateNameHelp": "Herken uw opgeslagen instellingen gemakkelijk door ze een goed herkenbare naam te geven.\n\nDeze naam wordt weergegeven in de vervolgkeuzelijst met ontwerpsjablonen.",
+    "textStyleHelp": "Graveren snijdt de tekst in het model.\n\nReliëf laat de tekst uit het model steken."
+  },
+  "options": {
+    "modelAttachmentTypes": {
+      "hingedArticulator": "Scharnierarticulator",
+      "none": "Geen",
+      "pillars": "Pilaren"
+    },
+    "modelType": {
+      "fullPalate": "Volledig palatum",
+      "horseShoe": "Hoefijzer"
+    },
+    "textStyle": {
+      "embossed": "In reliëf",
+      "engraved": "Gegraveerd",
+      "none": "Geen"
+    }
+  },
+  "placeholder": {
+    "templateName": "Sjabloonnaam is verplicht"
+  },
+  "text": {
+    "addTemplate": "Sjabloon toevoegen",
+    "editTemplate": "Sjabloon bewerken"
+  },
+  "title": {
+    "deleteTemplate": "Sjabloon verwijderen?",
+    "removeTemplate": "Sjabloon verwijderen",
+    "renameTemplate": "Naam van sjabloon wijzigen",
+    "templateName": "Sjabloonnaam",
+    "templates": "Sjablonen"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "alt": {
+    "logo": "Genira Model Basing",
+    "noSearchResults": "No hay resultados de búsqueda"
+  },
+  "button": {
+    "accept": "Aceptar",
+    "acceptAll": "Aceptar todo",
+    "add": "Añadir",
+    "cancel": "Cancelar",
+    "close": "Cerrar",
+    "continue": "Continuar",
+    "delete": "Eliminar",
+    "deny": "Denegar",
+    "discard": "Descartar",
+    "download": "Descargar",
+    "edit": "Editar",
+    "essentialOnly": "Solo esenciales",
+    "invite": "Invitar",
+    "logout": "Cerrar sesión",
+    "ok": "Aceptar",
+    "process": "Procesar",
+    "refresh": "Actualizar",
+    "reject": "Rechazar",
+    "rejectAll": "Rechazar todo",
+    "remove": "Quitar",
+    "rename": "Cambiar nombre",
+    "retry": "Reintentar",
+    "save": "Guardar",
+    "showLess": "Mostrar menos",
+    "showMore": "Mostrar más",
+    "topUp": "Recargar",
+    "undo": "Deshacer",
+    "update": "Actualizar",
+    "uploadCancelled": "Carga cancelada"
+  },
+  "dialog": {
+    "no": "No",
+    "yes": "Sí"
+  },
+  "displayError": {
+    "button": "Contactar con soporte",
+    "message": "Compruebe la conexión e intente actualizar la página web.\nContacte con soporte si el problema persiste."
+  },
+  "error": {
+    "emptyModelFile_one": "{{count}} escaneo cargado no contiene datos legibles",
+    "emptyModelFile_other": "{{count}} escaneos cargados no contienen datos legibles",
+    "failedDeletion_one": "No se pudo eliminar {{count}} caso",
+    "failedDeletion_other": "No se pudieron eliminar {{count}} casos",
+    "failedToLoadScan": "No se pudieron leer los datos del escaneo; compruebe el archivo cargado",
+    "notAuthorized": "No está autorizado para realizar esta acción",
+    "unableToLoad": "No se puede cargar.",
+    "unspecified": "Se ha producido un error desconocido",
+    "userConflict": "El usuario ya existe.",
+    "userConflict_details": "Ya existe un usuario con el correo electrónico {{details}} en su organización o en otra organización. Utilice un correo electrónico alternativo.",
+    "userConflictAnotherOrg_details": "El correo electrónico {{details}} ya está asociado a otra organización. Utilice un correo electrónico alternativo o solicite al usuario que se dé de baja de su organización anterior.",
+    "userConflictWithinOrg_details": "Ya existe un usuario con el correo electrónico {{details}} en su organización.",
+    "userNotFound": "Usuario no encontrado.",
+    "userNotFound_details": "No se ha encontrado ningún usuario con el correo electrónico {{details}}."
+  },
+  "label": {
+    "cancelUploadModalButtonSecondary": "Continuar cargas",
+    "cancelUploadsModalButtonPrimary": "Cancelar cargas",
+    "cancelUploadsModalTitle": "¿Cancelar las cargas restantes?",
+    "deletingCases_one": "Eliminando {{count}} caso",
+    "deletingCases_other": "Eliminando {{count}} casos",
+    "dropFile": "Añadir archivo al caso",
+    "itemSelected_one": "1 elemento seleccionado",
+    "itemSelected_other": "{{count}} elementos seleccionados",
+    "language": "Idioma",
+    "locale": "Configuración regional",
+    "logo": "Logotipo",
+    "none": "Ninguno",
+    "openDrawer": "Abrir panel",
+    "preparingDownload": "Preparando descarga",
+    "rejectModal": "Los escaneos seleccionados ya no se tendrán en cuenta para el caso.",
+    "settingsTab": "Pestaña de configuración",
+    "tabs": "Pestañas",
+    "users": "Usuarios"
+  },
+  "links": {
+    "create": "Crear",
+    "designs": "Diseños",
+    "manage": "Gestionar",
+    "underConstruction": "En construcción"
+  },
+  "loading": {
+    "loading": "Cargando",
+    "unavailable": "No disponible"
+  },
+  "message": {
+    "acceptAiUsagePolicy": "Acepto la <a>Política de uso de datos para IA</a>",
+    "acceptPrivacyPolicy": "Acepto la <a>Política de privacidad</a>",
+    "acceptTermsOfService": "Acepto las <a>Condiciones del servicio</a>",
+    "betaTest": "Está utilizando la versión beta: disfrute de 100 créditos (100 casos) gratis durante este periodo de lanzamiento anticipado.",
+    "contactOrgOwner": "Contacte con el propietario de su organización para que acepte las condiciones en nombre de su organización.",
+    "contactOrgOwnerRefresh": "Una vez que el propietario de su organización las haya aceptado, actualice esta página para continuar.",
+    "cookiePolicy": "Utilizamos cookies para mejorar su experiencia de navegación. Para obtener más información, consulte nuestra <cookie>Política de cookies</cookie> y nuestra <privacy>Declaración de privacidad</privacy>.",
+    "cookiePreferencesAllowed": "Ha permitido todas las cookies, incluidas las de análisis y soporte.",
+    "cookiePreferencesDenied": "Solo está utilizando cookies estrictamente necesarias.",
+    "insufficientCredits": "Contacte con el administrador o el propietario de la organización para recargar créditos.",
+    "insufficientCreditsAdmin": "Recargue créditos para procesar diseños.",
+    "insufficientCreditsAdminLong": "Algunos diseños no se pueden procesar por falta de créditos.\n\nDespués de recargar, seleccione los casos marcados como «Por procesar» y haga clic en «Procesar» para generar los diseños.",
+    "insufficientCreditsLong": "Algunos diseños no se pueden procesar por falta de créditos. Contacte con el administrador o el propietario de la organización para recargar créditos.\n\nDespués de recargar, seleccione los casos marcados como «Por procesar» y haga clic en «Procesar» para generar los diseños.",
+    "noConnection": "No se puede conectar; reintentando en {{time}}",
+    "noMatches": "Lo sentimos, no se han encontrado coincidencias",
+    "noMatchesHelp": "Compruebe si hay errores tipográficos o pruebe con palabras más generales\nTambién puede utilizar los filtros de la tabla",
+    "reconnecting": "Reconectando...",
+    "reviewAndAgreeToOrgPolicies": "Antes de continuar, su organización debe revisar y aceptar las siguientes políticas.",
+    "reviewAndAgreeToPolicies": "Antes de continuar, debe revisar y aceptar las <terms>Condiciones del servicio</terms> y la <privacy>Política de privacidad</privacy>."
+  },
+  "notFoundPage": {
+    "message_narrow": "Compruebe si hay errores en la dirección de la página o utilice el menú de navegación de la parte superior izquierda",
+    "message_wide": "Compruebe si hay errores en la dirección de la página o utilice los botones de navegación de la izquierda",
+    "title": "No encontramos esa página"
+  },
+  "table": {
+    "emptyState": {
+      "noMatches": {
+        "header": "Lo sentimos, no se han encontrado coincidencias",
+        "paragraph": "Compruebe si hay errores tipográficos o pruebe con palabras más generales\nTambién puede utilizar los filtros de la tabla"
+      }
+    },
+    "expandRow": "Expandir fila",
+    "pageAmount": "Cantidad",
+    "perPage": "Por página"
+  },
+  "title": {
+    "aiUsagePolicy": "Política de uso de datos para IA",
+    "cookiePolicy": "Política de cookies",
+    "help": "Ver ayuda",
+    "insufficientCredits": "Créditos insuficientes",
+    "language": "Idioma",
+    "manage": "Gestionar",
+    "manageSubscription": "Gestionar suscripción",
+    "name": "Nombre visible",
+    "orgConsent": "Consentimiento de la organización",
+    "photo": "Foto",
+    "privacy": "Privacidad",
+    "privacyPolicy": "Política de privacidad",
+    "profile": "Perfil",
+    "settings": "Configuración",
+    "termsAndPolicy": "Condiciones del servicio y Política de privacidad",
+    "termsOfService": "Condiciones del servicio",
+    "uploads": "Cargas"
+  },
+  "underConstruction": {
+    "subtitle1": "Estamos creando algo especial",
+    "subtitle2": "Vuelva a consultar más tarde"
+  },
+  "units": {
+    "millimetres": "{{value}} mm"
+  }
+}

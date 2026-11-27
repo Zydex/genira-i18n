@@ -1,0 +1,278 @@
+{
+  "button": {
+    "addFolders": "Dodaj foldery",
+    "addScans": "Dodaj skany",
+    "browse": "Przeglądaj",
+    "browseDirectories": "Przeglądaj foldery",
+    "browseFiles": "Przeglądaj pliki",
+    "downloadDesigns": "Pobierz projekty",
+    "moveToNewCase": "Przenieś do nowego przypadku",
+    "newCase": "Nowy przypadek",
+    "sendToFunnel": "Wyślij do Funnel"
+  },
+  "caseInspector": {
+    "caseInformation": "Informacje o przypadku"
+  },
+  "details": {
+    "case": "Przypadek",
+    "caseInformation": "Informacje o przypadku"
+  },
+  "duplicate": {
+    "multipleUpperOrLower": {
+      "message": "Wykryto wiele skanów szczęki lub żuchwy",
+      "title": "Zduplikowane skany"
+    }
+  },
+  "error": {
+    "basedModel": {
+      "message": "Przesłany model ma już cokół. Prześlij surowy skan, aby wygenerować model z cokołem.",
+      "title": "Model ma już cokół."
+    },
+    "emptyFolder": "Wykryto pusty folder",
+    "emptyMesh": {
+      "message": "Nie można znaleźć danych geometrii skanu",
+      "title": "Pusty skan"
+    },
+    "failedToProcessCases_one": "Nie udało się przetworzyć {{count}} przypadku",
+    "failedToProcessCases_other": "Nie udało się przetworzyć przypadków: {{count}}",
+    "missingUpperAndLower": {
+      "message": "Nazwy skanów nie są zgodne z rozpoznawaną konwencją. Zmień nazwy plików lub utwórz nową konwencję nazewnictwa. <a>Dowiedz się więcej</a>",
+      "title": "Nie można rozpoznać skanów"
+    },
+    "missingUpperOrLower": {
+      "message": "W przypadku brakuje skanu żuchwy lub szczęki",
+      "title": "Brak skanu"
+    },
+    "noScansDetected": "Nie wykryto plików skanów",
+    "resolutionLowered": {
+      "message": "Skan o wysokiej rozdzielczości został uproszczony do 400 000 wierzchołków, aby poprawić wydajność przetwarzania.",
+      "title": "Obniżono rozdzielczość"
+    },
+    "unsupportedFileStructure": "Nieobsługiwana struktura plików"
+  },
+  "files": {
+    "cases": "cases-{{time}}.zip",
+    "designs": "designs-{{time}}.zip"
+  },
+  "filters": {
+    "all": "Wszystkie",
+    "designed": "Zaprojektowane",
+    "downloaded": "Pobrane",
+    "issues": "Problemy",
+    "rejected": "Odrzucone"
+  },
+  "issues": {
+    "modelBasing": {
+      "basingError": {
+        "message": "Nie można wygenerować modelu z cokołem.\n<a>Dowiedz się więcej</a> o tym błędzie.",
+        "status": "Nie można wygenerować modelu z cokołem"
+      },
+      "hollowingError": {
+        "message": "Nie udało się wygenerować wydrążonego modelu.\n<a>Dowiedz się więcej</a> o tym błędzie.",
+        "status": "Nie udało się wygenerować wydrążonego modelu"
+      },
+      "occlusalPlaneError": {
+        "message": "Nie można obliczyć płaszczyzny zgryzowej.\n<a>Dowiedz się więcej</a> o tym błędzie.",
+        "status": "Nie można obliczyć płaszczyzny zgryzowej"
+      },
+      "pillarGenerationError": {
+        "message": "Nie udało się wygenerować łączników.\n<a>Dowiedz się więcej</a> o tym błędzie.",
+        "status": "Nie udało się wygenerować łączników"
+      },
+      "preprocessingError": {
+        "message": "Nie udało się wstępnie przetworzyć skanów.\n<a>Dowiedz się więcej</a> o tym błędzie.",
+        "status": "Nie można wstępnie przetworzyć skanów"
+      },
+      "retry": {
+        "asSolid": "Ponowić projekt jako model pełny? <a>Ponów</a>",
+        "withoutAttachments": "Ponowić projekt bez łączników? <a>Ponów</a>"
+      },
+      "textGenerationError": {
+        "message": "Nie można dodać etykiety tekstowej do modelu.\n<a>Dowiedz się więcej</a> o tym błędzie.",
+        "status": "Nie udało się wygenerować całej etykiety"
+      },
+      "textGenerationWarning": {
+        "message": "Nie można dodać pełnej etykiety tekstowej do modelu. Prawdopodobnie brakuje wolnego miejsca dla tekstu o tej długości.\n<a>Dowiedz się więcej</a> o tym błędzie.",
+        "status": "Nie udało się wygenerować całej etykiety"
+      },
+      "toothSegmentationError": {
+        "message": "Nie można sklasyfikować zębów.\n<a>Dowiedz się więcej</a> o tym błędzie.",
+        "status": "Nie można sklasyfikować zębów"
+      },
+      "ventGenerationError": {
+        "message": "Nie udało się wygenerować otworów odpływowych.\n<a>Dowiedz się więcej</a> o tym błędzie.",
+        "status": "Nie udało się wygenerować otworów odpływowych"
+      }
+    }
+  },
+  "label": {
+    "addingCases": "Dodawanie przypadków...",
+    "addingCases_amount": "Dodawanie przypadków... ({{amount}}/{{total}})",
+    "caseInformation": "Informacje o przypadku",
+    "caseName": "Nazwa przypadku",
+    "casesAdded": "Przypadki dodane! ({{amount}}/{{total}})",
+    "deleteDesign": "Usuń projekt",
+    "designedModel": "Zaprojektowany",
+    "dontRemindMe": "Nie przypominaj mi ponownie",
+    "downloadCases": "Pobierz przypadki",
+    "downloadScans": "Pobierz skany",
+    "dropFile": "Dodaj plik do przypadku",
+    "enterCaseName": "Wprowadź nazwę przypadku",
+    "enterNewCaseName": "Wprowadź nową nazwę przypadku",
+    "estimatedTime": "Szacowany czas",
+    "failedToMarkAsRejected_one": "Nie udało się oznaczyć przypadku jako odrzuconego",
+    "failedToMarkAsRejected_other": "Nie udało się oznaczyć przypadków jako odrzuconych: {{count}}",
+    "markingCasesAsRejected_one": "Oznaczanie przypadku jako odrzuconego",
+    "markingCasesAsRejected_other": "Oznaczanie przypadków jako odrzuconych: {{count}}",
+    "rejectedBy": "Odrzucone przez",
+    "renameDesign": "Zmień nazwę projektu",
+    "scan": "Skan",
+    "scanUploadCancelled": "{{scanName}} (anulowano)",
+    "search": "Szukaj",
+    "selectDownloadOption": "wybierz opcję pobierania",
+    "sendingToFunnel": "Wysyłanie do Funnel",
+    "template": "Szablon",
+    "uploadComplete": "Przesyłanie zakończone",
+    "uploadedAt": "Data przesłania",
+    "uploadedBy": "Przesłane przez",
+    "uploading": "Przesyłanie"
+  },
+  "message": {
+    "basedModelsUploaded": "Wygląda na to, że co najmniej jeden z Twoich plików jest już modelem z cokołem. Prześlij surowe skany, aby wygenerować modele z cokołem.\n\n<a>Daj nam znać</a>, jeśli oczekiwałeś możliwości używania modeli z cokołem lub chcesz przekazać inną opinię.",
+    "downloadRejectedDesigns_one": "Z Twojego konta zostanie pobranych {{cost}} kredytów.",
+    "downloadRejectedDesigns_other": "Twój wybór zawiera przypadki, które zostały wcześniej odrzucone: {{count}}.\n\nZ Twojego konta zostanie pobranych {{cost}} kredytów.",
+    "downloadRejectedInsufficientCredits_one": "Nie można pobrać odrzuconych projektów z powodu niewystarczającej liczby kredytów.\n\nSkontaktuj się z administratorem lub właścicielem organizacji, aby doładować kredyty.",
+    "downloadRejectedInsufficientCredits_other": "Twój wybór zawiera przypadki, które zostały wcześniej odrzucone: {{count}}.\n\nAby pobrać te odrzucone projekty, skontaktuj się z administratorem lub właścicielem organizacji w celu doładowania kredytów.",
+    "downloadRejectedInsufficientCreditsAdmin_one": "Nie można pobrać odrzuconych projektów z powodu niewystarczającej liczby kredytów.\n\nAby pobrać te odrzucone projekty, doładuj kredyty na swoim koncie.",
+    "downloadRejectedInsufficientCreditsAdmin_other": "Twój wybór zawiera przypadki, które zostały wcześniej odrzucone: {{count}}.\n\nAby pobrać te odrzucone projekty, doładuj kredyty na swoim koncie.",
+    "draggedCase_zero": "{{name}}",
+    "draggedCase_one": "<shrink>{{name}}</shrink> <span>i {{count}} inny</span>",
+    "draggedCase_other": "<shrink>{{name}}</shrink> <span>i inne ({{count}})</span>",
+    "emptyFolderHelp": "W wybranym folderze nie wykryto żadnych plików. Sprawdź jego zawartość i spróbuj ponownie.",
+    "markCasesAsRejected": "Odrzuconych projektów nie można pobrać. Wszelkie kredyty zablokowane na ten projekt zostaną zwrócone.",
+    "noCases": "Nie znaleziono przypadków",
+    "noScans": "Ten przypadek nie zawiera skanów.",
+    "noScansDetectedHelp": "W wybranym folderze nie wykryto plików w formacie STL ani PLY.",
+    "processingCases_one": "Przetwarzanie przypadku",
+    "processingCases_other": "Przetwarzanie przypadków: {{count}}",
+    "quitUploadWarning": "Projekty dla wybranych przypadków nie zostaną przetworzone.",
+    "rejectedReason": "Daj nam znać, dlaczego odrzuciłeś ten projekt:",
+    "sortCasesByIssues": "Przypadki na liście zostały uporządkowane tak, aby przypadki z problemami były wyświetlane jako pierwsze.",
+    "unsupportedFileStructureHelp": "Akceptowane są wyłącznie pliki STL lub PLY."
+  },
+  "scans": {
+    "combined": "Połączone",
+    "lower": "Żuchwa",
+    "unspecified": "Nieokreślony",
+    "upper": "Szczęka"
+  },
+  "status": {
+    "complete": "Projekt ukończony",
+    "downloaded": "Pobrano",
+    "failed": "Niepowodzenie",
+    "insufficientCredits": "Niewystarczająca liczba kredytów",
+    "pendingUpload": "Przesyłanie",
+    "processing": "Przetwarzanie",
+    "rejected": "Odrzucono",
+    "toProcess": "Do przetworzenia",
+    "unknown": "Nieznany status",
+    "uploaded": "Przesłano"
+  },
+  "table": {
+    "emptyState": {
+      "all": {
+        "header": "Nie utworzono jeszcze żadnych projektów",
+        "paragraph": "Przypadki projektowe pojawią się tutaj po przesłaniu skanów\nAby rozpocząć, wybierz przycisk Utwórz"
+      },
+      "designed": {
+        "header": "Nie utworzono jeszcze żadnych projektów",
+        "paragraph": "Przypadki projektowe pojawią się tutaj po przesłaniu skanów\nAby rozpocząć, wybierz przycisk Utwórz"
+      },
+      "downloaded": {
+        "header": "Brak pobranych projektów",
+        "paragraph": "Pobrane projekty pojawią się tutaj"
+      },
+      "issues": {
+        "header": "Brak projektów z problemami",
+        "paragraph": "Projekty z problemami pojawią się tutaj"
+      },
+      "processing": {
+        "header": "Brak projektów w trakcie przetwarzania",
+        "paragraph": "Tutaj pojawią się projekty, które są przetwarzane"
+      },
+      "rejected": {
+        "header": "Brak odrzuconych projektów",
+        "paragraph": "Odrzucone projekty pojawią się tutaj"
+      }
+    }
+  },
+  "text": {
+    "permanentlyRemoveCase_one": "Ten przypadek zostanie trwale usunięty z systemu.",
+    "permanentlyRemoveCase_other": "Liczba przypadków, które zostaną trwale usunięte z systemu: {{count}}."
+  },
+  "title": {
+    "caseID": "ID przypadku",
+    "caseName": "Nazwa przypadku",
+    "caseNumber": "Numer przypadku",
+    "cases": "Przypadki",
+    "completeWithIssues": "Ukończono z problemami",
+    "designs": "Projekty",
+    "downloadRejectedDesigns": "Pobrać odrzucone projekty?",
+    "failed": "Niepowodzenie",
+    "name": "Nazwa",
+    "newCase": "Nowy przypadek",
+    "quitUploadWarning": "Porzucić projekty?",
+    "received": "Otrzymano",
+    "rejectDesign": "Odrzucić projekt?",
+    "scanType": "Typ skanu",
+    "sortCasesByIssues": "Sortuj przypadki według problemów",
+    "status": "Status",
+    "untitled": "Bez tytułu",
+    "uploadRawScans": "Prześlij surowe skany",
+    "uploads": "Przesłane"
+  },
+  "toast": {
+    "allCasesNotReadyToDownload": "Wybrane przypadki nie są gotowe do pobrania",
+    "caseUpdated": "Przypadek został zaktualizowany",
+    "failedToDownloadCase": "Nie udało się pobrać przypadku {{caseName}}",
+    "failedToGenerateZip": "Nie udało się wygenerować pliku ZIP",
+    "failedToLoadCase_one": "Nie udało się wczytać przypadku",
+    "failedToLoadCase_other": "Nie udało się wczytać przypadków: {{count}}",
+    "failedToLoadCaseRanOutOfSpace_one": "Nie udało się wczytać przypadku – w przeglądarce zabrakło miejsca",
+    "failedToLoadCaseRanOutOfSpace_other": "Nie udało się wczytać przypadków: {{count}} – w przeglądarce zabrakło miejsca",
+    "nameUpdateFailed": "Nie udało się zaktualizować nazwy",
+    "processingUpload": "Przetwarzanie przypadku do pobrania",
+    "processingUploads": "Przetwarzanie przypadków do pobrania: {{amount}}/{{total}}",
+    "scanResolutionLowered_one": "Skan o wysokiej rozdzielczości został uproszczony do 400 000 wierzchołków, aby poprawić wydajność przetwarzania",
+    "scanResolutionLowered_other": "Uproszczono skany o wysokiej rozdzielczości ({{count}}) do 400 000 wierzchołków, aby poprawić wydajność przetwarzania",
+    "someCasesNotReadyToDownload": "Niektóre z wybranych przypadków nie są gotowe do pobrania",
+    "statusUpdatedToDownloaded": "Przypadek {{caseName}} został przeniesiony z zaprojektowanych do pobranych",
+    "statusUpdateFailed": "Nie udało się zmienić statusu przypadku na pobrany",
+    "unableToDownloadCases_one": "Nie można pobrać przypadku",
+    "unableToDownloadCases_other": "Nie można pobrać przypadków: {{count}}",
+    "unableToDownloadDesigns_one": "Nie można pobrać projektu",
+    "unableToDownloadDesigns_other": "Nie można pobrać projektów: {{count}}",
+    "unableToDownloadFiles": "Nie można pobrać plików"
+  },
+  "uploadModal": {
+    "multipleScans": {
+      "message": "Ten przypadek zawiera wiele skanów, które mogą zostać użyte. Zostaną użyte najnowsze skany szczęki i/lub żuchwy.",
+      "title": "Wiele skanów"
+    },
+    "text": {
+      "designTemplate": "Szablon projektu",
+      "dragAndDrop": "Przeciągnij i upuść pliki lub foldery zawierające skany wewnątrzustne PLY lub STL",
+      "hoverDragAndDrop": "Upuść foldery przypadków lub skany wewnątrzustne, aby utworzyć projekty",
+      "or": "lub",
+      "processUploads": "Przetwórz",
+      "scansHaveIssues_one": "{{count}} przypadek ma problemy",
+      "scansHaveIssues_other": "Przypadki z problemami: {{count}}",
+      "title": "Prześlij skany"
+    }
+  },
+  "uploadScans": {
+    "lower": "Dolny",
+    "unknown": "Nieznany",
+    "upper": "Górny"
+  }
+}

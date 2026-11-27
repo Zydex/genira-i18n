@@ -1,0 +1,61 @@
+{
+  "alt": {
+    "addUsers": "Přidat uživatele",
+    "profile": "Profil uživatele"
+  },
+  "button": {
+    "add": "Přidat uživatele",
+    "changePassword": "Změnit heslo",
+    "changeRole": "Změnit roli",
+    "deleteProfile": "Smazat profil",
+    "remove": "Odebrat uživatele",
+    "restoreAccess": "Obnovit přístup",
+    "uploadPhoto": "Nahrát fotografii"
+  },
+  "label": {
+    "enterEmails": "Zadejte e-maily oddělené čárkou",
+    "search": "Vyhledat uživatele",
+    "users": "Uživatelé"
+  },
+  "message": {
+    "addUsers": "Zadejte níže e-maily a pozvěte uživatele do této organizace.",
+    "changePassword": "Bude odeslán e-mail s odkazem pro změnu hesla.",
+    "changePassword_email": "Na adresu {{email}} bude odeslán e-mail s odkazem pro změnu hesla.",
+    "changeRole": "Aktualizovat roli:",
+    "changeRole_user": "Aktualizovat roli uživatele {{user}}:",
+    "confirmDelAccounts_one": "Tento uživatel již nebude mít přístup k této organizaci.",
+    "confirmDelAccounts_other": "Tito uživatelé již nebudou mít přístup k této organizaci.",
+    "confirmDelAccounts_org_one": "Tento uživatel již nebude mít přístup k organizaci {{org}}.",
+    "confirmDelAccounts_org_other": "Tito uživatelé již nebudou mít přístup k organizaci {{org}}.",
+    "deleteProfile": "Váš profil bude trvale odebrán z vaší organizace.",
+    "deleteProfile_org": "Váš profil bude trvale odebrán z organizace {{org}}.",
+    "linkSent": "Odkaz byl odeslán",
+    "loginLoadError": "Chyba při načítání přihlášení. Zkuste to prosím později.",
+    "profilePicture": "Pomáhá ostatním vás poznat a vám ověřit, že jste přihlášeni ke správnému účtu.",
+    "userPageInfo": "Na této stránce jsou zobrazeni uživatelé vaší organizace"
+  },
+  "role": {
+    "admin": "Správce",
+    "owner": "Vlastník",
+    "user": "Uživatel"
+  },
+  "title": {
+    "changePassword": "Změnit heslo",
+    "changeRole": "Změnit roli",
+    "changeRole_user": "Aktualizovat roli uživatele {{user}}:",
+    "confirmDeleteProfile": "Potvrzení smazání profilu",
+    "deleteProfile": "Smazat profil",
+    "displayName": "Zobrazované jméno",
+    "edit": "Upravit",
+    "email": "E-mail",
+    "invite": "Pozvat uživatele",
+    "name": "Jméno",
+    "photo": "Fotografie",
+    "profile": "Profil",
+    "remove_one": "Odebrat uživatele?",
+    "remove_other": "Odebrat uživatele?",
+    "restoreAccess": "Obnovit přístup uživatele?",
+    "role": "Role",
+    "usersName": "Jméno uživatele"
+  }
+}

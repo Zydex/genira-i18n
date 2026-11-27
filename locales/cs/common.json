@@ -1,0 +1,154 @@
+{
+  "alt": {
+    "logo": "Genira soklování modelů",
+    "noSearchResults": "Žádné výsledky hledání"
+  },
+  "button": {
+    "accept": "Přijmout",
+    "acceptAll": "Přijmout vše",
+    "add": "Přidat",
+    "cancel": "Zrušit",
+    "close": "Zavřít",
+    "continue": "Pokračovat",
+    "delete": "Odstranit",
+    "deny": "Odmítnout",
+    "discard": "Zahodit",
+    "download": "Stáhnout",
+    "edit": "Upravit",
+    "essentialOnly": "Pouze nezbytné",
+    "invite": "Pozvat",
+    "logout": "Odhlásit se",
+    "ok": "OK",
+    "process": "Zpracovat",
+    "refresh": "Obnovit",
+    "reject": "Zamítnout",
+    "rejectAll": "Odmítnout vše",
+    "remove": "Odebrat",
+    "rename": "Přejmenovat",
+    "retry": "Zkusit znovu",
+    "save": "Uložit",
+    "showLess": "Zobrazit méně",
+    "showMore": "Zobrazit více",
+    "topUp": "Dobít",
+    "undo": "Zpět",
+    "update": "Aktualizovat",
+    "uploadCancelled": "Nahrávání zrušeno"
+  },
+  "dialog": {
+    "no": "Ne",
+    "yes": "Ano"
+  },
+  "displayError": {
+    "button": "Kontaktovat podporu",
+    "message": "Zkontrolujte připojení a zkuste webovou stránku obnovit.\nPokud problém přetrvává, kontaktujte podporu."
+  },
+  "error": {
+    "emptyModelFile_one": "{{count}} nahraný sken neobsahuje čitelná data",
+    "emptyModelFile_other": "Počet nahraných skenů bez čitelných dat: {{count}}",
+    "failedDeletion_one": "Nepodařilo se odstranit {{count}} případ",
+    "failedDeletion_other": "Počet případů, které se nepodařilo odstranit: {{count}}",
+    "failedToLoadScan": "Data skenu se nepodařilo načíst, zkontrolujte prosím nahraný soubor",
+    "notAuthorized": "K provedení této akce nemáte oprávnění",
+    "unableToLoad": "Nelze načíst.",
+    "unspecified": "Došlo k neznámé chybě",
+    "userConflict": "Uživatel již existuje.",
+    "userConflict_details": "Uživatel s e-mailem {{details}} již existuje ve vaší nebo v jiné organizaci. Použijte jiný e-mail.",
+    "userConflictAnotherOrg_details": "E-mail {{details}} je již přiřazen k jiné organizaci. Použijte jiný e-mail nebo požádejte uživatele, aby se odhlásil ze své předchozí organizace.",
+    "userConflictWithinOrg_details": "Uživatel s e-mailem {{details}} již ve vaší organizaci existuje.",
+    "userNotFound": "Uživatel nebyl nalezen.",
+    "userNotFound_details": "Uživatele s e-mailem {{details}} se nepodařilo najít."
+  },
+  "label": {
+    "cancelUploadModalButtonSecondary": "Pokračovat v nahrávání",
+    "cancelUploadsModalButtonPrimary": "Zrušit nahrávání",
+    "cancelUploadsModalTitle": "Zrušit zbývající nahrávání?",
+    "deletingCases_one": "Odstraňuje se {{count}} případ",
+    "deletingCases_other": "Odstraňování případů: {{count}}",
+    "dropFile": "Přidat soubor k případu",
+    "itemSelected_one": "Vybrána 1 položka",
+    "itemSelected_other": "Vybrané položky: {{count}}",
+    "language": "Jazyk",
+    "locale": "Národní prostředí",
+    "logo": "Logo",
+    "none": "Žádné",
+    "openDrawer": "Otevřít panel",
+    "preparingDownload": "Příprava stahování",
+    "rejectModal": "Vybrané skeny již nebudou pro případ zohledňovány.",
+    "settingsTab": "Karta Nastavení",
+    "tabs": "Karty",
+    "users": "Uživatelé"
+  },
+  "links": {
+    "create": "Vytvořit",
+    "designs": "Návrhy",
+    "manage": "Spravovat",
+    "underConstruction": "Ve výstavbě"
+  },
+  "loading": {
+    "loading": "Načítání",
+    "unavailable": "Nedostupné"
+  },
+  "message": {
+    "acceptAiUsagePolicy": "Souhlasím se <a>Zásadami používání dat pro AI</a>",
+    "acceptPrivacyPolicy": "Souhlasím se <a>Zásadami ochrany osobních údajů</a>",
+    "acceptTermsOfService": "Souhlasím s <a>Podmínkami služby</a>",
+    "betaTest": "Používáte beta verzi – během tohoto raného období získáte zdarma 100 kreditů (100 případů).",
+    "contactOrgOwner": "Kontaktujte prosím vlastníka vaší organizace, aby přijal podmínky jménem organizace.",
+    "contactOrgOwnerRefresh": "Jakmile vlastník vaší organizace podmínky přijme, obnovte tuto stránku a pokračujte.",
+    "cookiePolicy": "Používáme soubory cookie ke zlepšení vašeho prohlížení. Další informace naleznete v našich <cookie>Zásadách používání souborů cookie</cookie> a <privacy>Prohlášení o ochraně osobních údajů</privacy>.",
+    "cookiePreferencesAllowed": "Povolili jste všechny soubory cookie včetně analytických a podpůrných.",
+    "cookiePreferencesDenied": "Používáte pouze nezbytně nutné soubory cookie.",
+    "insufficientCredits": "Pro dobití kreditů kontaktujte administrátora nebo vlastníka organizace.",
+    "insufficientCreditsAdmin": "Dobijte kredity, abyste mohli zpracovat návrhy.",
+    "insufficientCreditsAdminLong": "Některé návrhy nelze zpracovat kvůli nedostatku kreditů.\n\nPo dobití vyberte případy označené „Ke zpracování“ a klikněte na „Zpracovat“ pro vygenerování návrhů.",
+    "insufficientCreditsLong": "Některé návrhy nelze zpracovat kvůli nedostatku kreditů. Pro dobití kreditů kontaktujte administrátora nebo vlastníka organizace.\n\nPo dobití vyberte případy označené „Ke zpracování“ a klikněte na „Zpracovat“ pro vygenerování návrhů.",
+    "noConnection": "Nelze se připojit, další pokus za {{time}}",
+    "noMatches": "Je nám líto, nebyly nalezeny žádné shody",
+    "noMatchesHelp": "Zkontrolujte překlepy nebo zkuste obecnější výrazy\nPřípadně zkuste použít filtry tabulky",
+    "reconnecting": "Obnovování připojení...",
+    "reviewAndAgreeToOrgPolicies": "Než budete pokračovat, musí vaše organizace zkontrolovat následující zásady a vyjádřit s nimi souhlas.",
+    "reviewAndAgreeToPolicies": "Než budete pokračovat, musíte si přečíst <terms>Podmínky služby</terms> a <privacy>Zásady ochrany osobních údajů</privacy> a vyjádřit s nimi souhlas."
+  },
+  "notFoundPage": {
+    "message_narrow": "Zkontrolujte adresu stránky, zda neobsahuje překlepy, nebo použijte navigační nabídku vlevo nahoře",
+    "message_wide": "Zkontrolujte adresu stránky, zda neobsahuje překlepy, nebo použijte navigační tlačítka vlevo",
+    "title": "Tuto stránku nemůžeme najít"
+  },
+  "table": {
+    "emptyState": {
+      "noMatches": {
+        "header": "Je nám líto, nebyly nalezeny žádné shody",
+        "paragraph": "Zkontrolujte překlepy nebo zkuste obecnější výrazy\nPřípadně zkuste použít filtry tabulky"
+      }
+    },
+    "expandRow": "Rozbalit řádek",
+    "pageAmount": "Počet",
+    "perPage": "Na stránku"
+  },
+  "title": {
+    "aiUsagePolicy": "Zásady používání dat pro AI",
+    "cookiePolicy": "Zásady používání souborů cookie",
+    "help": "Zobrazit nápovědu",
+    "insufficientCredits": "Nedostatek kreditů",
+    "language": "Jazyk",
+    "manage": "Spravovat",
+    "manageSubscription": "Spravovat předplatné",
+    "name": "Zobrazované jméno",
+    "orgConsent": "Souhlas organizace",
+    "photo": "Fotografie",
+    "privacy": "Ochrana soukromí",
+    "privacyPolicy": "Zásady ochrany osobních údajů",
+    "profile": "Profil",
+    "settings": "Nastavení",
+    "termsAndPolicy": "Podmínky služby a Zásady ochrany osobních údajů",
+    "termsOfService": "Podmínky služby",
+    "uploads": "Nahrávání"
+  },
+  "underConstruction": {
+    "subtitle1": "Připravujeme něco výjimečného",
+    "subtitle2": "Vraťte se později"
+  },
+  "units": {
+    "millimetres": "{{value}} mm"
+  }
+}

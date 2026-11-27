@@ -1,0 +1,40 @@
+{
+  "button": {
+    "purchase": "Comprar",
+    "purchaseCredits": "Comprar créditos"
+  },
+  "description": {
+    "bannerNoCredits": "Genere diseños automáticamente con solo hacer clic en un botón. Póngase en contacto con el administrador para comprar créditos.",
+    "creditBundles": "Seleccione uno de los paquetes siguientes para comprar más créditos.",
+    "credits": "Créditos",
+    "credits_one": "{{count}} crédito",
+    "credits_other": "{{count}} créditos",
+    "creditSpend": "Descargue una lista detallada para ver en qué ha gastado sus créditos.",
+    "enoughToProduce_one": "Suficiente para producir {{count}} caso",
+    "enoughToProduce_other": "Suficiente para producir {{count}} casos",
+    "manageBilling": "Vea las facturas y revise y actualice la tarjeta de pago.",
+    "noCredits": "Para seguir generando diseños, póngase en contacto con el administrador de su organización para comprar más créditos.",
+    "purchaseCredits": "Compre créditos adicionales para seguir generando diseños."
+  },
+  "file": {
+    "creditHistory": "{{org}}-credit-history-{{year}}"
+  },
+  "label": {
+    "currentYear": "{{year}} (año actual)"
+  },
+  "message": {
+    "downloadedCreditSpend": "Historial de créditos descargado",
+    "downloadingCreditSpend": "Descargando historial de créditos"
+  },
+  "title": {
+    "amount": "Cantidad",
+    "createdAt": "Fecha de creación",
+    "creditSpend": "Gasto de créditos",
+    "description": "Descripción",
+    "kind": "Tipo",
+    "manageCredits": "Gestionar créditos",
+    "noCredits": "No quedan créditos",
+    "organisation": "Organización",
+    "purchaseCreditBundles": "Comprar paquetes de créditos"
+  }
+}

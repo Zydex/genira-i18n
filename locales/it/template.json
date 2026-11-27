@@ -1,0 +1,82 @@
+{
+  "alt": {
+    "modelIcon": "Modello"
+  },
+  "button": {
+    "save": "Salva",
+    "update": "Aggiorna"
+  },
+  "error": {
+    "failedDeletion_one": "Impossibile eliminare {{count}} template",
+    "failedDeletion_other": "Impossibile eliminare {{count}} template"
+  },
+  "label": {
+    "affixText": "Testo da applicare",
+    "createdBy": "Creato da",
+    "createdOn": "Creato il",
+    "default": "Predefinito",
+    "designPart": "Parte del progetto",
+    "drainHoles": "Fori di drenaggio",
+    "gingivalTrimDistance": "Distanza di rifilatura",
+    "gingivalTrimming": "Rifilatura gengivale",
+    "hollowModel": "Modello cavo",
+    "modelAttachmentTypes": "Attacchi",
+    "modelType": "Tipo di modello",
+    "name": "Nome del template",
+    "newTemplate": "Nuovo template",
+    "search": "Cerca un template",
+    "studyModel": "Modello studio",
+    "textStyle": "Stile del testo"
+  },
+  "message": {
+    "affixTextHelp": "Rendere le parti facilmente identificabili aggiungendo del testo ai progetti generati.\n\nIl nome del caso verrà aggiunto ai modelli.",
+    "attachmentHelp": "Gli attacchi servono a mantenere la posizione occlusale nei modelli fisici.\n\nVengono generati solo per i casi che dispongono di una scansione superiore (mascellare) e inferiore (mandibolare).",
+    "createATemplate": "Creare un template per i propri progetti",
+    "deleteTemplate": "Questo template non sarà più disponibile per i casi futuri.",
+    "deleteTemplate_one": "Questo template non sarà più disponibile per i casi futuri.",
+    "deleteTemplate_other": "Questi template non saranno più disponibili per i casi futuri.",
+    "deletingTemplates_one": "Eliminazione di {{count}} template in corso",
+    "deletingTemplates_other": "Eliminazione di {{count}} template in corso",
+    "drainHolesHelp": "I fori di drenaggio aiutano a evitare errori di stampa consentendo all'aria di entrare e alla resina di fuoriuscire dall'interno del modello.\n\nQuesta impostazione è obbligatoria per la stampa di modelli cavi; la posizione dei fori viene determinata automaticamente.",
+    "gingivalTrimDistanceHelp": "Distanza target, in millimetri, da rifilare a partire dal margine dentale. Nelle aree in cui la scansione presenta meno gengiva di questo valore, la rifilatura si limita a quanto consentito dalla scansione.",
+    "gingivalTrimmingHelp": "Rifila la gengiva a partire dal margine dentale di una distanza prestabilita. Disattivare per lasciare la gengiva non rifilata.",
+    "hollowModelHelp": "Attivare questa opzione per creare modelli cavi.\n\nCiò riduce la quantità di materiale consumato durante la stampa del modello.",
+    "modelTypeHelp": "Scegliere tra modelli a ferro di cavallo o con palato completo.",
+    "noTemplates": "Nessun template creato",
+    "noTemplatesInfo": "Creare un template per riutilizzare le impostazioni nei nuovi progetti",
+    "removeTemplate": "Sicuro di voler rimuovere questo template?",
+    "renameTemplate": "Esiste già un template con questo nome. Rinominare il template per continuare.",
+    "templateNameHelp": "Identificare facilmente le impostazioni salvate assegnando loro un nome facile da ricordare.\n\nQuesto nome verrà visualizzato nel menu a discesa dei template di progettazione.",
+    "textStyleHelp": "Incisione: il testo viene inciso nel modello.\n\nRilievo: il testo viene estruso dal modello."
+  },
+  "options": {
+    "modelAttachmentTypes": {
+      "hingedArticulator": "Articolatore a cerniera",
+      "none": "Nessuno",
+      "pillars": "Pilastri"
+    },
+    "modelType": {
+      "fullPalate": "Palato completo",
+      "horseShoe": "Ferro di cavallo"
+    },
+    "textStyle": {
+      "embossed": "In rilievo",
+      "engraved": "Inciso",
+      "none": "Nessuno"
+    }
+  },
+  "placeholder": {
+    "templateName": "Il nome del template è obbligatorio"
+  },
+  "text": {
+    "addTemplate": "Aggiungi template",
+    "editTemplate": "Modifica template"
+  },
+  "title": {
+    "deleteTemplate": "Eliminare il template?",
+    "removeTemplate": "Rimuovi template",
+    "renameTemplate": "Rinomina template",
+    "templateName": "Nome del template",
+    "templates": "Template"
+  }
+}

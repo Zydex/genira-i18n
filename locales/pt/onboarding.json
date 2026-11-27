@@ -1,0 +1,32 @@
+{
+  "label": {
+    "country": "País",
+    "fullName": "Nome completo",
+    "organisationName": "Nome da organização",
+    "region": "Região de dados",
+    "regionDescription_long": "Selecione a região onde os dados da sua organização serão armazenados, processados e objeto de cópia de segurança. \n<bold>Esta escolha é permanente e não pode ser alterada após a configuração.</bold> Escolha a região mais próxima dos seus utilizadores para obter o melhor desempenho, ou aquela que corresponde aos seus requisitos regulamentares (p. ex., RGPD, HIPAA, leis de residência de dados).\n\nMudar de região requer a criação de uma nova organização e a migração manual.",
+    "regionDescription_short": "Selecione a região onde os dados da sua organização serão armazenados, processados e objeto de cópia de segurança.\n<bold>Esta escolha é permanente e não pode ser alterada após a configuração.</bold>",
+    "subtitle": "Gere automaticamente modelos 3D imprimíveis a partir de digitalizações intraorais",
+    "title": "Crie a sua conta Genira",
+    "website": "Website"
+  },
+  "message": {
+    "acceptAiUsagePolicy": "Aceito a <a>Política de Utilização de Dados por IA</a> da Genira",
+    "baaResendSuccess": "E-mail do BAA enviado. Verifique a sua caixa de entrada.",
+    "checkEmailTo": "Verifique o seu e-mail em:",
+    "emailResendSuccess": "E-mail enviado. Verifique a sua caixa de entrada.",
+    "emailVerified": "<bold>E-mail verificado com sucesso</bold>\nSerá redirecionado em breve...",
+    "hipaaBaa": "Será gerado um Acordo de Associado Comercial (BAA) HIPAA para a utilização da Genira nesta região.",
+    "redirecting": "Será redirecionado em breve...",
+    "regionError": "De momento, a Genira só é suportada na Austrália.",
+    "resendBaaError": "Não foi possível reenviar o e-mail do BAA. Tente novamente mais tarde.",
+    "resendEmail": "Reenviar e-mail de verificação",
+    "resendEmailError": "Não foi possível reenviar o e-mail de verificação. Tente novamente mais tarde.",
+    "resendLink": "Reenviar ligação",
+    "sendingBaaEmail": "A enviar o e-mail do BAA...",
+    "sendingEmail": "A enviar o e-mail de verificação...",
+    "signBaa": "Assine o Acordo de Associado Comercial",
+    "verifyEmail": "Verifique o seu endereço de e-mail para aceder à Genira.",
+    "verifyEmailAddress": "Verifique o seu endereço de e-mail"
+  }
+}

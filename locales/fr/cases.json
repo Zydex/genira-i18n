@@ -1,0 +1,278 @@
+{
+  "button": {
+    "addFolders": "Ajouter des dossiers",
+    "addScans": "Ajouter des scans",
+    "browse": "Parcourir",
+    "browseDirectories": "Parcourir les dossiers",
+    "browseFiles": "Parcourir les fichiers",
+    "downloadDesigns": "Télécharger les conceptions",
+    "moveToNewCase": "Déplacer vers un nouveau cas",
+    "newCase": "Nouveau cas",
+    "sendToFunnel": "Envoyer vers Funnel"
+  },
+  "caseInspector": {
+    "caseInformation": "Informations du cas"
+  },
+  "details": {
+    "case": "Cas",
+    "caseInformation": "Informations du cas"
+  },
+  "duplicate": {
+    "multipleUpperOrLower": {
+      "message": "Plusieurs scans maxillaires ou mandibulaires détectés",
+      "title": "Scans en double"
+    }
+  },
+  "error": {
+    "basedModel": {
+      "message": "Le modèle importé possède déjà un socle. Importez un scan brut pour générer un modèle avec socle.",
+      "title": "Le modèle possède déjà un socle."
+    },
+    "emptyFolder": "Dossier vide détecté",
+    "emptyMesh": {
+      "message": "Impossible de trouver les données géométriques du scan",
+      "title": "Scan vide"
+    },
+    "failedToProcessCases_one": "Échec du traitement de {{count}} cas",
+    "failedToProcessCases_other": "Échec du traitement de {{count}} cas",
+    "missingUpperAndLower": {
+      "message": "Les noms des scans ne respectent pas une convention reconnue. Modifiez les noms des fichiers ou créez une nouvelle convention de nommage. <a>En savoir plus</a>",
+      "title": "Impossible de reconnaître les scans"
+    },
+    "missingUpperOrLower": {
+      "message": "Il manque un scan mandibulaire ou maxillaire dans le cas",
+      "title": "Scan manquant"
+    },
+    "noScansDetected": "Aucun fichier de scan détecté",
+    "resolutionLowered": {
+      "message": "Un scan haute résolution a été simplifié à 400 000 sommets pour améliorer les performances de traitement.",
+      "title": "Résolution réduite"
+    },
+    "unsupportedFileStructure": "Structure de fichiers non prise en charge"
+  },
+  "files": {
+    "cases": "cases-{{time}}.zip",
+    "designs": "designs-{{time}}.zip"
+  },
+  "filters": {
+    "all": "Tous",
+    "designed": "Conçus",
+    "downloaded": "Téléchargés",
+    "issues": "Problèmes",
+    "rejected": "Rejetés"
+  },
+  "issues": {
+    "modelBasing": {
+      "basingError": {
+        "message": "Impossible de générer le modèle avec socle.\n<a>En savoir plus</a> sur cette erreur.",
+        "status": "Impossible de générer le modèle avec socle"
+      },
+      "hollowingError": {
+        "message": "Échec de la génération du modèle évidé.\n<a>En savoir plus</a> sur cette erreur.",
+        "status": "Échec de la génération du modèle évidé"
+      },
+      "occlusalPlaneError": {
+        "message": "Impossible de calculer le plan occlusal.\n<a>En savoir plus</a> sur cette erreur.",
+        "status": "Impossible de calculer le plan occlusal"
+      },
+      "pillarGenerationError": {
+        "message": "Échec de la génération des attaches.\n<a>En savoir plus</a> sur cette erreur.",
+        "status": "Échec de la génération des attaches"
+      },
+      "preprocessingError": {
+        "message": "Échec du prétraitement des scans.\n<a>En savoir plus</a> sur cette erreur.",
+        "status": "Impossible de prétraiter les scans"
+      },
+      "retry": {
+        "asSolid": "Relancer la conception en modèle plein ? <a>Réessayer</a>",
+        "withoutAttachments": "Relancer la conception sans attaches ? <a>Réessayer</a>"
+      },
+      "textGenerationError": {
+        "message": "Impossible d'ajouter l'étiquette de texte au modèle.\n<a>En savoir plus</a> sur cette erreur.",
+        "status": "Échec de la génération de l'étiquette complète"
+      },
+      "textGenerationWarning": {
+        "message": "Impossible d'ajouter l'étiquette de texte complète au modèle. Cela est probablement dû à un espace libre insuffisant pour la longueur du texte.\n<a>En savoir plus</a> sur cette erreur.",
+        "status": "Échec de la génération de l'étiquette complète"
+      },
+      "toothSegmentationError": {
+        "message": "Impossible de classifier les dents.\n<a>En savoir plus</a> sur cette erreur.",
+        "status": "Impossible de classifier les dents"
+      },
+      "ventGenerationError": {
+        "message": "Échec de la génération des trous de drainage.\n<a>En savoir plus</a> sur cette erreur.",
+        "status": "Échec de la génération des trous de drainage"
+      }
+    }
+  },
+  "label": {
+    "addingCases": "Ajout des cas...",
+    "addingCases_amount": "Ajout des cas... ({{amount}}/{{total}})",
+    "caseInformation": "Informations du cas",
+    "caseName": "Nom du cas",
+    "casesAdded": "Cas ajoutés ! ({{amount}}/{{total}})",
+    "deleteDesign": "Supprimer la conception",
+    "designedModel": "Conçu",
+    "dontRemindMe": "Ne plus me le rappeler",
+    "downloadCases": "Télécharger les cas",
+    "downloadScans": "Télécharger les scans",
+    "dropFile": "Ajouter le fichier au cas",
+    "enterCaseName": "Saisissez le nom du cas",
+    "enterNewCaseName": "Saisissez un nouveau nom pour le cas",
+    "estimatedTime": "Durée estimée",
+    "failedToMarkAsRejected_one": "Impossible de marquer le cas comme rejeté",
+    "failedToMarkAsRejected_other": "Impossible de marquer {{count}} cas comme rejetés",
+    "markingCasesAsRejected_one": "Marquage du cas comme rejeté",
+    "markingCasesAsRejected_other": "Marquage de {{count}} cas comme rejetés",
+    "rejectedBy": "Rejeté par",
+    "renameDesign": "Renommer la conception",
+    "scan": "Scan",
+    "scanUploadCancelled": "{{scanName}} (annulé)",
+    "search": "Rechercher",
+    "selectDownloadOption": "sélectionnez une option de téléchargement",
+    "sendingToFunnel": "Envoi vers Funnel",
+    "template": "Modèle de conception",
+    "uploadComplete": "Importation terminée",
+    "uploadedAt": "Importé le",
+    "uploadedBy": "Importé par",
+    "uploading": "Importation en cours"
+  },
+  "message": {
+    "basedModelsUploaded": "Il semble qu'un ou plusieurs de vos fichiers soient déjà des modèles avec socle. Importez des scans bruts pour générer des modèles avec socle.\n\n<a>Faites-nous savoir</a> si vous pensiez pouvoir utiliser des modèles avec socle, ou si vous avez d'autres commentaires à nous transmettre.",
+    "downloadRejectedDesigns_one": "Votre compte sera débité de {{cost}} crédits.",
+    "downloadRejectedDesigns_other": "Votre sélection contient {{count}} cas qui ont déjà été rejetés.\n\nVotre compte sera débité de {{cost}} crédits.",
+    "downloadRejectedInsufficientCredits_one": "Impossible de télécharger les conceptions rejetées en raison de crédits insuffisants.\n\nContactez l'administrateur ou le propriétaire de l'organisation pour recharger les crédits.",
+    "downloadRejectedInsufficientCredits_other": "Votre sélection contient {{count}} cas qui ont déjà été rejetés.\n\nPour télécharger ces conceptions rejetées, contactez l'administrateur ou le propriétaire de l'organisation pour recharger les crédits.",
+    "downloadRejectedInsufficientCreditsAdmin_one": "Impossible de télécharger les conceptions rejetées en raison de crédits insuffisants.\n\nPour télécharger ces conceptions rejetées, rechargez les crédits de votre compte.",
+    "downloadRejectedInsufficientCreditsAdmin_other": "Votre sélection contient {{count}} cas qui ont déjà été rejetés.\n\nPour télécharger ces conceptions rejetées, rechargez les crédits de votre compte.",
+    "draggedCase_zero": "{{name}}",
+    "draggedCase_one": "<shrink>{{name}}</shrink> <span>et {{count}} autre</span>",
+    "draggedCase_other": "<shrink>{{name}}</shrink> <span>et {{count}} autres</span>",
+    "emptyFolderHelp": "Aucun fichier n'a été détecté dans le dossier sélectionné. Vérifiez son contenu et réessayez.",
+    "markCasesAsRejected": "Les conceptions rejetées ne peuvent pas être téléchargées. Les crédits réservés pour cette conception seront remboursés.",
+    "noCases": "Aucun cas trouvé",
+    "noScans": "Ce cas ne contient aucun scan.",
+    "noScansDetectedHelp": "Aucun fichier au format STL ou PLY n'a été détecté dans le dossier sélectionné.",
+    "processingCases_one": "Traitement du cas",
+    "processingCases_other": "Traitement de {{count}} cas",
+    "quitUploadWarning": "Les conceptions des cas sélectionnés ne seront pas traitées.",
+    "rejectedReason": "Indiquez-nous pourquoi vous avez rejeté cette conception :",
+    "sortCasesByIssues": "Les cas sont réorganisés dans la liste afin d'afficher en premier ceux qui présentent des problèmes.",
+    "unsupportedFileStructureHelp": "Seuls les fichiers STL ou PLY sont acceptés."
+  },
+  "scans": {
+    "combined": "Combiné",
+    "lower": "Mandibulaire",
+    "unspecified": "Non spécifié",
+    "upper": "Maxillaire"
+  },
+  "status": {
+    "complete": "Conception terminée",
+    "downloaded": "Téléchargé",
+    "failed": "Échec",
+    "insufficientCredits": "Crédits insuffisants",
+    "pendingUpload": "Importation en cours",
+    "processing": "Traitement en cours",
+    "rejected": "Rejeté",
+    "toProcess": "À traiter",
+    "unknown": "Statut inconnu",
+    "uploaded": "Importé"
+  },
+  "table": {
+    "emptyState": {
+      "all": {
+        "header": "Aucune conception créée pour le moment",
+        "paragraph": "Les cas de conception apparaîtront ici une fois les scans importés\nPour commencer, sélectionnez le bouton Créer"
+      },
+      "designed": {
+        "header": "Aucune conception créée pour le moment",
+        "paragraph": "Les cas de conception apparaîtront ici une fois les scans importés\nPour commencer, sélectionnez le bouton Créer"
+      },
+      "downloaded": {
+        "header": "Aucune conception téléchargée",
+        "paragraph": "Les conceptions téléchargées apparaîtront ici"
+      },
+      "issues": {
+        "header": "Aucun problème de conception",
+        "paragraph": "Les conceptions présentant des problèmes apparaîtront ici"
+      },
+      "processing": {
+        "header": "Aucune conception en cours de traitement",
+        "paragraph": "Les conceptions traitées apparaîtront ici"
+      },
+      "rejected": {
+        "header": "Aucune conception rejetée",
+        "paragraph": "Les conceptions rejetées apparaîtront ici"
+      }
+    }
+  },
+  "text": {
+    "permanentlyRemoveCase_one": "Ce cas sera définitivement supprimé du système.",
+    "permanentlyRemoveCase_other": "{{count}} cas seront définitivement supprimés du système."
+  },
+  "title": {
+    "caseID": "ID du cas",
+    "caseName": "Nom du cas",
+    "caseNumber": "Numéro du cas",
+    "cases": "Cas",
+    "completeWithIssues": "Terminé avec des problèmes",
+    "designs": "Conceptions",
+    "downloadRejectedDesigns": "Télécharger les conceptions rejetées ?",
+    "failed": "Échec",
+    "name": "Nom",
+    "newCase": "Nouveau cas",
+    "quitUploadWarning": "Abandonner les conceptions ?",
+    "received": "Reçu",
+    "rejectDesign": "Rejeter la conception ?",
+    "scanType": "Type de scan",
+    "sortCasesByIssues": "Trier les cas par problèmes",
+    "status": "Statut",
+    "untitled": "Sans titre",
+    "uploadRawScans": "Importer des scans bruts",
+    "uploads": "Importations"
+  },
+  "toast": {
+    "allCasesNotReadyToDownload": "Les cas sélectionnés ne sont pas prêts à être téléchargés",
+    "caseUpdated": "Cas mis à jour avec succès",
+    "failedToDownloadCase": "Échec du téléchargement du cas {{caseName}}",
+    "failedToGenerateZip": "Échec de la génération du fichier zip",
+    "failedToLoadCase_one": "Échec du chargement du cas",
+    "failedToLoadCase_other": "Échec du chargement de {{count}} cas",
+    "failedToLoadCaseRanOutOfSpace_one": "Échec du chargement du cas, le navigateur manque d'espace",
+    "failedToLoadCaseRanOutOfSpace_other": "Échec du chargement de {{count}} cas, le navigateur manque d'espace",
+    "nameUpdateFailed": "Échec de la mise à jour du nom",
+    "processingUpload": "Préparation du cas pour le téléchargement",
+    "processingUploads": "Préparation de {{amount}}/{{total}} cas pour le téléchargement",
+    "scanResolutionLowered_one": "Un scan haute résolution a été simplifié à 400 000 sommets pour améliorer les performances de traitement",
+    "scanResolutionLowered_other": "{{count}} scans haute résolution ont été simplifiés à 400 000 sommets pour améliorer les performances de traitement",
+    "someCasesNotReadyToDownload": "Certains des cas sélectionnés ne sont pas prêts à être téléchargés",
+    "statusUpdatedToDownloaded": "Cas {{caseName}} déplacé de Conçus vers Téléchargés",
+    "statusUpdateFailed": "Échec du changement du statut du cas en Téléchargé",
+    "unableToDownloadCases_one": "Impossible de télécharger le cas",
+    "unableToDownloadCases_other": "Impossible de télécharger {{count}} cas",
+    "unableToDownloadDesigns_one": "Impossible de télécharger la conception",
+    "unableToDownloadDesigns_other": "Impossible de télécharger {{count}} conceptions",
+    "unableToDownloadFiles": "Impossible de télécharger les fichiers"
+  },
+  "uploadModal": {
+    "multipleScans": {
+      "message": "Ce cas contient plusieurs scans utilisables. Les scans les plus récents du maxillaire et/ou de la mandibule seront utilisés.",
+      "title": "Plusieurs scans"
+    },
+    "text": {
+      "designTemplate": "Modèle de conception",
+      "dragAndDrop": "Glissez-déposez des fichiers ou des dossiers contenant des scans intra-oraux PLY ou STL",
+      "hoverDragAndDrop": "Déposez des dossiers de cas ou des scans intra-oraux pour créer des conceptions",
+      "or": "ou",
+      "processUploads": "Traiter",
+      "scansHaveIssues_one": "{{count}} cas présente des problèmes",
+      "scansHaveIssues_other": "{{count}} cas présentent des problèmes",
+      "title": "Importer des scans"
+    }
+  },
+  "uploadScans": {
+    "lower": "Inférieur",
+    "unknown": "Inconnu",
+    "upper": "Supérieur"
+  }
+}

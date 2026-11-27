@@ -1,0 +1,278 @@
+{
+  "button": {
+    "addFolders": "Přidat složky",
+    "addScans": "Přidat skeny",
+    "browse": "Procházet",
+    "browseDirectories": "Procházet složky",
+    "browseFiles": "Procházet soubory",
+    "downloadDesigns": "Stáhnout návrhy",
+    "moveToNewCase": "Přesunout do nového případu",
+    "newCase": "Nový případ",
+    "sendToFunnel": "Odeslat do Funnel"
+  },
+  "caseInspector": {
+    "caseInformation": "Informace o případu"
+  },
+  "details": {
+    "case": "Případ",
+    "caseInformation": "Informace o případu"
+  },
+  "duplicate": {
+    "multipleUpperOrLower": {
+      "message": "Bylo zjištěno více skenů horní nebo dolní čelisti",
+      "title": "Duplicitní skeny"
+    }
+  },
+  "error": {
+    "basedModel": {
+      "message": "Nahraný model již má sokl. Nahrajte surový sken pro vygenerování modelu se soklem.",
+      "title": "Model již má sokl."
+    },
+    "emptyFolder": "Byla zjištěna prázdná složka",
+    "emptyMesh": {
+      "message": "Geometrická data skenu nebyla nalezena",
+      "title": "Prázdný sken"
+    },
+    "failedToProcessCases_one": "Nepodařilo se zpracovat {{count}} případ",
+    "failedToProcessCases_other": "Nepodařilo se zpracovat případy (počet: {{count}})",
+    "missingUpperAndLower": {
+      "message": "Názvy skenů neodpovídají žádné rozpoznané konvenci. Upravte názvy souborů nebo vytvořte novou konvenci pojmenování. <a>Další informace</a>",
+      "title": "Skeny nelze rozpoznat"
+    },
+    "missingUpperOrLower": {
+      "message": "V případu chybí sken dolní nebo horní čelisti",
+      "title": "Chybějící sken"
+    },
+    "noScansDetected": "Nebyly zjištěny žádné soubory skenů",
+    "resolutionLowered": {
+      "message": "Sken s vysokým rozlišením byl zjednodušen na 400 000 vrcholů, aby se zlepšil výkon zpracování.",
+      "title": "Rozlišení sníženo"
+    },
+    "unsupportedFileStructure": "Nepodporovaná struktura souborů"
+  },
+  "files": {
+    "cases": "cases-{{time}}.zip",
+    "designs": "designs-{{time}}.zip"
+  },
+  "filters": {
+    "all": "Vše",
+    "designed": "Navrženo",
+    "downloaded": "Staženo",
+    "issues": "Problémy",
+    "rejected": "Zamítnuto"
+  },
+  "issues": {
+    "modelBasing": {
+      "basingError": {
+        "message": "Model se soklem nelze vygenerovat.\n<a>Další informace</a> o této chybě.",
+        "status": "Model se soklem nelze vygenerovat"
+      },
+      "hollowingError": {
+        "message": "Nepodařilo se vygenerovat dutý model.\n<a>Další informace</a> o této chybě.",
+        "status": "Nepodařilo se vygenerovat dutý model"
+      },
+      "occlusalPlaneError": {
+        "message": "Okluzní rovinu nelze vypočítat.\n<a>Další informace</a> o této chybě.",
+        "status": "Okluzní rovinu nelze vypočítat"
+      },
+      "pillarGenerationError": {
+        "message": "Nepodařilo se vygenerovat nástavce.\n<a>Další informace</a> o této chybě.",
+        "status": "Nepodařilo se vygenerovat nástavce"
+      },
+      "preprocessingError": {
+        "message": "Nepodařilo se předzpracovat skeny.\n<a>Další informace</a> o této chybě.",
+        "status": "Skeny nelze předzpracovat"
+      },
+      "retry": {
+        "asSolid": "Zopakovat návrh jako plný model? <a>Zopakovat</a>",
+        "withoutAttachments": "Zopakovat návrh bez nástavců? <a>Zopakovat</a>"
+      },
+      "textGenerationError": {
+        "message": "K modelu nelze přidat textový štítek.\n<a>Další informace</a> o této chybě.",
+        "status": "Nepodařilo se vygenerovat celý štítek"
+      },
+      "textGenerationWarning": {
+        "message": "K modelu nelze přidat úplný textový štítek. Pravděpodobně není dostatek volného místa pro danou délku textu.\n<a>Další informace</a> o této chybě.",
+        "status": "Nepodařilo se vygenerovat celý štítek"
+      },
+      "toothSegmentationError": {
+        "message": "Zuby nelze klasifikovat.\n<a>Další informace</a> o této chybě.",
+        "status": "Zuby nelze klasifikovat"
+      },
+      "ventGenerationError": {
+        "message": "Nepodařilo se vygenerovat odtokové otvory.\n<a>Další informace</a> o této chybě.",
+        "status": "Nepodařilo se vygenerovat odtokové otvory"
+      }
+    }
+  },
+  "label": {
+    "addingCases": "Přidávání případů...",
+    "addingCases_amount": "Přidávání případů... ({{amount}}/{{total}})",
+    "caseInformation": "Informace o případu",
+    "caseName": "Název případu",
+    "casesAdded": "Případy přidány! ({{amount}}/{{total}})",
+    "deleteDesign": "Smazat návrh",
+    "designedModel": "Navrženo",
+    "dontRemindMe": "Znovu nepřipomínat",
+    "downloadCases": "Stáhnout případy",
+    "downloadScans": "Stáhnout skeny",
+    "dropFile": "Přidat soubor do případu",
+    "enterCaseName": "Zadejte název případu",
+    "enterNewCaseName": "Zadejte nový název případu",
+    "estimatedTime": "Odhadovaný čas",
+    "failedToMarkAsRejected_one": "Případ se nepodařilo označit jako zamítnutý",
+    "failedToMarkAsRejected_other": "Případy se nepodařilo označit jako zamítnuté (počet: {{count}})",
+    "markingCasesAsRejected_one": "Označování případu jako zamítnutého",
+    "markingCasesAsRejected_other": "Označování případů jako zamítnutých (počet: {{count}})",
+    "rejectedBy": "Zamítl(a)",
+    "renameDesign": "Přejmenovat návrh",
+    "scan": "Sken",
+    "scanUploadCancelled": "{{scanName}} (zrušeno)",
+    "search": "Hledat",
+    "selectDownloadOption": "vyberte možnost stažení",
+    "sendingToFunnel": "Odesílání do Funnel",
+    "template": "Šablona",
+    "uploadComplete": "Nahrávání dokončeno",
+    "uploadedAt": "Nahráno",
+    "uploadedBy": "Nahrál(a)",
+    "uploading": "Nahrávání"
+  },
+  "message": {
+    "basedModelsUploaded": "Zdá se, že jeden nebo více vašich souborů již jsou modely se soklem. Nahrajte surové skeny pro vygenerování modelů se soklem.\n\n<a>Dejte nám vědět</a>, pokud jste očekávali, že budete moci použít modely se soklem, nebo máte jinou zpětnou vazbu.",
+    "downloadRejectedDesigns_one": "Z vašeho účtu bude odečteno {{cost}} kreditů.",
+    "downloadRejectedDesigns_other": "Váš výběr obsahuje případy, které byly dříve zamítnuty (počet: {{count}}).\n\nZ vašeho účtu bude odečteno {{cost}} kreditů.",
+    "downloadRejectedInsufficientCredits_one": "Zamítnuté návrhy nelze stáhnout z důvodu nedostatku kreditů.\n\nO dobití kreditů požádejte administrátora nebo vlastníka organizace.",
+    "downloadRejectedInsufficientCredits_other": "Váš výběr obsahuje případy, které byly dříve zamítnuty (počet: {{count}}).\n\nChcete-li tyto zamítnuté návrhy stáhnout, požádejte administrátora nebo vlastníka organizace o dobití kreditů.",
+    "downloadRejectedInsufficientCreditsAdmin_one": "Zamítnuté návrhy nelze stáhnout z důvodu nedostatku kreditů.\n\nChcete-li tyto zamítnuté návrhy stáhnout, dobijte kredity na svém účtu.",
+    "downloadRejectedInsufficientCreditsAdmin_other": "Váš výběr obsahuje případy, které byly dříve zamítnuty (počet: {{count}}).\n\nChcete-li tyto zamítnuté návrhy stáhnout, dobijte kredity na svém účtu.",
+    "draggedCase_zero": "{{name}}",
+    "draggedCase_one": "<shrink>{{name}}</shrink> <span>a {{count}} další</span>",
+    "draggedCase_other": "<shrink>{{name}}</shrink> <span>a další ({{count}})</span>",
+    "emptyFolderHelp": "Ve vybrané složce nebyly zjištěny žádné soubory. Zkontrolujte její obsah a zkuste to znovu.",
+    "markCasesAsRejected": "Zamítnuté návrhy nelze stáhnout. Veškeré kredity blokované pro tento návrh budou vráceny.",
+    "noCases": "Nebyly nalezeny žádné případy",
+    "noScans": "Tento případ nemá žádné skeny.",
+    "noScansDetectedHelp": "Ve vybrané složce nebyly zjištěny žádné soubory ve formátu STL nebo PLY.",
+    "processingCases_one": "Zpracování případu",
+    "processingCases_other": "Zpracování případů (počet: {{count}})",
+    "quitUploadWarning": "Návrhy pro vybrané případy nebudou zpracovány.",
+    "rejectedReason": "Dejte nám vědět, proč jste tento návrh zamítli:",
+    "sortCasesByIssues": "Případy v seznamu jsou přeuspořádány tak, aby se případy s problémy zobrazovaly jako první.",
+    "unsupportedFileStructureHelp": "Přijímány jsou pouze soubory STL nebo PLY."
+  },
+  "scans": {
+    "combined": "Kombinovaný",
+    "lower": "Dolní čelist",
+    "unspecified": "Neurčeno",
+    "upper": "Horní čelist"
+  },
+  "status": {
+    "complete": "Návrh dokončen",
+    "downloaded": "Staženo",
+    "failed": "Selhalo",
+    "insufficientCredits": "Nedostatek kreditů",
+    "pendingUpload": "Nahrávání",
+    "processing": "Zpracovává se",
+    "rejected": "Zamítnuto",
+    "toProcess": "Ke zpracování",
+    "unknown": "Neznámý stav",
+    "uploaded": "Nahráno"
+  },
+  "table": {
+    "emptyState": {
+      "all": {
+        "header": "Zatím nebyly vytvořeny žádné návrhy",
+        "paragraph": "Případy návrhů se zde zobrazí po nahrání skenů\nChcete-li začít, vyberte tlačítko Vytvořit"
+      },
+      "designed": {
+        "header": "Zatím nebyly vytvořeny žádné návrhy",
+        "paragraph": "Případy návrhů se zde zobrazí po nahrání skenů\nChcete-li začít, vyberte tlačítko Vytvořit"
+      },
+      "downloaded": {
+        "header": "Žádné stažené návrhy",
+        "paragraph": "Zde se zobrazí návrhy, které byly staženy"
+      },
+      "issues": {
+        "header": "Žádné problémy s návrhy",
+        "paragraph": "Zde se zobrazí všechny návrhy, které mají problémy"
+      },
+      "processing": {
+        "header": "Momentálně se nezpracovávají žádné návrhy",
+        "paragraph": "Zde se zobrazí zpracovávané návrhy"
+      },
+      "rejected": {
+        "header": "Žádné zamítnuté návrhy",
+        "paragraph": "Zde se zobrazí návrhy, které byly zamítnuty"
+      }
+    }
+  },
+  "text": {
+    "permanentlyRemoveCase_one": "Tento případ bude trvale odstraněn ze systému.",
+    "permanentlyRemoveCase_other": "Případy (počet: {{count}}) budou trvale odstraněny ze systému."
+  },
+  "title": {
+    "caseID": "ID případu",
+    "caseName": "Název případu",
+    "caseNumber": "Číslo případu",
+    "cases": "Případy",
+    "completeWithIssues": "Dokončeno s problémy",
+    "designs": "Návrhy",
+    "downloadRejectedDesigns": "Stáhnout zamítnuté návrhy?",
+    "failed": "Selhalo",
+    "name": "Název",
+    "newCase": "Nový případ",
+    "quitUploadWarning": "Zahodit návrhy?",
+    "received": "Přijato",
+    "rejectDesign": "Zamítnout návrh?",
+    "scanType": "Typ skenu",
+    "sortCasesByIssues": "Seřadit případy podle problémů",
+    "status": "Stav",
+    "untitled": "Bez názvu",
+    "uploadRawScans": "Nahrát surové skeny",
+    "uploads": "Nahrávání"
+  },
+  "toast": {
+    "allCasesNotReadyToDownload": "Vybrané případy nejsou připraveny ke stažení",
+    "caseUpdated": "Případ byl úspěšně aktualizován",
+    "failedToDownloadCase": "Nepodařilo se stáhnout případ {{caseName}}",
+    "failedToGenerateZip": "Nepodařilo se vygenerovat soubor ZIP",
+    "failedToLoadCase_one": "Nepodařilo se načíst případ",
+    "failedToLoadCase_other": "Nepodařilo se načíst případy (počet: {{count}})",
+    "failedToLoadCaseRanOutOfSpace_one": "Nepodařilo se načíst případ, v prohlížeči došlo místo",
+    "failedToLoadCaseRanOutOfSpace_other": "Nepodařilo se načíst případy (počet: {{count}}), v prohlížeči došlo místo",
+    "nameUpdateFailed": "Aktualizace názvu se nezdařila",
+    "processingUpload": "Zpracování případu ke stažení",
+    "processingUploads": "Zpracování případů ke stažení: {{amount}}/{{total}}",
+    "scanResolutionLowered_one": "Sken s vysokým rozlišením byl zjednodušen na 400 000 vrcholů, aby se zlepšil výkon zpracování",
+    "scanResolutionLowered_other": "Skeny s vysokým rozlišením byly zjednodušeny na 400 000 vrcholů, aby se zlepšil výkon zpracování (počet: {{count}})",
+    "someCasesNotReadyToDownload": "Některé z vybraných případů nejsou připraveny ke stažení",
+    "statusUpdatedToDownloaded": "Případ {{caseName}} byl přesunut z navržených do stažených",
+    "statusUpdateFailed": "Nepodařilo se změnit stav případu na stažený",
+    "unableToDownloadCases_one": "Případ nelze stáhnout",
+    "unableToDownloadCases_other": "Případy nelze stáhnout (počet: {{count}})",
+    "unableToDownloadDesigns_one": "Návrh nelze stáhnout",
+    "unableToDownloadDesigns_other": "Návrhy nelze stáhnout (počet: {{count}})",
+    "unableToDownloadFiles": "Soubory nelze stáhnout"
+  },
+  "uploadModal": {
+    "multipleScans": {
+      "message": "Tento případ obsahuje více použitelných skenů. Použijí se nejnovější skeny horní a/nebo dolní čelisti.",
+      "title": "Více skenů"
+    },
+    "text": {
+      "designTemplate": "Šablona návrhu",
+      "dragAndDrop": "Přetáhněte soubory nebo složky obsahující intraorální skeny PLY nebo STL",
+      "hoverDragAndDrop": "Pusťte složky případů nebo intraorální skeny pro vytvoření návrhů",
+      "or": "nebo",
+      "processUploads": "Zpracovat",
+      "scansHaveIssues_one": "{{count}} případ má problémy",
+      "scansHaveIssues_other": "Počet případů s problémy: {{count}}",
+      "title": "Nahrát skeny"
+    }
+  },
+  "uploadScans": {
+    "lower": "Dolní",
+    "unknown": "Neznámý",
+    "upper": "Horní"
+  }
+}
